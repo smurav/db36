@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>open.png</file>
+        <file>db_connect.png</file>
+    </qresource>
+</RCC>
