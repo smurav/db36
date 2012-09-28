@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>open.png</file>
         <file>db_connect.png</file>
+        <file>command.png</file>
     </qresource>
 </RCC>

@@ -43,8 +43,11 @@ RESOURCES = ./res/resource.qrc
 MOC_DIR = $${OBJECTS_DIR}
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    querydialog.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    querydialog.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    querydialog.ui

@@ -1,8 +1,8 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created: Fri Sep 21 11:06:15 2012
-**      by: Qt User Interface Compiler version 4.8.0
+** Created: Thu Sep 27 14:28:52 2012
+**      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -19,7 +19,7 @@
 #include <QtGui/QMainWindow>
 #include <QtGui/QMenuBar>
 #include <QtGui/QStatusBar>
-#include <QtGui/QTableView>
+#include <QtGui/QTextEdit>
 #include <QtGui/QToolBar>
 #include <QtGui/QWidget>
 
@@ -29,9 +29,10 @@ class Ui_MainWindow
 {
 public:
     QAction *action_connect_db;
+    QAction *action_sql_command;
     QWidget *centralWidget;
     QGridLayout *gridLayout;
-    QTableView *tableView;
+    QTextEdit *log;
     QMenuBar *menuBar;
     QToolBar *mainToolBar;
     QStatusBar *statusBar;
@@ -47,21 +48,28 @@ public:
         QIcon icon;
         icon.addFile(QString::fromUtf8(":/db_connect.png"), QSize(), QIcon::Normal, QIcon::Off);
         action_connect_db->setIcon(icon);
+        action_sql_command = new QAction(MainWindow);
+        action_sql_command->setObjectName(QString::fromUtf8("action_sql_command"));
+        action_sql_command->setEnabled(false);
+        QIcon icon1;
+        icon1.addFile(QString::fromUtf8(":/command.png"), QSize(), QIcon::Normal, QIcon::Off);
+        action_sql_command->setIcon(icon1);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         gridLayout = new QGridLayout(centralWidget);
         gridLayout->setSpacing(3);
         gridLayout->setContentsMargins(3, 3, 3, 3);
         gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
-        tableView = new QTableView(centralWidget);
-        tableView->setObjectName(QString::fromUtf8("tableView"));
+        log = new QTextEdit(centralWidget);
+        log->setObjectName(QString::fromUtf8("log"));
+        log->setReadOnly(true);
 
-        gridLayout->addWidget(tableView, 0, 0, 1, 1);
+        gridLayout->addWidget(log, 0, 0, 1, 1);
 
         MainWindow->setCentralWidget(centralWidget);
         menuBar = new QMenuBar(MainWindow);
         menuBar->setObjectName(QString::fromUtf8("menuBar"));
-        menuBar->setGeometry(QRect(0, 0, 569, 25));
+        menuBar->setGeometry(QRect(0, 0, 569, 23));
         MainWindow->setMenuBar(menuBar);
         mainToolBar = new QToolBar(MainWindow);
         mainToolBar->setObjectName(QString::fromUtf8("mainToolBar"));
@@ -72,6 +80,8 @@ public:
         MainWindow->setStatusBar(statusBar);
 
         mainToolBar->addAction(action_connect_db);
+        mainToolBar->addSeparator();
+        mainToolBar->addAction(action_sql_command);
 
         retranslateUi(MainWindow);
 
@@ -80,8 +90,9 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "MainWindow", 0, QApplication::UnicodeUTF8));
+        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "db36", 0, QApplication::UnicodeUTF8));
         action_connect_db->setText(QApplication::translate("MainWindow", "\320\241\320\276\320\265\320\264\320\270\320\275\320\270\321\202\321\214\321\201\321\217 \321\201 \320\221\320\224", 0, QApplication::UnicodeUTF8));
+        action_sql_command->setText(QApplication::translate("MainWindow", "\320\272\320\276\320\274\320\260\320\275\320\264\320\260 SQL", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 
 };

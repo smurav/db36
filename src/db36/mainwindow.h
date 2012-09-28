@@ -1,7 +1,7 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QMainWindow>
+#include <QtGui>
 #include <libpq-fe.h>
 
 namespace Ui {
@@ -15,13 +15,16 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
-    
-private slots:
-    void on_action_connect_db_triggered(bool checked);
 
- private:
+private:
   bool ConnectToDB();
   void DisconnectFromDB();
+  void Log(const QString &message, Qt::GlobalColor color = Qt::black);
+  bool ExecuteSQL(const QString &query);
+
+private slots:
+    void on_action_connect_db_triggered(bool checked);
+    void on_action_sql_command_triggered();
 
 private:
     Ui::MainWindow *ui;

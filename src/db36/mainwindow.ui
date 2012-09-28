@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>db36</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -22,7 +22,11 @@
      <number>3</number>
     </property>
     <item row="0" column="0">
-     <widget class="QTableView" name="tableView"/>
+     <widget class="QTextEdit" name="log">
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
+     </widget>
     </item>
    </layout>
   </widget>
@@ -32,7 +36,7 @@
      <x>0</x>
      <y>0</y>
      <width>569</width>
-     <height>25</height>
+     <height>23</height>
     </rect>
    </property>
   </widget>
@@ -50,6 +54,8 @@
     <bool>false</bool>
    </attribute>
    <addaction name="action_connect_db"/>
+   <addaction name="separator"/>
+   <addaction name="action_sql_command"/>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
   <action name="action_connect_db">
@@ -62,6 +68,18 @@
    </property>
    <property name="text">
     <string>Соединиться с БД</string>
+   </property>
+  </action>
+  <action name="action_sql_command">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="res/resource.qrc">
+     <normaloff>:/command.png</normaloff>:/command.png</iconset>
+   </property>
+   <property name="text">
+    <string>команда SQL</string>
    </property>
   </action>
  </widget>
