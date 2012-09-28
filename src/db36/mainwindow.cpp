@@ -1,7 +1,8 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "querydialog.h"
-//#include "/usr/include/pgsql//server/catalog/pg_type.h"
+//#include "/usr/include/pgsql/server/catalog/pg_type.h"
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
@@ -28,7 +29,7 @@ void MainWindow::on_action_connect_db_triggered(bool checked) {
 
 bool MainWindow::ConnectToDB() {
   DisconnectFromDB();
-  QString connection_string = "dbname=test user=postgres password=123456";
+  QString connection_string = "dbname=mephi user=postgres password=123456";
   db_connection_ = PQconnectdb(connection_string.toAscii().data());
   if (PQstatus(db_connection_) == CONNECTION_BAD) {
     QMessageBox::critical(0,
