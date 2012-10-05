@@ -16,8 +16,12 @@ public:
     ~QueryDialog();
     QString GetQueryText();
     
+private slots:
+    void on_buttonBox_accepted();
+
 private:
     Ui::QueryDialog *ui;
+    QString query_;
 };
 
 #endif // QUERYDIALOG_H

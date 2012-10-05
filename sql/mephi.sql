@@ -29,8 +29,7 @@ SET default_with_oids = false;
 --
 
 CREATE TABLE disciplines (
-    discipline_id integer NOT NULL,
-    discipline_name character varying NOT NULL,
+    discipline_id integer NOT [24;1H[?1049l[?1l>me character varying NOT NULL,
     teacher_id character varying NOT NULL
 );
 

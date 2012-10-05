@@ -54,8 +54,10 @@
     <bool>false</bool>
    </attribute>
    <addaction name="action_connect_db"/>
-   <addaction name="separator"/>
    <addaction name="action_sql_command"/>
+   <addaction name="action_upload_blob_to_db"/>
+   <addaction name="action_download_blob_from_db"/>
+   <addaction name="separator"/>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
   <action name="action_connect_db">
@@ -80,6 +82,24 @@
    </property>
    <property name="text">
     <string>команда SQL</string>
+   </property>
+  </action>
+  <action name="action_upload_blob_to_db">
+   <property name="icon">
+    <iconset resource="res/resource.qrc">
+     <normaloff>:/open.png</normaloff>:/open.png</iconset>
+   </property>
+   <property name="text">
+    <string>Поместить файл в БД</string>
+   </property>
+  </action>
+  <action name="action_download_blob_from_db">
+   <property name="icon">
+    <iconset resource="res/resource.qrc">
+     <normaloff>:/save.png</normaloff>:/save.png</iconset>
+   </property>
+   <property name="text">
+    <string>Выгрузить файл из БД</string>
    </property>
   </action>
  </widget>

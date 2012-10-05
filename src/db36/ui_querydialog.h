@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'querydialog.ui'
 **
-** Created: Thu Sep 27 14:50:21 2012
+** Created: Thu Oct 4 16:04:56 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -66,7 +66,7 @@ public:
     void retranslateUi(QDialog *QueryDialog)
     {
         QueryDialog->setWindowTitle(QApplication::translate("QueryDialog", "SQL", 0, QApplication::UnicodeUTF8));
-        sql_query->setText(QApplication::translate("QueryDialog", "SELECT * FROM tablename;", 0, QApplication::UnicodeUTF8));
+        sql_query->setText(QApplication::translate("QueryDialog", "SELECT * FROM table", 0, QApplication::UnicodeUTF8));
         label->setText(QApplication::translate("QueryDialog", "\320\232\320\276\320\274\320\260\320\275\320\264\320\260", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 

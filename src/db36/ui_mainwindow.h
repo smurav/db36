@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created: Thu Sep 27 14:28:52 2012
+** Created: Thu Oct 4 16:09:21 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -30,6 +30,8 @@ class Ui_MainWindow
 public:
     QAction *action_connect_db;
     QAction *action_sql_command;
+    QAction *action_upload_blob_to_db;
+    QAction *action_download_blob_from_db;
     QWidget *centralWidget;
     QGridLayout *gridLayout;
     QTextEdit *log;
@@ -54,6 +56,16 @@ public:
         QIcon icon1;
         icon1.addFile(QString::fromUtf8(":/command.png"), QSize(), QIcon::Normal, QIcon::Off);
         action_sql_command->setIcon(icon1);
+        action_upload_blob_to_db = new QAction(MainWindow);
+        action_upload_blob_to_db->setObjectName(QString::fromUtf8("action_upload_blob_to_db"));
+        QIcon icon2;
+        icon2.addFile(QString::fromUtf8(":/open.png"), QSize(), QIcon::Normal, QIcon::Off);
+        action_upload_blob_to_db->setIcon(icon2);
+        action_download_blob_from_db = new QAction(MainWindow);
+        action_download_blob_from_db->setObjectName(QString::fromUtf8("action_download_blob_from_db"));
+        QIcon icon3;
+        icon3.addFile(QString::fromUtf8(":/save.png"), QSize(), QIcon::Normal, QIcon::Off);
+        action_download_blob_from_db->setIcon(icon3);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         gridLayout = new QGridLayout(centralWidget);
@@ -80,8 +92,10 @@ public:
         MainWindow->setStatusBar(statusBar);
 
         mainToolBar->addAction(action_connect_db);
-        mainToolBar->addSeparator();
         mainToolBar->addAction(action_sql_command);
+        mainToolBar->addAction(action_upload_blob_to_db);
+        mainToolBar->addAction(action_download_blob_from_db);
+        mainToolBar->addSeparator();
 
         retranslateUi(MainWindow);
 
@@ -93,6 +107,8 @@ public:
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "db36", 0, QApplication::UnicodeUTF8));
         action_connect_db->setText(QApplication::translate("MainWindow", "\320\241\320\276\320\265\320\264\320\270\320\275\320\270\321\202\321\214\321\201\321\217 \321\201 \320\221\320\224", 0, QApplication::UnicodeUTF8));
         action_sql_command->setText(QApplication::translate("MainWindow", "\320\272\320\276\320\274\320\260\320\275\320\264\320\260 SQL", 0, QApplication::UnicodeUTF8));
+        action_upload_blob_to_db->setText(QApplication::translate("MainWindow", "\320\237\320\276\320\274\320\265\321\201\321\202\320\270\321\202\321\214 \321\204\320\260\320\271\320\273 \320\262 \320\221\320\224", 0, QApplication::UnicodeUTF8));
+        action_download_blob_from_db->setText(QApplication::translate("MainWindow", "\320\222\321\213\320\263\321\200\321\203\320\267\320\270\321\202\321\214 \321\204\320\260\320\271\320\273 \320\270\320\267 \320\221\320\224", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 
 };

@@ -14,5 +14,9 @@ QueryDialog::~QueryDialog()
 }
 
 QString QueryDialog::GetQueryText() {
-  return ui->sql_query->text();
+  return query_;
  }
+
+void QueryDialog::on_buttonBox_accepted() {
+  query_ = ui->sql_query->text();
+}
