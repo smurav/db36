@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "querydialog.h"
+#include "progressbar.h"
 //#include "/usr/include/pgsql//server/catalog/pg_type.h"
 
 #define BUF_SIZE 1024
@@ -32,12 +33,13 @@ void MainWindow::on_action_connect_db_triggered(bool checked) {
 
 bool MainWindow::ConnectToDB() {
   DisconnectFromDB();
-  QString connection_string = "dbname=test user=postgres password=123456";
+  QString connection_string = "dbname=mephi user=postgres password=123456";
   db_connection_ = PQconnectdb(connection_string.toAscii().data());
+  qDebug() << PQsetClientEncoding(db_connection_,"UNICODE");
   if (PQstatus(db_connection_) == CONNECTION_BAD) {
     QMessageBox::critical(0,
                           tr("Ошибка"),
-                          tr(PQerrorMessage(db_connection_)),
+                          PQerrorMessage(db_connection_),
                           QMessageBox::Ok);
     PQfinish(db_connection_);
     db_connection_ = 0;
@@ -121,6 +123,11 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
 
   QFile file(file_name_);
   if (file.open(QIODevice::ReadOnly)) {
+    ProgressBar *progress_bar = new ProgressBar(this);
+    progress_bar -> show();
+    connect(this, SIGNAL(signalValueChanged(int,int)), progress_bar, SLOT(slotSetValueOnProgressBar(int,int)));
+    this -> setEnabled(false);
+    const int file_size = file.size();
     PGresult *result = PQexec(db_connection_, "begin");
     PQclear(result);
     blob_oid_ = lo_create(db_connection_, 0);
@@ -138,6 +145,7 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
               Log(QString::fromLocal8Bit(PQerrorMessage(db_connection_)), Qt::darkRed);
               break;
             }
+            emit signalValueChanged(bytes_written, file_size);
           }
         }
         Log(tr("BLOB записан\n"), Qt::darkGreen);
@@ -150,7 +158,7 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
     result = PQexec(db_connection_, "end");
     PQclear(result);
   }
-
+  this -> setEnabled(true);
   QApplication::restoreOverrideCursor();
   UpdateButtons();
 }
