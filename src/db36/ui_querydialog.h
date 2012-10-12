@@ -1,8 +1,8 @@
 /********************************************************************************
 ** Form generated from reading UI file 'querydialog.ui'
 **
-** Created: Thu Oct 4 16:04:56 2012
-**      by: Qt User Interface Compiler version 4.8.1
+** Created: Fri Oct 12 10:10:50 2012
+**      by: Qt User Interface Compiler version 4.8.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/

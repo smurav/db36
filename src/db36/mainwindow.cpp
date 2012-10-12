@@ -1,7 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "querydialog.h"
-#include "progressbar.h"
 //#include "/usr/include/pgsql//server/catalog/pg_type.h"
 
 #define BUF_SIZE 1024
@@ -12,6 +11,8 @@ MainWindow::MainWindow(QWidget *parent) :
   ui->setupUi(this);
   db_connection_ = 0;
   blob_oid_ = 0;
+  blob_thread_ = 0;
+  progress_bar_ = 0;
   UpdateButtons();
 }
 
@@ -59,7 +60,7 @@ void MainWindow::DisconnectFromDB() {
   UpdateButtons();
 }
 
-void MainWindow::Log(const QString &message, Qt::GlobalColor color) {
+void MainWindow::Log(QString message, Qt::GlobalColor color) {
   QTextCharFormat text_format;
   text_format.setForeground(QBrush(color));
   QTextCursor cursor(ui->log->textCursor());
@@ -106,60 +107,50 @@ void MainWindow::UpdateButtons() {
   if (ui) {
     ui->action_connect_db->setChecked(connected);
     ui->action_sql_command->setEnabled(connected);
-    ui->action_upload_blob_to_db->setEnabled(connected);
-    ui->action_download_blob_from_db->setEnabled(connected && blob_oid_);
+    ui->action_upload_blob_to_db->setEnabled(connected && (0 == blob_thread_));
+    ui->action_download_blob_from_db->setEnabled(connected && blob_oid_ && (0 == blob_thread_));
   }
 }
 
 void MainWindow::on_action_upload_blob_to_db_triggered() {
+  if (blob_thread_ || progress_bar_)
+    return;
+
   file_name_ = QFileDialog::getOpenFileName(this,
                                                   tr("Выберите файл для загрузки в БД"),
                                                   file_name_);
-
   if (0 == file_name_.length())
     return;
 
-  QApplication::setOverrideCursor(QCursor(Qt::WaitCursor));
+  PGresult *result = PQexec(db_connection_, "begin");
+  PQclear(result);
+  blob_oid_ = lo_create(db_connection_, 0);
+  result = PQexec(db_connection_, "end");
+  PQclear(result);
+
+  blob_thread_ = new BLOBThread(this, db_connection_, file_name_, blob_oid_);
+  if (0 == blob_thread_)
+    return;
+  connect(blob_thread_,
+          SIGNAL(Log(QString, Qt::GlobalColor)),
+          this,
+          SLOT(Log(QString, Qt::GlobalColor)));
+  connect(blob_thread_,
+          SIGNAL(SignalProgressChanged(int)),
+          progress_bar_,
+          SLOT(slotSetValueOnProgressBar(int)));
 
   QFile file(file_name_);
-  if (file.open(QIODevice::ReadOnly)) {
-    ProgressBar *progress_bar = new ProgressBar(this);
-    progress_bar -> show();
-    connect(this, SIGNAL(signalValueChanged(int,int)), progress_bar, SLOT(slotSetValueOnProgressBar(int,int)));
-    this -> setEnabled(false);
-    const int file_size = file.size();
-    PGresult *result = PQexec(db_connection_, "begin");
-    PQclear(result);
-    blob_oid_ = lo_create(db_connection_, 0);
-    if (blob_oid_) {
-      int blob_fd = lo_open(db_connection_, blob_oid_, INV_WRITE);
-      if (-1 == blob_fd) {
-        Log(QString::fromLocal8Bit(PQerrorMessage(db_connection_)), Qt::darkRed);
-        Log(tr("Ошибка открытия BLOBа\n"), Qt::darkRed);
-      } else {
-        while (!file.atEnd()) {
-          QByteArray buffer = file.read(BUF_SIZE);
-          if (buffer.size()) {
-            int bytes_written = lo_write(db_connection_, blob_fd, buffer.data(), buffer.size());
-            if (bytes_written < buffer.size()) {
-              Log(QString::fromLocal8Bit(PQerrorMessage(db_connection_)), Qt::darkRed);
-              break;
-            }
-            emit signalValueChanged(bytes_written, file_size);
-          }
-        }
-        Log(tr("BLOB записан\n"), Qt::darkGreen);
-        lo_close(db_connection_, blob_fd);
-      }
-    } else {
-      Log(QString::fromLocal8Bit(PQerrorMessage(db_connection_)), Qt::darkRed);
-    }
-    file.close();
-    result = PQexec(db_connection_, "end");
-    PQclear(result);
+  progress_bar_ = new ProgressBar(this);
+  if (0 == progress_bar_) {
+    delete blob_thread_;
+    blob_thread_ = 0;
   }
-  this -> setEnabled(true);
-  QApplication::restoreOverrideCursor();
+  progress_bar_->SetMaximum(file.size());
+  progress_bar_->show();
+
+  blob_thread_->start();
+
   UpdateButtons();
 }
 

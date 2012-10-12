@@ -46,11 +46,13 @@ MOC_DIR = $${OBJECTS_DIR}
 SOURCES += main.cpp\
         mainwindow.cpp \
     querydialog.cpp \
-    progressbar.cpp
+    progressbar.cpp \
+    blobthread.cpp
 
 HEADERS  += mainwindow.h \
     querydialog.h \
-    progressbar.h
+    progressbar.h \
+    blobthread.h
 
 FORMS    += mainwindow.ui \
     querydialog.ui \

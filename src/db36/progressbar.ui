@@ -7,13 +7,19 @@
     <x>0</x>
     <y>0</y>
     <width>423</width>
-    <height>71</height>
+    <height>89</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Загрузка файла</string>
   </property>
-  <layout class="QFormLayout" name="formLayout">
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="margin">
+    <number>3</number>
+   </property>
+   <property name="spacing">
+    <number>3</number>
+   </property>
    <item row="0" column="0">
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
@@ -30,10 +36,34 @@
        </property>
       </widget>
      </item>
+     <item>
+      <widget class="QPushButton" name="cancel_button">
+       <property name="text">
+        <string>Отмена</string>
+       </property>
+      </widget>
+     </item>
     </layout>
    </item>
   </layout>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>cancel_button</sender>
+   <signal>clicked()</signal>
+   <receiver>ProgressBar</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>211</x>
+     <y>71</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>211</x>
+     <y>44</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
 </ui>
