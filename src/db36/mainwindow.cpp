@@ -123,11 +123,12 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
 
   QFile file(file_name_);
   if (file.open(QIODevice::ReadOnly)) {
+
     ProgressBar *progress_bar = new ProgressBar(this);
     progress_bar -> show();
-    connect(this, SIGNAL(signalValueChanged(int,int)), progress_bar, SLOT(slotSetValueOnProgressBar(int,int)));
-    this -> setEnabled(false);
-    const int file_size = file.size();
+    connect(this, SIGNAL(signalValueChanged(int)), progress_bar, SLOT(slotSetValueOnProgressBar(int)));
+    progress_bar -> setMaximum(file.size());
+
     PGresult *result = PQexec(db_connection_, "begin");
     PQclear(result);
     blob_oid_ = lo_create(db_connection_, 0);
@@ -145,7 +146,7 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
               Log(QString::fromLocal8Bit(PQerrorMessage(db_connection_)), Qt::darkRed);
               break;
             }
-            emit signalValueChanged(bytes_written, file_size);
+            emit signalValueChanged(bytes_written);
           }
         }
         Log(tr("BLOB записан\n"), Qt::darkGreen);
@@ -158,7 +159,6 @@ void MainWindow::on_action_upload_blob_to_db_triggered() {
     result = PQexec(db_connection_, "end");
     PQclear(result);
   }
-  this -> setEnabled(true);
   QApplication::restoreOverrideCursor();
   UpdateButtons();
 }

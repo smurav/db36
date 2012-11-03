@@ -13,8 +13,13 @@ ProgressBar::~ProgressBar() {
     delete ui;
 }
 
-
-void ProgressBar::slotSetValueOnProgressBar(int written_bytes, int file_size) {
-    loaded_bytes_ += written_bytes;
-    ui -> progress_bar_ -> setValue(loaded_bytes_ / file_size);
+void ProgressBar::setMaximum(int maximum_value) {
+    ui -> progress_bar_ -> setMaximum(maximum_value);
 }
+
+void ProgressBar::slotSetValueOnProgressBar(int written_bytes) {
+    loaded_bytes_ += written_bytes;
+    ui -> progress_bar_ -> setValue(loaded_bytes_ );
+}
+
+

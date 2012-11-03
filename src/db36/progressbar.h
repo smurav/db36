@@ -14,12 +14,15 @@ class ProgressBar : public QDialog
 public:
     explicit ProgressBar(QWidget *parent = 0);
     ~ProgressBar();
+    void setMaximum(int maximum_value);
     
 private:
     Ui::ProgressBar *ui;
     int loaded_bytes_;
 public slots:
-    void slotSetValueOnProgressBar(int written_bytes, int file_size);
+    void slotSetValueOnProgressBar(int written_bytes);
+private slots:
+    void on_cancel_button__clicked();
 };
 
 #endif // PROGRESSBAR_H

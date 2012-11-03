@@ -7,13 +7,13 @@
     <x>0</x>
     <y>0</y>
     <width>423</width>
-    <height>71</height>
+    <height>97</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Загрузка файла</string>
   </property>
-  <layout class="QFormLayout" name="formLayout">
+  <layout class="QGridLayout" name="gridLayout">
    <item row="0" column="0">
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
@@ -32,8 +32,32 @@
      </item>
     </layout>
    </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="cancel_button_">
+     <property name="text">
+      <string>Отмена</string>
+     </property>
+    </widget>
+   </item>
   </layout>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>cancel_button_</sender>
+   <signal>clicked()</signal>
+   <receiver>ProgressBar</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>211</x>
+     <y>74</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>211</x>
+     <y>48</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
 </ui>
