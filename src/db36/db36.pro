@@ -29,7 +29,8 @@ debug {
 
 win32 {
 } else {
-  INCLUDEPATH += /usr/local/pgsql/include\
+  INCLUDEPATH += /usr/include/postgresql\
+                 /usr/include/postgresql/libpq\
                  /usr/include/libxml2\
                  /usr/include
   LIBS +=	-lxml2 -lpq
@@ -44,10 +45,15 @@ MOC_DIR = $${OBJECTS_DIR}
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    querydialog.cpp
+    querydialog.cpp \
+    progressbar.cpp \
+    blobthread.cpp
 
 HEADERS  += mainwindow.h \
-    querydialog.h
+    querydialog.h \
+    progressbar.h \
+    blobthread.h
 
 FORMS    += mainwindow.ui \
-    querydialog.ui
+    querydialog.ui \
+    progressbar.ui
