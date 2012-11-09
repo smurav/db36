@@ -16,7 +16,6 @@ public:
     ~ProgressBar();
  public:
   void SetMaximum(int maximum_value = 100);
-
 private:
     Ui::ProgressBar *ui;
     int progress_;

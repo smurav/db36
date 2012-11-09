@@ -36,7 +36,6 @@ private:
 
 private:
     Ui::MainWindow *ui;
-    PGconn* db_connection_;
     QString file_name_;
     Oid     blob_oid_;
     BLOBThread *blob_thread_;

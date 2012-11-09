@@ -25,3 +25,5 @@ void ProgressBar::slotSetValueOnProgressBar(int progress) {
 void ProgressBar::on_ProgressBar_rejected() {
   ui ->progress_bar_->setValue(0);
 }
+
+
