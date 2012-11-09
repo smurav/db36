@@ -12,6 +12,49 @@
 
 PG_MODULE_MAGIC;
 
+PG_FUNCTION_INFO_V1(get_group_name);
+
+Datum get_group_name(PG_FUNCTION_ARGS) {
+  
+  int group_id = PG_GETARG_INT32(0);
+
+  int ret = SPI_connect();
+  if (ret < 0)
+        elog(ERROR, "get_group_name: SPI_connect returned %d", ret);
+
+  char buf[1024];
+  sprintf(buf, "SELECT get_group_name_by_id(%d)", group_id);
+  elog (INFO, "get_group_name: %s", buf);
+
+  ret = SPI_exec(buf, 10);
+
+  if (ret < 0)
+    elog(ERROR, "get_group_name: SPI_exec returned %d", ret);
+  else
+    elog(INFO, "get_group_name: SPI_exec succeeded");
+
+  char *group_name = SPI_getvalue(SPI_tuptable->vals[0],
+                                  SPI_tuptable->tupdesc,
+                                  1);
+  SPI_finish();  
+
+  elog (INFO, "get_group_name: %s", group_name);
+
+  text *result = 0;
+  if (0 == group_name) {
+    elog(ERROR, "get_group_name: SPI_getvalue returned null");
+    result = (text *)palloc(VARHDRSZ);
+    SET_VARSIZE(result, VARHDRSZ);
+  } else {
+    int len = strlen(group_name);
+    result = (text *)palloc(VARHDRSZ + len);
+    SET_VARSIZE(result, VARHDRSZ + len);
+    memcpy(VARDATA(result), group_name, len);
+  }
+
+  PG_RETURN_TEXT_P(result);
+}
+
 PG_FUNCTION_INFO_V1(get_semester);
 
 typedef struct pg_tm pg_tm;
@@ -24,7 +67,7 @@ Datum get_semester(PG_FUNCTION_ARGS) {
   int entering_year, entering_month, entering_day;
   j2date(entering_date + date2j(2000, 1, 1), &entering_year, &entering_month, &entering_day);
 
-  int semester = current_date.tm_year - entering_year;
+  int semester = (current_date.tm_year - entering_year) * 2;
   if (current_date.tm_mon > 6)
     semester++;
   
