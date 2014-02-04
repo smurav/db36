@@ -1,7 +1,7 @@
 // Тестовые хранимые процедуры
 
 #include <time.h>
-
+#include <string.h>
 #include "postgres.h"
 #include "fmgr.h"
 #include "pgtime.h"
@@ -14,48 +14,91 @@ PG_MODULE_MAGIC;
 
 PG_FUNCTION_INFO_V1(get_group_name);
 
+char* get_request_result(int group_id, const char* request) {
+  int ret = SPI_connect();
+  if (ret < 0)
+        elog(ERROR, "get_request_result: SPI_connect returned %d", ret);
 
+  char buf[1024];
+  sprintf(buf, request, group_id);
+
+  ret = SPI_exec(buf, 10);
+
+  if (ret < 0)
+    elog(ERROR, "get_request_result: SPI_exec returned %d", ret);
+  else
+    elog(INFO, "get_request_result: SPI_exec succeeded");
+
+  char *result = SPI_getvalue(SPI_tuptable->vals[0],
+                                  SPI_tuptable->tupdesc,
+                                  1);
+  SPI_finish();  
+
+  elog (INFO, "get_request_result: %s", result);
+  return result;
+}
+
+char* get_request_semester(const char* date, const char* request) {
+  int ret = SPI_connect();
+  if (ret < 0)
+        elog(ERROR, "get_request_semester: SPI_connect returned %d", ret);
+
+  char buf[1024];
+  sprintf(buf, request, date);
+
+  ret = SPI_exec(buf, 10);
+
+  if (ret < 0)
+    elog(ERROR, "get_request_semester: SPI_exec returned %d", ret);
+  else
+    elog(INFO, "get_request_semester: SPI_exec succeeded");
+
+  char *result = SPI_getvalue(SPI_tuptable->vals[0],
+                                  SPI_tuptable->tupdesc,
+                                  1);
+  SPI_finish();  
+
+  elog (INFO, "get_request_semester: %s", result);
+  return result;
+}
 
 Datum get_group_name(PG_FUNCTION_ARGS) {
   
   int group_id = PG_GETARG_INT32(0);
 
-  int ret = SPI_connect();
-  if (ret < 0)
-        elog(ERROR, "get_group_name: SPI_connect returned %d", ret);
-
-  char buf[1024];
-  sprintf(buf, "SELECT get_group_name_by_id(%d)", group_id);
-  elog (INFO, "get_group_name: %s", buf);
-
-  ret = SPI_exec(buf, 10);
-
-  if (ret < 0)
-    elog(ERROR, "get_group_name: SPI_exec returned %d", ret);
-  else
-    elog(INFO, "get_group_name: SPI_exec succeeded");
-
-  char *group_name = SPI_getvalue(SPI_tuptable->vals[0],
-                                  SPI_tuptable->tupdesc,
-                                  1);
-  SPI_finish();  
-
-  elog (INFO, "get_group_name: %s", group_name);
-
+  char buffer[20];
+  char* faculty_name = get_request_result(group_id, "SELECT get_faculty_by_group_id(%d)");
+  strcpy(buffer, faculty_name);
+  char* date = get_request_result(group_id, "SELECT get_group_entering_date_by_id(%d)");
+  char* semester = get_request_semester(date, "SELECT get_semester(date '%s')");
+  strcat(buffer, semester);
+  strcat(buffer, "-");
+  char* department = get_request_result(group_id, "SELECT get_department_by_group_id(%d)");
+  strcat(buffer, department);
+  char* group_number = get_request_result(group_id, "SELECT get_group_number_by_id(%d)");
+  strcat(buffer, group_number);
+  
+  int result_length = (int) strlen(buffer);
+  char* string_result = (char*) malloc(result_length + 1);
+  strcpy(string_result, buffer);
+ 
   text *result = 0;
-  if (0 == group_name) {
+  if (0 == string_result) {
     elog(ERROR, "get_group_name: SPI_getvalue returned null");
     result = (text *)palloc(VARHDRSZ);
     SET_VARSIZE(result, VARHDRSZ);
   } else {
-    int len = strlen(group_name);
+    int len = strlen(string_result);
     result = (text *)palloc(VARHDRSZ + len);
     SET_VARSIZE(result, VARHDRSZ + len);
-    memcpy(VARDATA(result), group_name, len);
+    memcpy(VARDATA(result), string_result, len);
+    free(string_result);
   }
 
   PG_RETURN_TEXT_P(result);
 }
+
+
 
 PG_FUNCTION_INFO_V1(get_semester);
 
@@ -72,7 +115,9 @@ Datum get_semester(PG_FUNCTION_ARGS) {
   int semester = (current_date.tm_year - entering_year) * 2;
   if (current_date.tm_mon > 6)
     semester++;
-  
+  if (semester >= 10) 
+    PG_RETURN_INT32(10); //считаем максимальное число семестров - 10. 
+
   PG_RETURN_INT32(semester);
 }
 
