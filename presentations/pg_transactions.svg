@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="840.12089"
+     inkscape:cx="656.54946"
      inkscape:cy="535.71429"
      inkscape:document-units="px"
-     inkscape:current-layer="g5582"
+     inkscape:current-layer="g14553"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -3458,7 +3458,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="Реализация WAL" />
+     inkscape:label="Реализация WAL"
+     style="display:none" />
   <g
      style="display:none"
      inkscape:label="Управление транзакциями"
@@ -3514,7 +3515,7 @@
            height="35.714287"
            x="857.14288"
            y="245.71428" /></flowRegion><flowPara
-         id="flowPara5187"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5187" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5189"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"><flowRegion
@@ -3524,7 +3525,7 @@
            height="130"
            x="835.71429"
            y="237.14285" /></flowRegion><flowPara
-         id="flowPara5195"></flowPara></flowRoot>    <text
+         id="flowPara5195" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
@@ -3662,7 +3663,7 @@
            height="35.714287"
            width="5.7142859"
            id="rect5250" /></flowRegion><flowPara
-         id="flowPara5252"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5252" /></flowRoot>    <flowRoot
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
        id="flowRoot5254"
        xml:space="preserve"><flowRegion
@@ -3672,7 +3673,7 @@
            height="130"
            width="24.285715"
            id="rect5258" /></flowRegion><flowPara
-         id="flowPara5260"></flowPara></flowRoot>    <text
+         id="flowPara5260" /></flowRoot>    <text
        sodipodi:linespacing="200%"
        id="text5262"
        y="389.43359"
@@ -3829,11 +3830,11 @@
          sodipodi:cy="320"
          sodipodi:rx="10"
          sodipodi:ry="10"
-         d="m 100,320 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         d="m 100,320 c 0,5.52285 -4.477153,10 -10,10 -5.522847,0 -10,-4.47715 -10,-10 0,-5.52285 4.477153,-10 10,-10 5.522847,0 10,4.47715 10,10 z"
          transform="translate(58,-130.63281)" />
       <path
          transform="translate(58,-50.613281)"
-         d="m 100,320 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         d="m 100,320 c 0,5.52285 -4.477153,10 -10,10 -5.522847,0 -10,-4.47715 -10,-10 0,-5.52285 4.477153,-10 10,-10 5.522847,0 10,4.47715 10,10 z"
          sodipodi:ry="10"
          sodipodi:rx="10"
          sodipodi:cy="320"
@@ -3849,7 +3850,7 @@
          sodipodi:cy="320"
          sodipodi:rx="10"
          sodipodi:ry="10"
-         d="m 100,320 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         d="m 100,320 c 0,5.52285 -4.477153,10 -10,10 -5.522847,0 -10,-4.47715 -10,-10 0,-5.52285 4.477153,-10 10,-10 5.522847,0 10,4.47715 10,10 z"
          transform="translate(58,29.369141)" />
     </a>
     <a
@@ -4087,15 +4088,15 @@
          y="110"
          x="80"
          sodipodi:role="line"
-         id="tspan14479">Неповторяющееся чтение — при повторном чтении в рамках </tspan><tspan
+         id="tspan14479">Неповторяющееся чтение — при повторном чтении одной и той </tspan><tspan
          y="190"
          x="80"
          sodipodi:role="line"
-         id="tspan14481">одной транзакции, ранее прочитанные данные оказываются </tspan><tspan
+         id="tspan14481">же строки в рамках одной транзакции, ранее прочитанные </tspan><tspan
          y="270"
          x="80"
          sodipodi:role="line"
-         id="tspan4162">изменёнными или удалёнными.</tspan></text>
+         id="tspan4162">значения оказываются изменёнными или удалёнными.</tspan></text>
     <rect
        y="390.00034"
        x="80.487183"
@@ -4286,7 +4287,7 @@
      inkscape:groupmode="layer"
      id="g14553"
      inkscape:label="Phantom read"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:175%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -4297,7 +4298,7 @@
          sodipodi:role="line"
          x="80"
          y="150"
-         id="tspan14710">Фантомное чтение — одни и те же выборки в одной транзакции дают </tspan><tspan
+         id="tspan14710">Фантомное чтение — одни и те же запросы в одной транзакции дают </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="213"
@@ -4305,11 +4306,11 @@
          sodipodi:role="line"
          x="80"
          y="276"
-         id="tspan14706">выборками добавляет или удаляет строки или изменяет значения, </tspan><tspan
+         id="tspan14706">запросами добавляет или удаляет строки или изменяет значения, </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="339"
-         id="tspan4174">используемые в критериях выборки первой транзакции.</tspan></text>
+         id="tspan4174">используемые в условиях запроса первой транзакции.</tspan></text>
     <rect
        style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857803;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect14563"
