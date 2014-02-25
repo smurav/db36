@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="485.83517"
+     inkscape:cx="315.12088"
      inkscape:cy="535.71429"
      inkscape:document-units="px"
      inkscape:current-layer="g4160"
@@ -6287,10 +6287,11 @@
      style="display:inline">
     <a
        id="a4242"
-       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html">
+       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
+       style="fill:#800080">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="120"
          y="150"
          id="text4162"
@@ -6433,15 +6434,17 @@
       </g>
     </g>
     <a
-       transform="translate(2.7539063,80)"
-       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
-       id="a4228">
+       transform="translate(2.8710938,80)"
+       id="a4228"
+       style="fill:#800080"
+       target="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
+       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf">
       <text
          sodipodi:linespacing="200%"
          id="text4230"
          y="390"
          x="117.24609"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            sodipodi:role="line"
            x="117.24609"
@@ -6455,26 +6458,25 @@
            sodipodi:role="line"
            x="117.24609"
            y="550" /></text>
-    </a>
-    <a
-       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
-       id="a4246"
-       transform="translate(0,80)">
-      <a
-         id="a4282"
-         xlink:href="http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="120"
-           y="150"
-           id="text4248"
-           sodipodi:linespacing="200%"><tspan
-             y="150"
-             x="120"
-             sodipodi:role="line"
-             id="tspan4250">Wikipedia: Транзакция</tspan></text>
-      </a>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="117.24609"
+         y="390"
+         id="text4355"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan4357"
+           y="390"
+           x="117.24609"
+           sodipodi:role="line">Momjian B. Get To Know PostgreSQL </tspan><tspan
+           y="470"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan4359" /><tspan
+           y="550"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan4361" /></text>
     </a>
     <g
        id="g4252"
@@ -6542,30 +6544,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <a
-       transform="translate(0,160)"
-       id="a4286"
-       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html">
-      <a
-         xlink:href="http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)"
-         id="a4288">
-        <a
-           id="a4324"
-           xlink:href="http://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8_%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9">
-          <text
-             xml:space="preserve"
-             style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-             x="120"
-             y="150"
-             id="text4290"
-             sodipodi:linespacing="200%"><tspan
-               y="150"
-               x="120"
-               sodipodi:role="line"
-               id="tspan4292">Wikipedia: Уровни изолированности транзакций</tspan></text>
-        </a>
-      </a>
-    </a>
     <g
        style="display:inline"
        transform="matrix(0.0673571,0,0,0.0673571,68.534688,278.92579)"
@@ -6699,32 +6677,84 @@
       </g>
     </g>
     <a
-       id="a4360"
+       style="fill:#800080"
+       id="a4319"
        xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
-       transform="translate(2.7539063,0)">
-      <a
-         id="a4370"
-         xlink:href="http://www.postgresql.org/files/developer/transactions.pdf">
-        <text
-           sodipodi:linespacing="200%"
-           id="text4362"
+       transform="translate(2.8710938,0)" />
+    <a
+       transform="translate(2.8710938,-80)"
+       xlink:href="http://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8_%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9"
+       id="a4329"
+       style="fill:#800080">
+      <text
+         sodipodi:linespacing="200%"
+         id="text4331"
+         y="390"
+         x="117.24609"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="390"
+           id="tspan4333">Wikipedia: Уровни изолированности транзакций</tspan><tspan
+           id="tspan4335"
+           sodipodi:role="line"
+           x="117.24609"
+           y="470" /><tspan
+           id="tspan4337"
+           sodipodi:role="line"
+           x="117.24609"
+           y="550" /></text>
+    </a>
+    <a
+       style="fill:#800080"
+       id="a4339"
+       xlink:href="http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)"
+       transform="translate(2.8710938,-160)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="117.24609"
+         y="390"
+         id="text4341"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan4343"
            y="390"
            x="117.24609"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             x="117.24609"
-             y="390"
-             id="tspan4364">Lane T. Transaction Processing in PostgreSQL </tspan><tspan
-             id="tspan4366"
-             sodipodi:role="line"
-             x="117.24609"
-             y="470" /><tspan
-             id="tspan4368"
-             sodipodi:role="line"
-             x="117.24609"
-             y="550" /></text>
-      </a>
+           sodipodi:role="line">Wikipedia: Транзакция</tspan><tspan
+           y="470"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan4345" /><tspan
+           y="550"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan4347" /></text>
+    </a>
+    <a
+       id="a4395"
+       xlink:href="http://www.postgresql.org/files/developer/transactions.pdf"
+       target="http://www.postgresql.org/files/developer/transactions.pdf"
+       transform="translate(0,-160)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120.11719"
+         y="550"
+         id="text4365"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan4367"
+           y="550"
+           x="120.11719"
+           sodipodi:role="line">Lane T. Transaction Processing in PostgreSQL </tspan><tspan
+           y="630"
+           x="120.11719"
+           sodipodi:role="line"
+           id="tspan4369" /><tspan
+           y="710"
+           x="120.11719"
+           sodipodi:role="line"
+           id="tspan4371" /></text>
     </a>
   </g>
   <g
@@ -6787,9 +6817,16 @@
   </g>
   <script
      id="JessyInk"
-     ns1:version="1.5.5">// Copyright 2008, 2009 Hannes Hochreiner
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
+     ns1:version="1.5.6">// Copyright 2008-2013 Hannes Hochreiner
+//
+// This file is part of the JessyInk project.
+//
+// This Source Code Form is subject to the terms of the Mozilla Public
+// License, v. 2.0. If a copy of the MPL was not distributed with this
+// file, You can obtain one at http://mozilla.org/MPL/2.0/.
+//
+// Alternatively, you can redistribute and/or modify this file
+// under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
 // (at your option) any later version.
 //
@@ -7576,6 +7613,8 @@ function effect(dir)
 			done &amp;= pop(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
 		else if (effectArray[counter][&quot;effect&quot;] == &quot;view&quot;)
 			done &amp;= view(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;videoStart&quot;)
+			done &amp;= videoStart(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
 	}
 
 	ROOT_NODE.unsuspendRedraw(suspendHandle);
@@ -8595,6 +8634,27 @@ function appear(dir, element, time, options)
 	return true;
 }
 
+/** The videoStart effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function videoStart(dir, element, time, options)
+{
+	if (dir == 1)
+	{
+		element.firstChild.firstChild.firstChild.play();
+	}
+	else if (dir == -1)
+	{
+		element.firstChild.firstChild.firstChild.pause();
+	}
+
+	return true;
+}
+
 /** The pop effect.
  *
  *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
@@ -8695,6 +8755,8 @@ function setSlideToState(slide, state)
 						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;videoStart&quot;)
+						videoStart(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 				}
 			}
 		}
@@ -8713,6 +8775,8 @@ function setSlideToState(slide, state)
 						pop(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;videoStart&quot;)
+						videoStart(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
 				}
 			}
 		}
@@ -8733,6 +8797,8 @@ function setSlideToState(slide, state)
 						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;videoStart&quot;)
+						videoStart(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 				}
 			}
 		}
@@ -9192,6 +9258,7 @@ function handleElement(node)
 	if (node.getAttributeNS(NSS['jessyink'], 'element') == 'core.video')
 	{
 		var url;
+    var order = 0;
 		var width;
 		var height;
 		var x;
@@ -9205,6 +9272,11 @@ function handleElement(node)
 			if (tspans[tspanCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;url&quot;)
 			{
 				url = tspans[tspanCounter].firstChild.nodeValue;
+			}
+
+			if (tspans[tspanCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;order&quot;)
+			{
+				order = tspans[tspanCounter].firstChild.nodeValue;
 			}
 		}
 
@@ -9237,6 +9309,11 @@ function handleElement(node)
 			}
 		}
 
+    var gNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+    gNode.setAttributeNS(NSS[&quot;jessyink&quot;], &quot;effectIn&quot;, &quot;name:videoStart;order:&quot; + order);
+    gNode.setAttributeNS(NSS[&quot;jessyink&quot;], &quot;effectOut&quot;, &quot;name:videoStart;order:&quot; + (order + 1));
+    gNode.setAttribute(&quot;id&quot;, node.getAttribute(&quot;id&quot;) + &quot;videoGroup&quot;);
+
 		var foreignNode = document.createElementNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;foreignObject&quot;);
 		foreignNode.setAttribute(&quot;x&quot;, x);
 		foreignNode.setAttribute(&quot;y&quot;, y);
@@ -9247,8 +9324,9 @@ function handleElement(node)
 		var videoNode = document.createElementNS(&quot;http://www.w3.org/1999/xhtml&quot;, &quot;video&quot;);
 		videoNode.setAttribute(&quot;src&quot;, url);
 
+    gNode.appendChild(foreignNode);
 		foreignNode.appendChild(videoNode);
-		node.appendChild(foreignNode);
+		node.appendChild(gNode);
 	}
 }
 
@@ -9522,4 +9600,62 @@ String.prototype.trim = function()
 }
 
 </script>
+  <ns1:mousehandler
+     ns1:subtype="jessyInk_core_mouseHandler_noclick">
+    <script
+       id="script8257">// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Add event listener for initialisation.
+document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_noclick_init, false);
+
+/** Initialisation function.
+ *  
+ *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
+ */
+function jessyInk_core_mouseHandler_noclick_init()
+{
+	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; elems.length; counter++)
+	{
+		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_noclick&quot;)
+			jessyInk_core_mouseHandler_noclick(elems[counter]);
+	}
+}
+
+/** Function to initialise an object.
+ *
+ *  @param obj Object to be initialised.
+ */
+function jessyInk_core_mouseHandler_noclick(obj)
+{
+	/** Function supplying a custom mouse handler.
+	 *
+	 *  @returns A dictionary containing the new mouse handler functions.
+	 */
+	obj.getMouseHandler = function ()
+	{
+		var handlerDictio = new Object();
+
+		handlerDictio[SLIDE_MODE] = new Object();
+		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = null;
+
+		return handlerDictio;
+	}
+}
+
+</script>
+  </ns1:mousehandler>
 </svg>
