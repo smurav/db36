@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1069.2741"
+     inkscape:cx="836.93902"
      inkscape:cy="268.18317"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="a4828"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -3415,18 +3415,18 @@
            y="601.73175"
            x="78"
            sodipodi:role="line"
-           id="tspan5219">После выполнения подготовки транзакция отвязывается от текущей сесси, </tspan><tspan
+           id="tspan5221">После подготовки транзакция отвязывается от текущей сесси, но в </tspan><tspan
            y="681.73175"
            x="78"
            sodipodi:role="line"
-           id="tspan5221">но в дальнейшем её можно зафиксировать или отменить по имени.</tspan></text>
+           id="tspan3939">дальнейшем её можно зафиксировать или отменить, указав её имя.</tspan></text>
     </a>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g4826"
      inkscape:label="Фаза фиксации"
-     style="display:none">
+     style="display:inline">
     <a
        transform="translate(2,-51.73175)"
        xlink:href="http://postgresql.org"
@@ -3446,15 +3446,15 @@
            sodipodi:role="line"
            x="78"
            y="281.73175"
-           id="tspan5238">команды подготовки от всех участников. Если хотя бы один участик сообщил</tspan><tspan
+           id="tspan5238">команды подготовки от всех участников. Если хотя бы один участник </tspan><tspan
            sodipodi:role="line"
            x="78"
            y="361.73175"
-           id="tspan5240">о неудачной подготовке, то диспечет отправляет все команду на отмену.</tspan><tspan
+           id="tspan5240">сообщил о неудачной подготовке, то диспетчер отправляет всем команду </tspan><tspan
            sodipodi:role="line"
            x="78"
            y="441.73175"
-           id="tspan5242">В противном случае всем отправляется команда фиксации.</tspan><tspan
+           id="tspan5242">на отмену. В противном случае всем отправляется команда фиксации.</tspan><tspan
            sodipodi:role="line"
            x="78"
            y="521.73175"
@@ -4191,7 +4191,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="dblink"
-     style="display:inline">
+     style="display:none">
     <a
        id="a5529"
        xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
@@ -4356,11 +4356,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Отключение от удалённого сервера" />
+     inkscape:label="Отключение от удалённого сервера"
+     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="Выполнение удалённоё команды" />
+     inkscape:label="Выполнение удалённоё команды"
+     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer25"
