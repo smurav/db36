@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="255.42704"
-     inkscape:cy="605.1968"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="99.540666"
+     inkscape:cy="153.58988"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer13"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -4657,7 +4657,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Как реализовать конкурентный доступ?"
-     style="display:inline">
+     style="display:none">
     <rect
        rx="20"
        style="fill:#ffeeaa;fill-opacity:1;fill-rule:evenodd;stroke:#d4aa00;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -6693,7 +6693,7 @@
          sodipodi:role="line">отменяет одну из конфликтующих транзакций.</tspan></text>
   </g>
   <g
-     inkscape:label="Информация о блокировках"
+     inkscape:label="Сведения о блокировках"
      id="g7413"
      inkscape:groupmode="layer"
      style="display:none">
@@ -10032,7 +10032,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Практика"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="150%"
        id="text5033-6"
@@ -10124,7 +10124,7 @@
          id="tspan5296"
          y="150"
          x="120"
-         sodipodi:role="line">С помощью вида pg_logs отследите автоматическую установку </tspan><tspan
+         sodipodi:role="line">С помощью вида pg_locks отследите автоматическую установку </tspan><tspan
          y="210"
          x="120"
          sodipodi:role="line"
@@ -10477,7 +10477,7 @@
          sodipodi:role="line"
          x="120"
          y="361.77734"
-         id="tspan12560">Проверьте результы с помощью вида pg_logs.</tspan><tspan
+         id="tspan12560">Проверьте результы с помощью вида pg_locks.</tspan><tspan
          id="tspan8034"
          sodipodi:role="line"
          x="120"
@@ -13248,12 +13248,15 @@ function motion(dir, element, time, options)
 	{
 		if (fraction &lt;= 0)
 		{
-			element.setAttribute(&quot;transform&quot;, &quot;translate(0, 0)&quot;);
 			element.style.display = &quot;inherit&quot;;
+			var offsetX = 0;
+			var offsetY = -40;
+			element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + offsetX + &quot;,&quot; + offsetY + &quot;)&quot;);
 		}
 		else if (fraction &gt;= 1)
 		{
 			/*element.removeAttribute(&quot;transform&quot;);*/
+			var offsetX = 0;
 			var offsetY = -40 * fraction;
 			element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + offsetX + &quot;,&quot; + offsetY + &quot;)&quot;);
 			element.style.display = &quot;inherit&quot;;
@@ -13261,17 +13264,16 @@ function motion(dir, element, time, options)
 		}
 		else
 		{
+			/*element.setAttribute(&quot;transform&quot;, &quot;translate(0, 0)&quot;);*/
 			element.style.display = &quot;inherit&quot;;
-			var offsetX = 0;
-			var offsetY = -40;
-			element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + offsetX + &quot;,&quot; + offsetY + &quot;)&quot;);
 		}
 	}
 	else if (dir == -1)
 	{
 		if (fraction &lt;= 0)
 		{
-			element.setAttribute(&quot;transform&quot;, &quot;scale(1)&quot;);
+			/*element.setAttribute(&quot;transform&quot;, &quot;scale(1)&quot;);*/
+			/*element.removeAttribute(&quot;transform&quot;);*/
 			element.style.display = &quot;inherit&quot;;
 		}
 		else if (fraction &gt;= 1)
