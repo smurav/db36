@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="836.93902"
-     inkscape:cy="268.18317"
+     inkscape:zoom="0.7"
+     inkscape:cx="796.61831"
+     inkscape:cy="533.4352"
      inkscape:document-units="px"
-     inkscape:current-layer="a4828"
+     inkscape:current-layer="a6531"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2558,6 +2558,1340 @@
          offset="1"
          style="stop-color:#9F3300" />
     </radialGradient>
+    <linearGradient
+       y2="520.33"
+       x2="327.78"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-2971.6)"
+       y1="522.61"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient6035-4-83"
+       x1="308.5"
+       id="linearGradient11809" />
+    <linearGradient
+       y2="520.33"
+       x2="327.78"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3015.8)"
+       y1="522.61"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient6035-4-83"
+       x1="308.5"
+       id="linearGradient11807" />
+    <linearGradient
+       y2="520.33"
+       x2="327.78"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3062.9)"
+       y1="522.61"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient6035-4-83"
+       x1="308.5"
+       id="linearGradient11805" />
+    <linearGradient
+       x1="282.36"
+       x2="286.63"
+       y1="518.56"
+       gradientUnits="userSpaceOnUse"
+       y2="527.34"
+       id="linearGradient11803">
+      <stop
+         offset="0"
+         stop-color="#a5c4e6"
+         id="stop5468-4-7" />
+      <stop
+         offset="1"
+         stop-color="#497bb3"
+         id="stop5470-8-2" />
+    </linearGradient>
+    <linearGradient
+       y2="511.97"
+       x2="286.63"
+       gradientTransform="matrix(4.9627,0,0,4.9627,278.63,-3355.4)"
+       y1="511.97"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       x1="269.97"
+       id="linearGradient11801">
+      <stop
+         offset="0"
+         stop-color="#497bb3"
+         id="stop5497-7-7" />
+      <stop
+         offset=".20485"
+         stop-color="#a5c4e6"
+         id="stop5501-5-0" />
+      <stop
+         offset="1"
+         stop-color="#3b5d8b"
+         id="stop5499-8-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6035-4-83">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop6037-2-3" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff"
+         id="stop6039-9-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11801"
+       id="linearGradient4822"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.9627,0,0,4.9627,278.63,-3355.4)"
+       spreadMethod="reflect"
+       x1="269.97"
+       y1="511.97"
+       x2="286.63"
+       y2="511.97" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11803"
+       id="linearGradient4824"
+       gradientUnits="userSpaceOnUse"
+       x1="282.36"
+       y1="518.56"
+       x2="286.63"
+       y2="527.34" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4826"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3062.9)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4828"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3015.8)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4830"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-2971.6)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11801"
+       id="linearGradient4869"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.9627,0,0,4.9627,278.63,-3355.4)"
+       spreadMethod="reflect"
+       x1="269.97"
+       y1="511.97"
+       x2="286.63"
+       y2="511.97" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11803"
+       id="linearGradient4871"
+       gradientUnits="userSpaceOnUse"
+       x1="282.36"
+       y1="518.56"
+       x2="286.63"
+       y2="527.34" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4873"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3062.9)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-3015.8)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4-83"
+       id="linearGradient4877"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1992,0,0,4.1992,407.33,-2971.6)"
+       spreadMethod="reflect"
+       x1="308.5"
+       y1="522.61"
+       x2="327.78"
+       y2="520.33" />
+    <linearGradient
+       y2="179.43"
+       x2="28.471"
+       gradientTransform="scale(3.0245,0.33063)"
+       y1="216.4"
+       gradientUnits="userSpaceOnUse"
+       x1="27.728"
+       id="linearGradient17590">
+      <stop
+         offset="0"
+         stop-opacity="0"
+         stop-color="#fff"
+         id="stop1518-3" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop1519-8" />
+    </linearGradient>
+    <linearGradient
+       y2="82.82"
+       x2="107.02"
+       gradientTransform="scale(1.3901,0.71938)"
+       y1="82.82"
+       gradientUnits="userSpaceOnUse"
+       x1="11.202"
+       id="linearGradient17588">
+      <stop
+         offset="0"
+         stop-opacity=".084746"
+         id="stop1793-8" />
+      <stop
+         offset=".63222"
+         stop-opacity=".38418"
+         id="stop1795-3" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop1794-8" />
+    </linearGradient>
+    <linearGradient
+       y2="191.01"
+       x2="68.709"
+       gradientTransform="scale(1.386,0.72151)"
+       y1="111.9"
+       gradientUnits="userSpaceOnUse"
+       x1="68.709"
+       id="linearGradient17586">
+      <stop
+         offset="0"
+         stop-color="#2d608b"
+         id="stop1512-8" />
+      <stop
+         offset="1"
+         stop-color="#9db8d2"
+         id="stop1513-8" />
+    </linearGradient>
+    <linearGradient
+       y2="418.54"
+       x2="330.88"
+       gradientTransform="matrix(0.15217,0.032176,-0.032896,0.15557,15.03,-15.747)"
+       y1="236.13"
+       gradientUnits="userSpaceOnUse"
+       x1="687.96"
+       id="linearGradient17584">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop1502-8" />
+      <stop
+         offset="1"
+         stop-opacity=".71373"
+         stop-color="#fff"
+         id="stop1504-8" />
+    </linearGradient>
+    <linearGradient
+       y2="123.08"
+       x2="55.139"
+       gradientTransform="matrix(0.93434,0.19964,-0.2187,1.0236,17.419,-25.231)"
+       y1="50.771"
+       gradientUnits="userSpaceOnUse"
+       x1="114.47"
+       id="linearGradient17582">
+      <stop
+         offset="0"
+         stop-color="#c0c0c0"
+         id="stop1493-42" />
+      <stop
+         offset=".34923"
+         stop-color="#f1f1f1"
+         id="stop1496-2" />
+      <stop
+         offset="1"
+         stop-color="#f0f0f0"
+         id="stop1494-64" />
+    </linearGradient>
+    <linearGradient
+       y2="55.645"
+       x2="71.571"
+       gradientTransform="scale(1.1486,0.87061)"
+       y1="21.298"
+       gradientUnits="userSpaceOnUse"
+       x1="71.571"
+       id="linearGradient17580">
+      <stop
+         offset="0"
+         stop-color="#30649e"
+         id="stop1522-3" />
+      <stop
+         offset="1"
+         stop-color="#314e6c"
+         id="stop1523-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17580"
+       id="linearGradient5420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1486,0.87061)"
+       x1="71.571"
+       y1="21.298"
+       x2="71.571"
+       y2="55.645" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17582"
+       id="linearGradient5422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93434,0.19964,-0.2187,1.0236,17.419,-25.231)"
+       x1="114.47"
+       y1="50.771"
+       x2="55.139"
+       y2="123.08" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17584"
+       id="linearGradient5424"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15217,0.032176,-0.032896,0.15557,15.03,-15.747)"
+       x1="687.96"
+       y1="236.13"
+       x2="330.88"
+       y2="418.54" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17586"
+       id="linearGradient5426"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.386,0.72151)"
+       x1="68.709"
+       y1="111.9"
+       x2="68.709"
+       y2="191.01" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17588"
+       id="linearGradient5428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.3901,0.71938)"
+       x1="11.202"
+       y1="82.82"
+       x2="107.02"
+       y2="82.82" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17590"
+       id="linearGradient5430"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3.0245,0.33063)"
+       x1="27.728"
+       y1="216.4"
+       x2="28.471"
+       y2="179.43" />
+    <radialGradient
+       r="43.527"
+       gradientTransform="matrix(1.6129,0,0,1.6129,-339.79,1183.8)"
+       cx="15.601"
+       cy="12.142"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient11393">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop4128-0-5" />
+      <stop
+         offset="1"
+         stop-opacity=".16495"
+         stop-color="#fff"
+         id="stop4130-1-1" />
+    </radialGradient>
+    <radialGradient
+       r="40.693"
+       gradientTransform="scale(1.0368 .96449)"
+       cx="18.634"
+       cy="17.486"
+       gradientUnits="userSpaceOnUse"
+       fy="17.81"
+       fx="18.934"
+       id="radialGradient11311">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop4752-4-7" />
+      <stop
+         offset=".37931"
+         stop-color="#fefefe"
+         id="stop4758-2-0" />
+      <stop
+         offset="1"
+         stop-color="#1d1d1d"
+         id="stop4754-7-4" />
+    </radialGradient>
+    <radialGradient
+       r="32.665"
+       gradientTransform="scale(1.1795,0.84779)"
+       cx="11.827"
+       cy="10.476"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient11309">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop4352-6-0" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff"
+         id="stop4354-0-7" />
+    </radialGradient>
+    <radialGradient
+       r="29.993"
+       gradientTransform="matrix(1.6129,0,0,1.6129,-339.79,1183.8)"
+       cx="18.248"
+       cy="15.716"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient11307">
+      <stop
+         offset="0"
+         stop-color="#d3e9ff"
+         id="stop3964-2-5" />
+      <stop
+         offset=".15517"
+         stop-color="#d3e9ff"
+         id="stop4134-2-9" />
+      <stop
+         offset=".75"
+         stop-color="#4074ae"
+         id="stop4346-9-9" />
+      <stop
+         offset="1"
+         stop-color="#36486c"
+         id="stop3966-0-1" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient5997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient5999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6017"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6027"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6029"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6033"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6035"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6039"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6041"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6045"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6049"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6055"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6057"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6059"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6187"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6193"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6195"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6199"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6211"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6213"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6223"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6225"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6231"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6233"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6235"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6245"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6247"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6249"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11307"
+       id="radialGradient6372"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6129,0,0,1.6129,-339.79,1183.8)"
+       cx="18.248"
+       cy="15.716"
+       r="29.993" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11309"
+       id="radialGradient6374"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1795,0.84779)"
+       cx="11.827"
+       cy="10.476"
+       r="32.665" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6376"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6378"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6380"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6382"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6384"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6386"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6388"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6390"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6392"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6394"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6396"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6398"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6400"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6402"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6404"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6406"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6408"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6410"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6416"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6424"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6426"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6430"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6432"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6434"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6436"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6438"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11311"
+       id="radialGradient6440"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0368,0.96449)"
+       cx="18.634"
+       cy="17.486"
+       fx="18.934"
+       fy="17.81"
+       r="40.693" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient11393"
+       id="radialGradient6442"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6129,0,0,1.6129,-339.79,1183.8)"
+       cx="15.601"
+       cy="12.142"
+       r="43.527" />
   </defs>
   <metadata
      id="metadata7">
@@ -2829,11 +4163,13 @@
            y="150"
            x="78"
            sodipodi:role="line"
-           id="tspan6097">Распределённая транзакция – транзакция, исполняемая на двух и более</tspan><tspan
-           y="230"
+           id="tspan6097"
+           style="font-size:36px">Распределённая транзакция – транзакция, исполняемая на двух </tspan><tspan
+           y="222"
            x="78"
            sodipodi:role="line"
-           id="tspan9453">серверах.</tspan></text>
+           id="tspan9453"
+           style="font-size:36px">и более серверах.</tspan></text>
     </a>
     <g
        id="g4386"
@@ -2911,7 +4247,7 @@
          id="text4418"
          y="390"
          x="117.24609"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            sodipodi:role="line"
            x="117.24609"
@@ -2920,11 +4256,11 @@
            id="tspan4424"
            sodipodi:role="line"
            x="117.24609"
-           y="470" /><tspan
+           y="462" /><tspan
            id="tspan4426"
            sodipodi:role="line"
            x="117.24609"
-           y="550" /></text>
+           y="534" /></text>
     </a>
     <a
        id="a4514"
@@ -2933,7 +4269,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="117.24609"
          y="390"
          id="text4516"
@@ -2942,11 +4278,11 @@
            y="390"
            x="117.24609"
            sodipodi:role="line">dblink</tspan><tspan
-           y="470"
+           y="462"
            x="117.24609"
            sodipodi:role="line"
            id="tspan4520" /><tspan
-           y="550"
+           y="534"
            x="117.24609"
            sodipodi:role="line"
            id="tspan4522" /></text>
@@ -2961,7 +4297,7 @@
          id="text4526"
          y="390"
          x="117.24609"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            sodipodi:role="line"
            x="117.24609"
@@ -2970,11 +4306,11 @@
            id="tspan4530"
            sodipodi:role="line"
            x="117.24609"
-           y="470" /><tspan
+           y="462" /><tspan
            id="tspan4532"
            sodipodi:role="line"
            x="117.24609"
-           y="550" /></text>
+           y="534" /></text>
     </a>
     <g
        style="display:inline"
@@ -3114,49 +4450,43 @@
      id="layer4"
      inkscape:label="Двухфазная фиксация транзакций"
      style="display:none">
-    <a
-       transform="translate(2,-11.73175)"
-       xlink:href="http://postgresql.org"
-       id="a9525"
-       style="display:inline">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         x="78"
-         y="201.73175"
-         id="text9527"
-         sodipodi:linespacing="200%"><tspan
-           id="tspan9533"
-           sodipodi:role="line"
-           x="78"
-           y="201.73175">Протокол двухфазной фиксации обеспечивает координацию процессов,</tspan><tspan
-           sodipodi:role="line"
-           x="78"
-           y="281.73175"
-           id="tspan9547">участвующих в выполнении распределённой транзакции, что позволяет</tspan><tspan
-           sodipodi:role="line"
-           x="78"
-           y="361.73175"
-           id="tspan4601">зафиксировать или отменить все части транзакции на всех серверах. </tspan><tspan
-           sodipodi:role="line"
-           x="78"
-           y="441.73175"
-           id="tspan9570" /></text>
-      <text
-         sodipodi:linespacing="200%"
-         id="text9572"
-         y="481.73175"
-         x="78"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="481.73175"
-           x="78"
-           sodipodi:role="line"
-           id="tspan9600">Традиционно выделяют следующие фазы фиксации:</tspan></text>
-    </a>
+    <text
+       sodipodi:linespacing="200%"
+       id="text9527"
+       y="150"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="150"
+         x="80"
+         sodipodi:role="line"
+         id="tspan9533">Протокол двухфазной фиксации обеспечивает координацию процессов,</tspan><tspan
+         id="tspan9547"
+         y="222"
+         x="80"
+         sodipodi:role="line">участвующих в выполнении распределённой транзакции, что позволяет</tspan><tspan
+         id="tspan4601"
+         y="294"
+         x="80"
+         sodipodi:role="line">зафиксировать или отменить все части транзакции на всех серверах. </tspan><tspan
+         id="tspan9570"
+         y="366"
+         x="80"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       x="80"
+       y="396"
+       id="text9572"
+       sodipodi:linespacing="200%"><tspan
+         id="tspan9600"
+         sodipodi:role="line"
+         x="80"
+         y="396">Традиционно выделяют следующие фазы фиксации:</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,81.663536,518.89258)"
+       transform="matrix(0.0673571,0,0,0.0673571,81.663536,444.89258)"
        id="g4608">
       <g
          id="g4610"
@@ -3223,11 +4553,11 @@
     <a
        id="a4638"
        xlink:href="http://wiki.postgresql.org/wiki/SSI"
-       transform="translate(22.753906,154)"
+       transform="translate(22.753906,80)"
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="117.24609"
          y="390"
          id="text4640"
@@ -3236,18 +4566,18 @@
            y="390"
            x="117.24609"
            sodipodi:role="line">подготовка</tspan><tspan
-           y="470"
+           y="462"
            x="117.24609"
            sodipodi:role="line"
            id="tspan4644" /><tspan
-           y="550"
+           y="534"
            x="117.24609"
            sodipodi:role="line"
            id="tspan4646" /></text>
     </a>
     <a
        style="display:inline"
-       transform="translate(22.753906,234)"
+       transform="translate(22.753906,160)"
        xlink:href="http://wiki.postgresql.org/wiki/SSI"
        id="a4648">
       <text
@@ -3255,7 +4585,7 @@
          id="text4650"
          y="390"
          x="117.24609"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            sodipodi:role="line"
            x="117.24609"
@@ -3264,15 +4594,15 @@
            id="tspan4654"
            sodipodi:role="line"
            x="117.24609"
-           y="470" /><tspan
+           y="462" /><tspan
            id="tspan4656"
            sodipodi:role="line"
            x="117.24609"
-           y="550" /></text>
+           y="534" /></text>
     </a>
     <g
        id="g4658"
-       transform="matrix(0.0673571,0,0,0.0673571,81.663536,598.89258)"
+       transform="matrix(0.0673571,0,0,0.0673571,81.663536,524.89258)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -3336,7 +4666,17 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3942"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"><flowRegion
+         id="flowRegion3944"><rect
+           id="rect3946"
+           width="1630.3862"
+           height="410.12192"
+           x="-412.14224"
+           y="396.94403" /></flowRegion><flowPara
+         id="flowPara3948" /></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Фаза подготовки"
@@ -3357,14 +4697,16 @@
            y="201.73175"
            x="78"
            sodipodi:role="line"
-           id="tspan4937">Диспетчер распределённой транзакции рассылает команду подготовки всем</tspan><tspan
-           y="281.73175"
+           id="tspan4937"
+           style="font-size:36px">Диспетчер распределённой транзакции рассылает команду подготовки </tspan><tspan
+           y="273.73175"
            x="78"
            sodipodi:role="line"
-           id="tspan4941">участникам и ожидает результаты выполнения такой команды. </tspan></text>
+           id="tspan4941"
+           style="font-size:36px">всем участникам и ожидает результаты выполнения такой команды. </tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="78"
          y="401.73175"
          id="text4742"
@@ -3410,13 +4752,13 @@
          id="text5215"
          y="601.73175"
          x="78"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="601.73175"
            x="78"
            sodipodi:role="line"
            id="tspan5221">После подготовки транзакция отвязывается от текущей сесси, но в </tspan><tspan
-           y="681.73175"
+           y="673.73175"
            x="78"
            sodipodi:role="line"
            id="tspan3939">дальнейшем её можно зафиксировать или отменить, указав её имя.</tspan></text>
@@ -3426,7 +4768,7 @@
      inkscape:groupmode="layer"
      id="g4826"
      inkscape:label="Фаза фиксации"
-     style="display:inline">
+     style="display:none">
     <a
        transform="translate(2,-51.73175)"
        xlink:href="http://postgresql.org"
@@ -3434,7 +4776,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="78"
          y="201.73175"
          id="text4830"
@@ -3445,19 +4787,19 @@
            id="tspan5234">Диспетчер распределённой транзакции получает результаты выполнения</tspan><tspan
            sodipodi:role="line"
            x="78"
-           y="281.73175"
+           y="273.73175"
            id="tspan5238">команды подготовки от всех участников. Если хотя бы один участник </tspan><tspan
            sodipodi:role="line"
            x="78"
-           y="361.73175"
+           y="345.73175"
            id="tspan5240">сообщил о неудачной подготовке, то диспетчер отправляет всем команду </tspan><tspan
            sodipodi:role="line"
            x="78"
-           y="441.73175"
+           y="417.73175"
            id="tspan5242">на отмену. В противном случае всем отправляется команда фиксации.</tspan><tspan
            sodipodi:role="line"
            x="78"
-           y="521.73175"
+           y="489.73175"
            id="tspan4838" /></text>
     </a>
     <rect
@@ -3467,17 +4809,17 @@
        width="1440"
        height="60"
        x="80"
-       y="532"
+       y="490"
        ry="20" />
     <text
        sodipodi:linespacing="125%"
        id="text5250"
-       y="572"
+       y="530"
        x="120"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="572"
+         y="530"
          x="120"
          sodipodi:role="line"
          id="tspan5252"><tspan
@@ -3485,24 +4827,25 @@
            style="fill:#aa0000"><tspan
    style="fill:#000000"
    id="tspan5265">COMMIT PREPARED</tspan> 'имя'</tspan></tspan><tspan
-         y="617"
+         y="575"
          x="120"
          sodipodi:role="line"
          id="tspan5256" /></text>
     <text
        sodipodi:linespacing="200%"
        id="text5244"
-       y="510"
+       y="468"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         y="510"
+         y="468"
          x="80"
          sodipodi:role="line"
-         id="tspan5246">Фиксация подготовленной транзакции:</tspan></text>
+         id="tspan5246"
+         style="font-size:36px">Фиксация подготовленной транзакции:</tspan></text>
     <rect
        ry="20"
-       y="692"
+       y="650"
        x="80"
        height="60"
        width="1440"
@@ -3513,13 +4856,13 @@
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="732"
+       y="690"
        id="text5269"
        sodipodi:linespacing="125%"><tspan
          id="tspan5271"
          sodipodi:role="line"
          x="120"
-         y="732"
+         y="690"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;font-family:Monospace;-inkscape-font-specification:Monospace"><tspan
            style="fill:#aa0000"
            id="tspan5273"><tspan
@@ -3528,18 +4871,19 @@
          id="tspan5277"
          sodipodi:role="line"
          x="120"
-         y="777" /></text>
+         y="735" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="670"
+       y="628"
        id="text5279"
        sodipodi:linespacing="200%"><tspan
          id="tspan5281"
          sodipodi:role="line"
          x="80"
-         y="670">Отмена подготовленной транзакции:</tspan></text>
+         y="628"
+         style="font-size:36px">Отмена подготовленной транзакции:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3552,7 +4896,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="80"
          y="150"
          id="text5531-2"
@@ -3563,12 +4907,12 @@
            id="tspan5553">Чтобы разрешить создание подготовленных транзакции необходимо</tspan><tspan
            sodipodi:role="line"
            x="80"
-           y="230"
+           y="222"
            id="tspan5342">дополнительно настроить сервер PostgreSQL:</tspan><tspan
            id="tspan5535-3"
            sodipodi:role="line"
            x="80"
-           y="310" /></text>
+           y="294" /></text>
     </a>
     <g
        style="display:inline"
@@ -3653,13 +4997,13 @@
          id="text5366"
          y="150"
          x="80"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            id="tspan5370"
            y="150"
            x="80"
            sodipodi:role="line">Применение настроек:</tspan><tspan
-           y="230"
+           y="222"
            x="80"
            sodipodi:role="line"
            id="tspan5372" /></text>
@@ -3685,12 +5029,12 @@
            style="font-size:36px;line-height:200%"
            y="150"
            x="80"
-           sodipodi:role="line">Полезную информацию о подготовленных транзакциях можно получить с помощью </tspan><tspan
+           sodipodi:role="line">Полезную информацию о подготовленных транзакциях можно получить </tspan><tspan
            id="tspan4917"
            style="font-size:36px;line-height:200%"
            y="222"
            x="80"
-           sodipodi:role="line">системного вида pg_prepared_xacts: </tspan><tspan
+           sodipodi:role="line">с помощью системного вида pg_prepared_xacts: </tspan><tspan
            y="294"
            x="80"
            sodipodi:role="line"
@@ -4199,7 +5543,7 @@
        transform="translate(0,40)">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="80"
          y="148.61328"
          id="text5531"
@@ -4207,27 +5551,27 @@
            sodipodi:role="line"
            x="80"
            y="148.61328"
-           id="tspan9606">dblink - модуль, позволяющий из текущей сессии подключиться к внешнему</tspan><tspan
+           id="tspan3966">dblink - модуль, позволяющий из текущей сессии подключиться к</tspan><tspan
            sodipodi:role="line"
            x="80"
-           y="228.61328"
-           id="tspan3953">серверу PostgreSQL.</tspan><tspan
+           y="220.61328"
+           id="tspan3953">внешнему серверу PostgreSQL.</tspan><tspan
            id="tspan5535"
            sodipodi:role="line"
            x="80"
-           y="308.61328" /></text>
+           y="292.61328" /></text>
       <text
          sodipodi:linespacing="200%"
          id="text9608"
          y="349.375"
          x="80"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="349.375"
            x="80"
            sodipodi:role="line"
            id="tspan9623">Установка dblink:</tspan><tspan
-           y="429.375"
+           y="421.375"
            x="80"
            sodipodi:role="line"
            id="tspan9616" /></text>
@@ -4246,14 +5590,14 @@
        id="text3959"
        y="490"
        x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan3961"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          y="490"
          x="120"
          sodipodi:role="line">create extension dblink;</tspan><tspan
-         y="570"
+         y="562"
          x="120"
          sodipodi:role="line"
          id="tspan3963" /></text>
@@ -4265,179 +5609,1613 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
        y="150"
        id="text3974"
-       sodipodi:linespacing="200%"><tspan
+       sodipodi:linespacing="150%"><tspan
          id="tspan3976"
          sodipodi:role="line"
          x="80"
          y="150">Подключение к удалённому серверу осуществляется с помощью </tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="230"
-         id="tspan3995">следующих команд:</tspan><tspan
+         y="204"
+         id="tspan3995">следующих функций:</tspan><tspan
          id="tspan3978"
          sodipodi:role="line"
          x="80"
-         y="310" /></text>
+         y="258" /></text>
     <rect
        ry="20"
-       y="270.625"
+       y="250.00002"
        x="80"
-       height="179.375"
+       height="140"
        width="1440"
        id="rect3980"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="330.625"
+       y="302.52734"
        id="text3982"
-       sodipodi:linespacing="200%"><tspan
+       sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="120"
-         y="330.625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="302.52734"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan3984">dblink_connect(text <tspan
-   style="fill:#aa0000"
+   style="font-size:36px;line-height:150%;fill:#aa0000"
    id="tspan4003">строка_соединения</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="410.625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="356.52734"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4001">dblink_connect(text <tspan
-   style="fill:#aa0000"
+   style="font-size:36px;line-height:150%;fill:#aa0000"
    id="tspan4007">имя</tspan>, text <tspan
-   style="fill:#aa0000"
+   style="font-size:36px;line-height:150%;fill:#aa0000"
    id="tspan4009">строка_соединения</tspan>)</tspan><tspan
          id="tspan3986"
          sodipodi:role="line"
          x="120"
-         y="490.625" /></text>
+         y="410.52734" /></text>
     <text
-       sodipodi:linespacing="200%"
+       sodipodi:linespacing="150%"
        id="text4011"
-       y="550"
+       y="470"
        x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         y="550"
+         y="470"
          x="80"
          sodipodi:role="line"
          id="tspan4013">Имя - название соединения. Если не задано, то создаётся безымянное</tspan><tspan
          id="tspan4015"
-         y="630"
+         y="524"
          x="80"
          sodipodi:role="line">соединение (с заменой существующего).</tspan><tspan
-         y="710"
+         y="578"
          x="80"
          sodipodi:role="line"
          id="tspan4017" /></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="710"
+       y="610"
        id="text4023"
        sodipodi:linespacing="200%"><tspan
          sodipodi:role="line"
          x="80"
-         y="710"
-         id="tspan4027">Строка соединения - адрес сервера и параметры подключения.</tspan><tspan
+         y="610"
+         id="tspan4027">Строка соединения - адрес сервера и параметры подключения:</tspan><tspan
          id="tspan4029"
          sodipodi:role="line"
          x="80"
-         y="790" /></text>
+         y="682" /></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3978"
+       width="1440"
+       height="80"
+       x="80"
+       y="650"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text3980"
+       y="699.93164"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="699.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan3993">hostaddr=192.168.0.<tspan
+   style="fill:#aa0000"
+   id="tspan4005">X</tspan> dbname=<tspan
+   style="fill:#aa0000"
+   id="tspan4008">БД</tspan> user=<tspan
+   style="fill:#aa0000"
+   id="tspan4010">имя</tspan> password=<tspan
+   style="fill:#aa0000"
+   id="tspan4012">пароль</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Выполнение удалённой команды"
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text4070"
+       y="150"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="150"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4072">Выполнение команд на удалённом сервере осуществляется с помощью </tspan><tspan
+         id="tspan4074"
+         y="204"
+         x="80"
+         sodipodi:role="line">следующих функций:</tspan><tspan
+         y="258"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4076" /></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4078"
+       width="1440"
+       height="200.00002"
+       x="80"
+       y="250.00002"
+       ry="20.000002" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4080"
+       y="305.52737"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4086"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="305.52737"
+         x="120"
+         sodipodi:role="line">dblink_exec(text <tspan
+   style="fill:#aa0000"
+   id="tspan4113">имя</tspan>, text <tspan
+   style="fill:#aa0000"
+   id="tspan4121">sql</tspan>)</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="359.52737"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4109">dblink_exec(text <tspan
+   style="fill:#aa0000"
+   id="tspan4115">строка_соединения</tspan>, text <tspan
+   style="fill:#aa0000"
+   id="tspan4119">sql</tspan>)</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="413.52737"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4111">dblink_exec(text <tspan
+   style="fill:#aa0000"
+   id="tspan4117">sql</tspan>)</tspan><tspan
+         y="467.52737"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4092" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="550"
+       id="text4123"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4125"
+         sodipodi:role="line"
+         x="80"
+         y="550">Имя - название соединения. Если не задано, то создаётся безымянное</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="604"
+         id="tspan4127">соединение (с заменой существующего).</tspan><tspan
+         id="tspan4129"
+         sodipodi:role="line"
+         x="80"
+         y="658" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text4131"
+       y="686.68359"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4133"
+         y="686.68359"
+         x="80"
+         sodipodi:role="line">Строка соединения - адрес сервера и параметры подключения.</tspan><tspan
+         y="758.68359"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4135" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="770"
+       id="text4144"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="770"
+         id="tspan4146">Sql - выполняемая команда.</tspan><tspan
+         id="tspan4148"
+         sodipodi:role="line"
+         x="80"
+         y="842" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Отключение от удалённого сервера"
-     style="display:none" />
+     inkscape:label="Закрытие соединения"
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text4014"
+       y="150"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="150"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4016">Закрытие соединения, ранее установленного с помощью функции</tspan><tspan
+         id="tspan4018"
+         y="204"
+         x="80"
+         sodipodi:role="line">dblink_cinnect(), осуществляется с помощью следующих функций:</tspan><tspan
+         y="258"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4020" /></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4022"
+       width="1440"
+       height="140"
+       x="80"
+       y="250.00002"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4024"
+       y="302.52734"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4030"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="302.52734"
+         x="120"
+         sodipodi:role="line">dblink_disconnect()</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="356.52734"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4052">dblink_disconnect(text <tspan
+   style="fill:#aa0000"
+   id="tspan4054">имя</tspan>)</tspan><tspan
+         y="410.52734"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4036" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="470"
+       id="text4060"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="470"
+         id="tspan4064">Если имя не указано, то закрывается безымянное соединение.</tspan><tspan
+         id="tspan4066"
+         sodipodi:role="line"
+         x="80"
+         y="524" /></text>
+  </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="Выполнение удалённоё команды"
-     style="display:none" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer25"
+     style="display:none"
      inkscape:label="Foreign Data Wrappers"
+     id="g4150"
+     inkscape:groupmode="layer">
+    <a
+       transform="translate(0,40)"
+       style="display:inline"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a4152">
+      <text
+         sodipodi:linespacing="200%"
+         id="text4154"
+         y="148.61328"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4158"
+           y="148.61328"
+           x="80"
+           sodipodi:role="line">Foreign Data Wrappers - механизм, позволяющий обращаться к внешним</tspan><tspan
+           y="220.61328"
+           x="80"
+           sodipodi:role="line"
+           id="tspan4181">данным как к обычным таблицам. Внешние данные могут находиться в </tspan><tspan
+           y="292.61328"
+           x="80"
+           sodipodi:role="line"
+           id="tspan4185">какой-либо базе данных, файле или даже веб-сервисе.</tspan><tspan
+           y="364.61328"
+           x="80"
+           sodipodi:role="line"
+           id="tspan4160" /></text>
+    </a>
+    <text
+       sodipodi:linespacing="200%"
+       id="text4201"
+       y="630"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="630"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4203">Установка FDW:</tspan><tspan
+         y="702"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4205" /></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4207"
+       width="1440"
+       height="100"
+       x="80"
+       y="670.625"
+       ry="20" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text4209"
+       y="730.625"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4211"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="730.625"
+         x="120"
+         sodipodi:role="line">create extension postgres_fdw;</tspan><tspan
+         y="802.625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4213" /></text>
+    <a
+       id="a6459"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       style="display:inline"
+       transform="translate(0,260)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="148.61328"
+         id="text6461"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan6467"
+           sodipodi:role="line"
+           x="80"
+           y="148.61328">В отличие от dblink, данный механизм соответствует стандарту </tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="220.61328"
+           id="tspan6478">SQL/MED (Management of External Data) и обеспечивает более высокую </tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="292.61328"
+           id="tspan6480">скорость работы.</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="364.61328"
+           id="tspan6476" /><tspan
+           id="tspan6469"
+           sodipodi:role="line"
+           x="80"
+           y="436.61328" /></text>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Поддерживаемые источники"
+     style="display:none">
+    <a
+       id="a4233"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       style="display:inline"
+       transform="translate(0,40)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="110"
+         id="text4235"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan4241"
+           sodipodi:role="line"
+           x="80"
+           y="110">PostgreSQL может взаимодействовать со следующими источниками </tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="164"
+           id="tspan4256">внешних данных:</tspan><tspan
+           id="tspan4243"
+           sodipodi:role="line"
+           x="80"
+           y="218" /></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       x="200"
+       y="310"
+       id="text4274"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="200"
+         y="310"
+         id="tspan4278">postgres_fdw, oracle_fdw, mysql_fdw, odbc_fdw, jdbc_fdw, </tspan><tspan
+         sodipodi:role="line"
+         x="200"
+         y="364"
+         id="tspan4841">informix_fdw, firebird_fdw, sqlite_fdw</tspan><tspan
+         id="tspan4280"
+         sodipodi:role="line"
+         x="200"
+         y="418" /></text>
+    <g
+       id="g16724-3"
+       transform="matrix(0.50894598,0,0,0.47601125,-740.35775,720.23034)">
+      <path
+         style="fill:url(#linearGradient4822)"
+         inkscape:connector-curvature="0"
+         id="path5488-8"
+         d="m 1618.4,-890.85 v 126.36 h 0.5249 c -0.3385,1.0131 -0.5249,1.975 -0.5249,3.0182 0,15.228 36.989,27.557 82.672,27.557 45.683,0 82.672,-12.33 82.672,-27.557 0,-1.0447 -0.1856,-2.0037 -0.5249,-3.0182 h 0.5249 v -126.36 h -165.34 z" />
+      <path
+         style="fill:url(#linearGradient4824)"
+         inkscape:connector-curvature="0"
+         id="path5460-3"
+         transform="matrix(4.9627,0,0,4.9627,278.63,-3481.3)"
+         d="m 303.3,521.78 c 0,3.0684 -7.4623,5.5558 -16.668,5.5558 -9.2052,0 -16.668,-2.4874 -16.668,-5.5558 0,-3.0684 7.4623,-5.5558 16.668,-5.5558 9.2052,0 16.668,2.4874 16.668,5.5558 z" />
+      <path
+         style="fill:#3b5d8b"
+         inkscape:connector-curvature="0"
+         id="path6026-3"
+         d="m 1618.3,-800.18 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -14.494,12.328 -46.02,20.865 -82.672,20.865 -36.727,0 -68.35,-8.6271 -82.804,-20.996 z" />
+      <path
+         style="fill:url(#linearGradient4826)"
+         inkscape:connector-curvature="0"
+         id="path6030-3"
+         d="m 1618.3,-891.51 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.9058,0.77052 -1.8509,1.4911 -2.8869,2.2308 -0.038,0.0491 -0.091,0.0823 -0.131,0.13101 -9.6253,11.663 -41.587,20.209 -79.654,20.209 -38.306,0 -70.487,-8.6955 -79.917,-20.471 -0.1046,-0.0752 -0.1596,-0.18729 -0.2625,-0.26245 -0.9185,-0.67058 -1.8123,-1.2733 -2.6245,-1.9684 z" />
+      <path
+         style="fill:#3b5d8b"
+         inkscape:connector-curvature="0"
+         id="path6022-8"
+         d="m 1618.3,-844.36 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -14.494,12.328 -46.02,20.865 -82.672,20.865 -36.727,0 -68.35,-8.6271 -82.804,-20.996 z" />
+      <path
+         style="fill:url(#linearGradient4828)"
+         inkscape:connector-curvature="0"
+         id="path6043-0"
+         d="m 1618.3,-844.36 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.2087,0.17721 -0.4427,0.3519 -0.6561,0.52491 -5.2161,13.55 -39.937,24.014 -82.016,24.014 -42.466,0 -77.55,-10.545 -82.279,-24.277 -0.1684,-0.13312 -0.3624,-0.2549 -0.5249,-0.39347 z" />
+      <path
+         style="fill:url(#linearGradient4830)"
+         inkscape:connector-curvature="0"
+         id="path6054-4"
+         d="m 1618.3,-800.18 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.2087,0.17721 -0.4427,0.3519 -0.6561,0.52491 -5.2161,13.55 -39.937,24.014 -82.016,24.014 -42.466,0 -77.55,-10.545 -82.279,-24.277 -0.1684,-0.13312 -0.3624,-0.2549 -0.5249,-0.39347 z" />
+      <path
+         style="fill:#3b5d8b"
+         inkscape:connector-curvature="0"
+         id="path6060-7"
+         d="m 1618.8,-754.64 c 4.7284,13.732 39.813,24.277 82.279,24.277 42.079,0 76.8,-10.464 82.016,-24.014 -14.766,12.043 -45.892,20.34 -82.016,20.34 -36.314,0 -67.608,-8.4562 -82.279,-20.602 z" />
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4832"
+       y="390"
+       x="160"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="390"
+         x="160"
+         sodipodi:role="line"
+         id="tspan4836" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4843"
+       y="450.33398"
+       x="200"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4847"
+         y="450.33398"
+         x="200"
+         sodipodi:role="line">couchdb_fdw, MonetDB FDW, mongo_fdw, redis_fdw, </tspan><tspan
+         y="504.33398"
+         x="200"
+         sodipodi:role="line"
+         id="tspan4889">Neo4j fdw, Tycoon FDW</tspan><tspan
+         y="558.33398"
+         x="200"
+         sodipodi:role="line"
+         id="tspan4849" /></text>
+    <g
+       transform="matrix(0.50894598,0,0,0.47601125,-740.35775,860.23034)"
+       id="g4851">
+      <path
+         d="m 1618.4,-890.85 v 126.36 h 0.5249 c -0.3385,1.0131 -0.5249,1.975 -0.5249,3.0182 0,15.228 36.989,27.557 82.672,27.557 45.683,0 82.672,-12.33 82.672,-27.557 0,-1.0447 -0.1856,-2.0037 -0.5249,-3.0182 h 0.5249 v -126.36 h -165.34 z"
+         id="path4853"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4869)" />
+      <path
+         d="m 303.3,521.78 c 0,3.0684 -7.4623,5.5558 -16.668,5.5558 -9.2052,0 -16.668,-2.4874 -16.668,-5.5558 0,-3.0684 7.4623,-5.5558 16.668,-5.5558 9.2052,0 16.668,2.4874 16.668,5.5558 z"
+         transform="matrix(4.9627,0,0,4.9627,278.63,-3481.3)"
+         id="path4855"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4871)" />
+      <path
+         d="m 1618.3,-800.18 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -14.494,12.328 -46.02,20.865 -82.672,20.865 -36.727,0 -68.35,-8.6271 -82.804,-20.996 z"
+         id="path4857"
+         inkscape:connector-curvature="0"
+         style="fill:#3b5d8b" />
+      <path
+         d="m 1618.3,-891.51 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.9058,0.77052 -1.8509,1.4911 -2.8869,2.2308 -0.038,0.0491 -0.091,0.0823 -0.131,0.13101 -9.6253,11.663 -41.587,20.209 -79.654,20.209 -38.306,0 -70.487,-8.6955 -79.917,-20.471 -0.1046,-0.0752 -0.1596,-0.18729 -0.2625,-0.26245 -0.9185,-0.67058 -1.8123,-1.2733 -2.6245,-1.9684 z"
+         id="path4859"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4873)" />
+      <path
+         d="m 1618.3,-844.36 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -14.494,12.328 -46.02,20.865 -82.672,20.865 -36.727,0 -68.35,-8.6271 -82.804,-20.996 z"
+         id="path4861"
+         inkscape:connector-curvature="0"
+         style="fill:#3b5d8b" />
+      <path
+         d="m 1618.3,-844.36 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.2087,0.17721 -0.4427,0.3519 -0.6561,0.52491 -5.2161,13.55 -39.937,24.014 -82.016,24.014 -42.466,0 -77.55,-10.545 -82.279,-24.277 -0.1684,-0.13312 -0.3624,-0.2549 -0.5249,-0.39347 z"
+         id="path4863"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4875)" />
+      <path
+         d="m 1618.3,-800.18 c 0.6187,15.05 37.507,27.164 82.804,27.164 45.168,0 81.851,-12.042 82.672,-27.033 -0.2087,0.17721 -0.4427,0.3519 -0.6561,0.52491 -5.2161,13.55 -39.937,24.014 -82.016,24.014 -42.466,0 -77.55,-10.545 -82.279,-24.277 -0.1684,-0.13312 -0.3624,-0.2549 -0.5249,-0.39347 z"
+         id="path4865"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4877)" />
+      <path
+         d="m 1618.8,-754.64 c 4.7284,13.732 39.813,24.277 82.279,24.277 42.079,0 76.8,-10.464 82.016,-24.014 -14.766,12.043 -45.892,20.34 -82.016,20.34 -36.314,0 -67.608,-8.4562 -82.279,-20.602 z"
+         id="path4867"
+         inkscape:connector-curvature="0"
+         style="fill:#3b5d8b" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       x="200"
+       y="616.49902"
+       id="text4891"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="200"
+         y="616.49902"
+         id="tspan5463">file_fdw, file_text_array_fdw, file_fixed_length_record_fdw, json_fdw</tspan><tspan
+         id="tspan4899"
+         sodipodi:role="line"
+         x="200"
+         y="670.49902" /></text>
+    <g
+       id="g14489-1"
+       transform="matrix(0.66376447,0,0,0.66376447,-635.35924,1188.324)">
+      <g
+         transform="matrix(1.1004,0.098297,-0.098297,1.1004,-228.29,-2.7662)"
+         id="g14468-2">
+        <g
+           id="g14459-2">
+          <g
+             transform="translate(1086.8,-969.29)"
+             id="g14442-6"
+             style="fill-rule:evenodd">
+            <path
+               d="M 27.174,98.212 V 26.987 c 0,-7.1981 3.5488,-12.395 11.005,-12.395 h 36.448 c 7.4565,0 8.3611,12.158 15.818,12.158 h 41.521 c 3.3665,0 5.9316,3.4823 5.9316,7.4837 v 63.979 h -110.72 z"
+               id="path1502-9"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient5420);stroke:#565248;stroke-width:2.10842872;stroke-opacity:0.33962001" />
+            <path
+               d="m 124.92,35.343 -8.1384,38.089 -4.0692,19.045 -4.0692,19.045 -17.38,-3.7135 -17.38,-3.7135 -17.38,-3.7135 -17.38,-3.7135 4.0692,-19.045 4.0692,-19.045 8.2135,-38.073 34.684,7.4109 34.76,7.427 z"
+               id="rect900-1"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient5422);stroke:#000000;stroke-width:0.38132197;stroke-opacity:0.36478002" />
+            <path
+               d="M 55.7,20.968 40.617,90.756 108.9,105.19 112.59,87.936 C 110.94,88.2 100.14,63.089 80.516,59.922 60.878,56.752 72.333,27.43 55.7,20.968 z"
+               id="path1500-0"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient5424);stroke-width:1pt" />
+            <path
+               d="m 16.34,75.851 5.3201,43.503 c 0.48825,3.9924 4.4976,8.5314 8.5074,8.5314 h 104.22 c 3.544,0 5.8035,-5.0237 6.3806,-8.5314 l 7.1567,-43.503 c 1.27,-7.802 -3.04,-15.642 -9.36,-15.642 h -112.88 c -6.3172,0 -10.311,7.7945 -9.3511,15.646 z"
+               id="path1501-4"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient5426);stroke:url(#linearGradient5428);stroke-width:2.1118021;stroke-opacity:0.33962001" />
+            <path
+               d="m 17.364,74.771 c -0.21897,0.94747 3.8732,-8.3518 10.811,-8.3518 h 105.98 c 8.535,0 11.267,9.2992 11.486,8.3518 0.21898,-0.94746 4.58,-14.037 -11.31,-14.037 H 28.671 c -13.446,0 -11.091,13.089 -11.31,14.037 z"
+               id="path1503-2"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient5430);stroke-width:0.90416002pt" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:21.63924599px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="88.265335"
+       y="486.2048"
+       id="text5455"
+       sodipodi:linespacing="150%"><tspan
+         style="fill:#ff0000"
+         id="tspan5457"
+         sodipodi:role="line"
+         x="88.265335"
+         y="486.2048">NoSQL</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text5459"
+       y="348.2048"
+       x="103.32195"
+       style="font-size:21.63924599px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="348.2048"
+         x="103.32195"
+         sodipodi:role="line"
+         id="tspan5461"
+         style="fill:#ff0000">SQL</tspan></text>
+    <g
+       transform="matrix(1.4026579,0,0,1.4026579,546.41722,-965.91966)"
+       id="g13375-9">
+      <path
+         d="m -268.89,1221.6 c 0,17.274 -14.003,31.277 -31.274,31.277 -17.273,0 -31.275,-14.003 -31.275,-31.277 0,-17.273 14.002,-31.274 31.275,-31.274 17.271,0 31.274,14.002 31.274,31.274 z"
+         id="path3214-5-3"
+         inkscape:connector-curvature="0"
+         style="fill:url(#radialGradient6372);stroke:#39396c;stroke-width:2.93839598" />
+      <path
+         d="m 30.709,15.271 c 0,5.1326 -5.7889,9.2934 -12.93,9.2934 -7.141,0 -12.93,-4.1608 -12.93,-9.2934 0,-5.1326 5.7889,-9.2934 12.93,-9.2934 7.141,0 12.93,4.1608 12.93,9.2934 z"
+         transform="matrix(1.3483,0,0,1.6129,-323.84,1183.8)"
+         id="path4348-3-1"
+         inkscape:connector-curvature="0"
+         style="opacity:0.42158999;fill:url(#radialGradient6374)" />
+      <g
+         transform="matrix(1.5845,0,0,1.5845,-339.6,1184.1)"
+         id="g4136-3-4"
+         style="fill-opacity:0.71344999">
+        <g
+           id="g4138-5-8">
+          <g
+             id="g4142-4-9">
+            <path
+               d="m 44.071,20.714 -0.5449,0.6172 c -0.334,-0.3936 -0.709,-0.7246 -1.0898,-1.0703 l -0.8359,0.123 -0.7637,-0.8633 v 1.0684 l 0.6543,0.4951 0.4355,0.4932 0.582,-0.6582 c 0.1465,0.2744 0.291,0.5488 0.4365,0.8232 v 0.8223 l -0.6553,0.7402 -1.1992,0.8232 -0.9082,0.9063 -0.582,-0.6602 0.291,-0.7402 -0.5811,-0.6582 -0.9814,-2.0977 -0.8359,-0.9453 -0.2188,0.2461 0.3281,1.1934 0.6172,0.6992 c 0.3525,1.0176 0.7012,1.9902 1.1641,2.9629 0.7178,0 1.3945,-0.0762 2.1074,-0.166 v 0.5762 l -0.8721,2.1392 -0.7998,0.9043 -0.6543,1.4004 v 2.3027 l 0.2188,0.9063 -0.3633,0.4102 -0.8008,0.4941 -0.8359,0.6992 0.6914,0.7813 -0.9453,0.8242 0.1816,0.5332 -1.418,1.6055 h -0.9443 l -0.7998,0.4941 H 33.6393 V 38.281 l -0.2168,-1.3184 c -0.2813,-0.8262 -0.5742,-1.6465 -0.8721,-2.4668 0,-0.6055 0.0361,-1.2051 0.0723,-1.8105 l 0.3643,-0.8223 -0.5098,-0.9883 0.0371,-1.3574 -0.6914,-0.7813 0.3457,-1.1309 -0.5625,-0.6382 h -0.9824 l -0.3271,-0.3701 -0.9814,0.6177 -0.3994,-0.4536 -0.9092,0.7817 c -0.6172,-0.6997 -1.2354,-1.3989 -1.8535,-2.0981 l -0.7266,-1.7285 0.6543,-0.9863 -0.3633,-0.4111 0.7988,-1.8936 c 0.6563,-0.8164 1.3418,-1.5996 2.0352,-2.3857 l 1.2363,-0.3291 1.3809,-0.1641 0.9453,0.2471 1.3447,1.3564 0.4727,-0.5342 0.6533,-0.082 1.2363,0.4111 h 0.9453 l 0.6543,-0.5762 0.291,-0.4111 -0.6553,-0.4111 -1.0908,-0.082 c -0.3027,-0.4199 -0.584,-0.8613 -0.9434,-1.2344 l -0.3643,0.1641 -0.1455,1.0703 -0.6543,-0.7402 -0.1445,-0.8242 -0.7266,-0.5742 h -0.292 l 0.7275,0.8223 -0.291,0.7402 -0.5811,0.1641 0.3633,-0.7402 -0.6553,-0.3281 -0.5801,-0.6582 -1.0918,0.2461 -0.1445,0.3281 -0.6543,0.4121 -0.3633,0.9053 -0.9082,0.4521 -0.4004,-0.4521 h -0.4355 v -1.4814 l 0.9453,-0.4941 h 0.7266 l -0.1465,-0.5752 -0.5801,-0.5762 0.9805,-0.2061 0.5449,-0.6162 0.4355,-0.7412 h 0.8008 l -0.2188,-0.5752 0.5098,-0.3291 v 0.6582 l 1.0898,0.2461 1.0898,-0.9043 0.0732,-0.4121 0.9443,-0.6577 c -0.3418,0.0425 -0.6836,0.0737 -1.0176,0.1646 V 9.9762 L 34.221,9.1534 h -0.3633 l -0.7984,0.7402 -0.2188,0.4116 0.2188,0.5767 -0.3643,0.9863 -0.5811,-0.3291 -0.5078,-0.5752 -0.8008,0.5752 -0.291,-1.3159 1.3809,-0.9048 V 8.8243 l 0.873,-0.5757 1.3809,-0.3296 0.9453,0.3296 1.7441,0.3291 -0.4355,0.4932 h -0.9453 l 0.9453,0.9873 0.7266,-0.8223 0.2207,-0.3618 c 0,0 2.7871,2.498 4.3799,5.2305 1.5928,2.7334 2.3408,5.9551 2.3408,6.6094 z"
+               id="path4144-5-6"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4146-7-7">
+          <g
+             id="g4150-5-7">
+            <path
+               d="m 26.07,9.2363 -0.0732,0.4932 0.5098,0.3291 0.8711,-0.5757 -0.4355,-0.4937 -0.582,0.3296 -0.29,-0.0825"
+               id="path4152-7-3"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4154-9-7">
+          <g
+             id="g4158-1-12">
+            <path
+               d="m 26.87,5.8633 -1.8906,-0.7407 -2.1797,0.2466 -2.6904,0.7402 -0.5088,0.4941 1.6719,1.1514 v 0.6582 l -0.6543,0.6582 0.873,1.729 0.5801,-0.3301 0.7285,-1.1514 C 23.9227,8.9716 24.9296,8.5781 25.997,8.0844 L 26.87,5.8632"
+               id="path4160-2-2"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4162-8-1">
+          <g
+             id="g4166-1-5">
+            <path
+               d="m 28.833,12.775 -0.291,-0.7412 -0.5098,0.165 0.1465,0.9043 0.6543,-0.3281"
+               id="path4168-1-0"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4170-3-9">
+          <g
+             id="g4174-1-0">
+            <path
+               d="m 29.123,12.609 -0.1455,0.9883 0.7998,-0.165 0.5811,-0.5752 -0.5088,-0.4941 c -0.171,-0.455 -0.368,-0.88 -0.582,-1.317 h -0.4355 v 0.4932 l 0.29,0.3291 v 0.7402"
+               id="path4176-3-40"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4178-0-1">
+          <g
+             id="g4182-6-3">
+            <path
+               d="m 18.365,28.242 -0.582,-1.1523 -1.0903,-0.2466 -0.5815,-1.5625 -1.4536,0.1641 -1.2354,-0.9043 -1.3091,1.1514 v 0.1816 c -0.396,-0.1143 -0.8828,-0.1299 -1.2354,-0.3467 l -0.291,-0.8223 v -0.9053 l -0.8721,0.082 c 0.0728,-0.5762 0.145,-1.1514 0.2183,-1.7275 H 9.4236 L 8.9153,22.8118 8.406,23.0579 7.6789,22.6477 7.6061,21.7424 7.7516,20.7551 8.8424,19.9328 h 0.8721 l 0.145,-0.4941 1.0903,0.2461 0.7998,0.9883 0.1455,-1.6465 1.3813,-1.1514 0.5088,-1.2344 1.0176,-0.4111 0.5815,-0.8223 1.3081,-0.248 0.6548,-0.9863 h -1.9629 l 1.2358,-0.5762 h 0.8716 l 1.2363,-0.4121 0.1455,-0.4922 -0.4365,-0.4121 -0.5088,-0.165 0.1455,-0.4932 -0.3633,-0.7402 -0.8726,0.3281 0.1455,-0.6577 -1.0176,-0.5762 -0.7993,1.3979 0.0723,0.4941 -0.7993,0.3301 -0.5093,1.0693 L 13.7123,12.2804 12.331,11.7042 12.1127,10.964 13.9301,9.8937 14.7299,9.1535 14.8027,8.2487 14.3667,8.0016 13.7852,7.9191 13.4219,8.8244 c 0,0 -0.6079,0.1191 -0.7642,0.1577 -1.9961,1.8394 -6.0293,5.8101 -6.9663,13.306 0.0371,0.1738 0.6792,1.1816 0.6792,1.1816 l 1.5264,0.9043 1.5264,0.4121 0.6548,0.8232 1.0171,0.7402 0.5815,-0.082 0.436,0.1963 v 0.1328 l -0.5811,1.563 -0.4365,0.6582 0.1455,0.3301 -0.3633,1.2324 1.3086,2.3867 1.3081,1.1523 0.582,0.8223 -0.0732,1.7285 0.4365,0.9863 -0.4365,1.8926 c 0,0 -0.0342,-0.0117 0.0215,0.1777 0.0562,0.1895 2.3291,1.4512 2.4736,1.3438 0.144,-0.1094 0.2671,-0.2051 0.2671,-0.2051 l -0.145,-0.4102 0.5811,-0.5762 0.2183,-0.5762 0.9453,-0.3301 0.7266,-1.8105 -0.2178,-0.4922 0.5078,-0.7402 1.0908,-0.248 0.582,-1.3164 -0.1455,-1.6445 0.8721,-1.2344 0.1455,-1.2344 c -1.194,-0.59 -2.377,-1.2 -3.562,-1.809"
+               id="path4184-4-7"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4186-9-4">
+          <g
+             id="g4190-0-1">
+            <path
+               d="m 16.766,9.5649 0.7266,0.4937 h 0.582 V 9.4829 L 17.348,9.1538 16.766,9.5649"
+               id="path4192-7-1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4194-0-3">
+          <g
+             id="g4198-5-0">
+            <path
+               d="M 14.876,8.9072 14.5122,9.812 h 0.7271 l 0.3638,-0.8228 c 0.314,-0.2217 0.626,-0.4448 0.945,-0.6582 l 0.7271,0.2471 c 0.4844,0.3291 0.9688,0.6582 1.4536,0.9868 l 0.727,-0.6577 -0.8,-0.3291 -0.364,-0.7407 -1.381,-0.1646 -0.073,-0.4116 -0.654,0.165 -0.29,0.5758 -0.364,-0.7407 -0.145,0.3291 0.0728,0.8228 -0.5816,0.494"
+               id="path4200-1-3"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4202-0-2" />
+        <g
+           id="g4212-3-54" />
+        <g
+           id="g4222-1-4">
+          <g
+             id="g4226-3-1">
+            <path
+               d="M 17.492,6.8496 17.856,6.521 18.583,6.3564 c 0.498,-0.2422 0.998,-0.4053 1.5264,-0.5762 l -0.29,-0.4937 -0.9385,0.1348 -0.4434,0.4419 -0.731,0.106 -0.6499,0.3052 -0.3159,0.1528 -0.1929,0.2583 0.9443,0.1641"
+               id="path4228-8-6"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4230-0-5">
+          <g
+             id="g4234-6-7">
+            <path
+               d="m 18.728,14.666 0.4365,-0.6582 -0.6548,-0.4932 0.2183,1.1514"
+               id="path4236-0-8"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(1.5845,0,0,1.5845,-339.92,1183.8)"
+         style="color:#000000;fill:url(#radialGradient6440)"
+         id="g3216-1-59">
+        <g
+           style="color:#000000;fill:url(#radialGradient6380)"
+           id="g3218-7-2">
+          <g
+             style="color:#000000;fill:url(#radialGradient6378)"
+             id="g3222-3-7">
+            <path
+               d="m 44.071,20.714 -0.5449,0.6172 c -0.334,-0.3936 -0.709,-0.7246 -1.0898,-1.0703 l -0.8359,0.123 -0.7637,-0.8633 v 1.0684 l 0.6543,0.4951 0.4355,0.4932 0.582,-0.6582 c 0.1465,0.2744 0.291,0.5488 0.4365,0.8232 v 0.8223 l -0.6553,0.7402 -1.1992,0.8232 -0.9082,0.9063 -0.582,-0.6602 0.291,-0.7402 -0.5811,-0.6582 -0.9814,-2.0977 -0.8359,-0.9453 -0.2188,0.2461 0.3281,1.1934 0.6172,0.6992 c 0.3525,1.0176 0.7012,1.9902 1.1641,2.9629 0.7178,0 1.3945,-0.0762 2.1074,-0.166 v 0.5762 l -0.8721,2.1392 -0.7998,0.9043 -0.6543,1.4004 v 2.3027 l 0.2188,0.9063 -0.3633,0.4102 -0.8008,0.4941 -0.8359,0.6992 0.6914,0.7813 -0.9453,0.8242 0.1816,0.5332 -1.418,1.6055 h -0.9443 l -0.7998,0.4941 H 33.6393 V 38.281 l -0.2168,-1.3184 c -0.2813,-0.8262 -0.5742,-1.6465 -0.8721,-2.4668 0,-0.6055 0.0361,-1.2051 0.0723,-1.8105 l 0.3643,-0.8223 -0.5098,-0.9883 0.0371,-1.3574 -0.6914,-0.7813 0.3457,-1.1309 -0.5625,-0.6382 h -0.9824 l -0.3271,-0.3701 -0.9814,0.6177 -0.3994,-0.4536 -0.9092,0.7817 c -0.6172,-0.6997 -1.2354,-1.3989 -1.8535,-2.0981 l -0.7266,-1.7285 0.6543,-0.9863 -0.3633,-0.4111 0.7988,-1.8936 c 0.6563,-0.8164 1.3418,-1.5996 2.0352,-2.3857 l 1.2363,-0.3291 1.3809,-0.1641 0.9453,0.2471 1.3447,1.3564 0.4727,-0.5342 0.6533,-0.082 1.2363,0.4111 h 0.9453 l 0.6543,-0.5762 0.291,-0.4111 -0.6553,-0.4111 -1.0908,-0.082 c -0.3027,-0.4199 -0.584,-0.8613 -0.9434,-1.2344 l -0.3643,0.1641 -0.1455,1.0703 -0.6543,-0.7402 -0.1445,-0.8242 -0.7266,-0.5742 h -0.292 l 0.7275,0.8223 -0.291,0.7402 -0.5811,0.1641 0.3633,-0.7402 -0.6553,-0.3281 -0.5801,-0.6582 -1.0918,0.2461 -0.1445,0.3281 -0.6543,0.4121 -0.3633,0.9053 -0.9082,0.4521 -0.4004,-0.4521 h -0.4355 v -1.4814 l 0.9453,-0.4941 h 0.7266 l -0.1465,-0.5752 -0.5801,-0.5762 0.9805,-0.2061 0.5449,-0.6162 0.4355,-0.7412 h 0.8008 l -0.2188,-0.5752 0.5098,-0.3291 v 0.6582 l 1.0898,0.2461 1.0898,-0.9043 0.0732,-0.4121 0.9443,-0.6577 c -0.3418,0.0425 -0.6836,0.0737 -1.0176,0.1646 V 9.9762 L 34.221,9.1534 h -0.3633 l -0.7984,0.7402 -0.2188,0.4116 0.2188,0.5767 -0.3643,0.9863 -0.5811,-0.3291 -0.5078,-0.5752 -0.8008,0.5752 -0.291,-1.3159 1.3809,-0.9048 V 8.8243 l 0.873,-0.5757 1.3809,-0.3296 0.9453,0.3296 1.7441,0.3291 -0.4355,0.4932 h -0.9453 l 0.9453,0.9873 0.7266,-0.8223 0.2207,-0.3618 c 0,0 2.7871,2.498 4.3799,5.2305 1.5928,2.7334 2.3408,5.9551 2.3408,6.6094 z"
+               style="color:#000000;fill:url(#radialGradient6376)"
+               id="path3224-6-3"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6386)"
+           id="g3226-0-6">
+          <g
+             style="color:#000000;fill:url(#radialGradient6384)"
+             id="g3230-8-4">
+            <path
+               d="m 26.07,9.2363 -0.0732,0.4932 0.5098,0.3291 0.8711,-0.5757 -0.4355,-0.4937 -0.582,0.3296 -0.29,-0.0825"
+               style="color:#000000;fill:url(#radialGradient6382)"
+               id="path3232-9-7"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6392)"
+           id="g3234-6-9">
+          <g
+             style="color:#000000;fill:url(#radialGradient6390)"
+             id="g3238-3-7">
+            <path
+               d="m 26.87,5.8633 -1.8906,-0.7407 -2.1797,0.2466 -2.6904,0.7402 -0.5088,0.4941 1.6719,1.1514 v 0.6582 l -0.6543,0.6582 0.873,1.729 0.5801,-0.3301 0.7285,-1.1514 C 23.9227,8.9716 24.9296,8.5781 25.997,8.0844 L 26.87,5.8632"
+               style="color:#000000;fill:url(#radialGradient6388)"
+               id="path3240-0-2"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6398)"
+           id="g3242-8-2">
+          <g
+             style="color:#000000;fill:url(#radialGradient6396)"
+             id="g3246-2-1">
+            <path
+               d="m 28.833,12.775 -0.291,-0.7412 -0.5098,0.165 0.1465,0.9043 0.6543,-0.3281"
+               style="color:#000000;fill:url(#radialGradient6394)"
+               id="path3248-0-6"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6404)"
+           id="g3250-6-3">
+          <g
+             style="color:#000000;fill:url(#radialGradient6402)"
+             id="g3254-3-0">
+            <path
+               d="m 29.123,12.609 -0.1455,0.9883 0.7998,-0.165 0.5811,-0.5752 -0.5088,-0.4941 c -0.171,-0.455 -0.368,-0.88 -0.582,-1.317 h -0.4355 v 0.4932 l 0.29,0.3291 v 0.7402"
+               style="color:#000000;fill:url(#radialGradient6400)"
+               id="path3256-3-2"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6410)"
+           id="g3258-5-1">
+          <g
+             style="color:#000000;fill:url(#radialGradient6408)"
+             id="g3262-2-5">
+            <path
+               d="m 18.365,28.242 -0.582,-1.1523 -1.0903,-0.2466 -0.5815,-1.5625 -1.4536,0.1641 -1.2354,-0.9043 -1.3091,1.1514 v 0.1816 c -0.396,-0.1143 -0.8828,-0.1299 -1.2354,-0.3467 l -0.291,-0.8223 v -0.9053 l -0.8721,0.082 c 0.0728,-0.5762 0.145,-1.1514 0.2183,-1.7275 H 9.4236 L 8.9153,22.8118 8.406,23.0579 7.6789,22.6477 7.6061,21.7424 7.7516,20.7551 8.8424,19.9328 h 0.8721 l 0.145,-0.4941 1.0903,0.2461 0.7998,0.9883 0.1455,-1.6465 1.3813,-1.1514 0.5088,-1.2344 1.0176,-0.4111 0.5815,-0.8223 1.3081,-0.248 0.6548,-0.9863 h -1.9629 l 1.2358,-0.5762 h 0.8716 l 1.2363,-0.4121 0.1455,-0.4922 -0.4365,-0.4121 -0.5088,-0.165 0.1455,-0.4932 -0.3633,-0.7402 -0.8726,0.3281 0.1455,-0.6577 -1.0176,-0.5762 -0.7993,1.3979 0.0723,0.4941 -0.7993,0.3301 -0.5093,1.0693 L 13.7123,12.2804 12.331,11.7042 12.1127,10.964 13.9301,9.8937 14.7299,9.1535 14.8027,8.2487 14.3667,8.0016 13.7852,7.9191 13.4219,8.8244 c 0,0 -0.6079,0.1191 -0.7642,0.1577 -1.9961,1.8394 -6.0293,5.8101 -6.9663,13.306 0.0371,0.1738 0.6792,1.1816 0.6792,1.1816 l 1.5264,0.9043 1.5264,0.4121 0.6548,0.8232 1.0171,0.7402 0.5815,-0.082 0.436,0.1963 v 0.1328 l -0.5811,1.563 -0.4365,0.6582 0.1455,0.3301 -0.3633,1.2324 1.3086,2.3867 1.3081,1.1523 0.582,0.8223 -0.0732,1.7285 0.4365,0.9863 -0.4365,1.8926 c 0,0 -0.0342,-0.0117 0.0215,0.1777 0.0562,0.1895 2.3291,1.4512 2.4736,1.3438 0.144,-0.1094 0.2671,-0.2051 0.2671,-0.2051 l -0.145,-0.4102 0.5811,-0.5762 0.2183,-0.5762 0.9453,-0.3301 0.7266,-1.8105 -0.2178,-0.4922 0.5078,-0.7402 1.0908,-0.248 0.582,-1.3164 -0.1455,-1.6445 0.8721,-1.2344 0.1455,-1.2344 c -1.194,-0.59 -2.377,-1.2 -3.562,-1.809"
+               style="color:#000000;fill:url(#radialGradient6406)"
+               id="path3264-5-6"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6416)"
+           id="g3266-1-5">
+          <g
+             style="color:#000000;fill:url(#radialGradient6414)"
+             id="g3270-5-0">
+            <path
+               d="m 16.766,9.5649 0.7266,0.4937 h 0.582 V 9.4829 L 17.348,9.1538 16.766,9.5649"
+               style="color:#000000;fill:url(#radialGradient6412)"
+               id="path3272-0-03"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6422)"
+           id="g3274-4-4">
+          <g
+             style="color:#000000;fill:url(#radialGradient6420)"
+             id="g3278-5-6">
+            <path
+               d="M 14.876,8.9072 14.5122,9.812 h 0.7271 l 0.3638,-0.8228 c 0.314,-0.2217 0.626,-0.4448 0.945,-0.6582 l 0.7271,0.2471 c 0.4844,0.3291 0.9688,0.6582 1.4536,0.9868 l 0.727,-0.6577 -0.8,-0.3291 -0.364,-0.7407 -1.381,-0.1646 -0.073,-0.4116 -0.654,0.165 -0.29,0.5758 -0.364,-0.7407 -0.145,0.3291 0.0728,0.8228 -0.5816,0.494"
+               style="color:#000000;fill:url(#radialGradient6418)"
+               id="path3280-3-6"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6424)"
+           id="g3282-7-0" />
+        <g
+           style="color:#000000;fill:url(#radialGradient6426)"
+           id="g3292-6-50" />
+        <g
+           style="color:#000000;fill:url(#radialGradient6432)"
+           id="g3302-5-8">
+          <g
+             style="color:#000000;fill:url(#radialGradient6430)"
+             id="g3306-8-2">
+            <path
+               d="M 17.492,6.8496 17.856,6.521 18.583,6.3564 c 0.498,-0.2422 0.998,-0.4053 1.5264,-0.5762 l -0.29,-0.4937 -0.9385,0.1348 -0.4434,0.4419 -0.731,0.106 -0.6499,0.3052 -0.3159,0.1528 -0.1929,0.2583 0.9443,0.1641"
+               style="color:#000000;fill:url(#radialGradient6428)"
+               id="path3308-8-1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           style="color:#000000;fill:url(#radialGradient6438)"
+           id="g3310-4-0">
+          <g
+             style="color:#000000;fill:url(#radialGradient6436)"
+             id="g3314-3-58">
+            <path
+               d="m 18.728,14.666 0.4365,-0.6582 -0.6548,-0.4932 0.2183,1.1514"
+               style="color:#000000;fill:url(#radialGradient6434)"
+               id="path3316-1-5"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <path
+         d="m -270.48,1221.6 c 0,16.396 -13.292,29.688 -29.686,29.688 -16.396,0 -29.687,-13.292 -29.687,-29.688 0,-16.396 13.291,-29.686 29.687,-29.686 16.394,0 29.686,13.291 29.686,29.686 z"
+         id="path4122-4-5"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:url(#radialGradient6442);stroke-width:2.93839598" />
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text6444"
+       y="757"
+       x="200"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="757"
+         x="200"
+         sodipodi:role="line"
+         id="tspan6450">twitter_fdw, ldap_fdw, PGStrom, Hadoop FDW, s3_fdw, www_fdw</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4187"
+     inkscape:label="Определение внешнего сервера"
+     style="display:none">
+    <a
+       id="a4189"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       style="display:inline"
+       transform="translate(0,40)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="110"
+         id="text4191"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan4197"
+           sodipodi:role="line"
+           x="80"
+           y="110">Определение нового внешнего сервера:</tspan><tspan
+           id="tspan4199"
+           sodipodi:role="line"
+           x="80"
+           y="182" /></text>
+    </a>
+    <rect
+       ry="20"
+       y="190"
+       x="80"
+       height="240"
+       width="1440"
+       id="rect4242"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="238.93164"
+       id="text4244"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="120"
+         y="238.93164"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4246">CREATE SERVER <tspan
+   style="fill:#aa0000"
+   id="tspan6439">server_name</tspan> [ TYPE '<tspan
+   style="fill:#aa0000"
+   id="tspan6437">server_type</tspan>' ] </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="292.93164"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4262">    [ VERSION '<tspan
+   style="fill:#aa0000"
+   id="tspan6441">server_version</tspan>' ]</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="346.93164"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4258">    FOREIGN DATA WRAPPER <tspan
+   style="fill:#aa0000"
+   id="tspan6435">fdw_name</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="400.93164"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4260">    [ OPTIONS ( <tspan
+   style="fill:#aa0000"
+   id="tspan6445">option</tspan> '<tspan
+   style="fill:#aa0000"
+   id="tspan6443">value</tspan>' [, ... ] ) ]</tspan><tspan
+         id="tspan4248"
+         sodipodi:role="line"
+         x="120"
+         y="454.93164" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="490"
+       id="text4144-2"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="490"
+         id="tspan4146-6">server_name - имя определяемого сервера.</tspan><tspan
+         id="tspan4148-3"
+         sodipodi:role="line"
+         x="80"
+         y="562" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6417"
+       y="563.13672"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6419"
+         y="563.13672"
+         x="80"
+         sodipodi:role="line">server_type - тип определяемого сервера.</tspan><tspan
+         y="635.13672"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6421" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="638.34766"
+       id="text6423"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="638.34766"
+         id="tspan6425">server_version - версия определяемого сервера.</tspan><tspan
+         id="tspan6427"
+         sodipodi:role="line"
+         x="80"
+         y="710.34766" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6429"
+       y="714.17383"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6431"
+         y="714.17383"
+         x="80"
+         sodipodi:role="line">fdw_name - имя обработчика.</tspan><tspan
+         y="786.17383"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6433" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="790"
+       id="text6447"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="790"
+         id="tspan6449">option 'value' - параметры обрабочика.</tspan><tspan
+         id="tspan6451"
+         sodipodi:role="line"
+         x="80"
+         y="862" /></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Определение внешнего сервера PostgreSQL"
+     id="g6555"
+     inkscape:groupmode="layer">
+    <a
+       transform="translate(0,40)"
+       style="display:inline"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a6557">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6559"
+         y="110"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="110"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6561">Определение внешнего сервера PostgreSQL:</tspan><tspan
+           y="182"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6563" /></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6565"
+       width="1440"
+       height="300"
+       x="80"
+       y="190"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text6567"
+       y="238.93164"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6575"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="238.93164"
+         x="120"
+         sodipodi:role="line">CREATE SERVER mephi </tspan><tspan
+         id="tspan6579"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="292.93164"
+         x="120"
+         sodipodi:role="line">    FOREIGN DATA WRAPPER postgres_fdw</tspan><tspan
+         id="tspan6583"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="346.93164"
+         x="120"
+         sodipodi:role="line">    OPTIONS (host '192.168.0.<tspan
+   style="fill:#aa0000"
+   id="tspan6630">X</tspan>', </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="400.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6626">             port '5432',</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="454.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6628">             dbname 'mephi');</tspan><tspan
+         y="508.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6589" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Сопоставление пользователей"
      style="display:none">
     <a
        transform="translate(0,40)"
        style="display:inline"
-       xlink:href="http://www.postgresql.org/download/"
-       id="a6655">
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a6453">
       <text
          sodipodi:linespacing="200%"
-         id="text6657"
-         y="150"
+         id="text6455"
+         y="110"
          x="80"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="150"
+           y="110"
            x="80"
            sodipodi:role="line"
-           id="tspan6664">Во время выполнения транзакции параллельные транзакции не </tspan><tspan
-           y="230"
+           id="tspan6457">Для выполнения аутентификации на удалённом сервере необходимо</tspan><tspan
+           y="182"
            x="80"
            sodipodi:role="line"
-           id="tspan9642">должны оказывать влияние на её результат.</tspan></text>
+           id="tspan6634">настроить сопоставление пользователей:</tspan><tspan
+           y="254"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6632" /><tspan
+           y="326"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6459" /></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6461"
+       width="1440"
+       height="240"
+       x="80"
+       y="270"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text6463"
+       y="318.93164"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6481"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="318.93164"
+         x="120"
+         sodipodi:role="line">CREATE USER MAPPING FOR </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="372.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6658">    { user_name | USER | CURRENT_USER | PUBLIC }</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="426.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6654">    SERVER server_name</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="480.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6656">    [ OPTIONS ( option 'value' [ , ... ] ) ]</tspan><tspan
+         y="534.93164"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6487" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="610"
+       id="text6495"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="610"
+         id="tspan6497">user_name - имя локального пользователя.</tspan><tspan
+         id="tspan6499"
+         sodipodi:role="line"
+         x="80"
+         y="682" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6501"
+       y="690"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6503"
+         y="690"
+         x="80"
+         sodipodi:role="line">server_name - имя удалённого сервера.</tspan><tspan
+         y="762"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6505" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6517"
+       y="770"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6519"
+         y="770"
+         x="80"
+         sodipodi:role="line">option 'value' - дополнительные параметры для сопоставления.</tspan><tspan
+         y="842"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6521" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6660"
+     inkscape:label="Сопоставление пользователей для PosgreSQL"
+     style="display:none">
+    <a
+       id="a6662"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       style="display:inline"
+       transform="translate(0,40)">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="80"
-         y="370"
-         id="text9644"
+         y="110"
+         id="text6664"
          sodipodi:linespacing="200%"><tspan
-           id="tspan9648"
            sodipodi:role="line"
            x="80"
-           y="370">Это свойство не соблюдается на уровне изолированности </tspan><tspan
+           y="110"
+           id="tspan6721">Сопоставление текущего пользователя и пользователя <tspan
+   style="fill:#aa0000"
+   id="tspan6725">student</tspan></tspan><tspan
            sodipodi:role="line"
            x="80"
-           y="450"
-           id="tspan9652">Repeatable Read и ниже.</tspan></text>
+           y="182"
+           id="tspan6729">на удалённом сервере <tspan
+   style="fill:#aa0000"
+   id="tspan6723">mephi</tspan>:</tspan><tspan
+           id="tspan6668"
+           sodipodi:role="line"
+           x="80"
+           y="254" /></text>
     </a>
-    <flowRoot
+    <rect
+       ry="20"
+       y="294.38477"
+       x="80"
+       height="200"
+       width="1440"
+       id="rect6670"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
        xml:space="preserve"
-       id="flowRoot9625"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"><flowRegion
-         id="flowRegion9627"><rect
-           id="rect9629"
-           width="1984.2858"
-           height="320"
-           x="-91.428574"
-           y="357.14285" /></flowRegion><flowPara
-         id="flowPara9631" /></flowRoot>  </g>
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="350"
+       id="text6672"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan6686"
+         sodipodi:role="line"
+         x="120"
+         y="350"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">CREATE USER MAPPING FOR CURRENT_USER <tspan
+   style="fill:#aa0000"
+   id="tspan6717" /></tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="404"
+         id="tspan6711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">    SERVER <tspan
+   style="fill:#aa0000"
+   id="tspan6719">mephi </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="458"
+         id="tspan6713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">    OPTIONS (user 'student', password 'student');</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Создание внешних таблиц"
+     style="display:none">
+    <a
+       id="a6732"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       style="display:inline"
+       transform="translate(0,40)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="110"
+         id="text6734"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan6738"
+           sodipodi:role="line"
+           x="80"
+           y="110">Создание внешних таблиц:</tspan><tspan
+           id="tspan6740"
+           sodipodi:role="line"
+           x="80"
+           y="182" /><tspan
+           id="tspan6742"
+           sodipodi:role="line"
+           x="80"
+           y="254" /></text>
+    </a>
+    <rect
+       ry="20"
+       y="196.97166"
+       x="80"
+       height="293.02832"
+       width="1440"
+       id="rect6744"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="245.51414"
+       id="text6746"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan6754"
+         sodipodi:role="line"
+         x="120"
+         y="245.51414"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">CREATE FOREIGN TABLE [ IF NOT EXISTS ] <tspan
+   style="fill:#aa0000"
+   id="tspan6925">table </tspan></tspan><tspan
+         id="tspan6756"
+         sodipodi:role="line"
+         x="120"
+         y="299.51416"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">   ( [<tspan
+   style="fill:#aa0000"
+   id="tspan6927">сolumn type</tspan> [ OPTIONS ( option 'value' [, ... ] ) ]</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="353.51416"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6943">   [ COLLATE collation ] [ column_constraint [ ... ] ] ] )</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="407.51416"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6945">  SERVER <tspan
+   style="fill:#aa0000"
+   id="tspan6951">server_name</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="461.51416"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6947">[ OPTIONS ( option 'value' [, ... ] ) ]</tspan></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6758"
+       y="550"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6760"
+         y="550"
+         x="80"
+         sodipodi:role="line">table - имя создаваемой таблицы.</tspan><tspan
+         y="622"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6762" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="630"
+       id="text6764"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="630"
+         id="tspan6766">column type - имя и тип столбца в создаваемой таблице.</tspan><tspan
+         id="tspan6768"
+         sodipodi:role="line"
+         x="80"
+         y="702" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="790"
+       id="text6770"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="790"
+         id="tspan6772">option 'value' - дополнительные параметры.</tspan><tspan
+         id="tspan6774"
+         sodipodi:role="line"
+         x="80"
+         y="862" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text6931"
+       y="710"
+       x="80"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6933"
+         y="710"
+         x="80"
+         sodipodi:role="line">server_name - имя внешнего серве.</tspan><tspan
+         y="782"
+         x="80"
+         sodipodi:role="line"
+         id="tspan6935" /></text>
+  </g>
   <g
      style="display:none"
+     inkscape:label="Создание внешних таблиц через postgres_fdw"
+     id="g6953"
+     inkscape:groupmode="layer">
+    <a
+       transform="translate(0,40)"
+       style="display:inline"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a6955">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6957"
+         y="110"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="110"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6959">Создание внешней таблицы:</tspan><tspan
+           y="182"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6961" /><tspan
+           y="254"
+           x="80"
+           sodipodi:role="line"
+           id="tspan6963" /></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6965"
+       width="1440"
+       height="413.02832"
+       x="80"
+       y="196.97166"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text6967"
+       y="250.91649"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="250.91649"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7129">CREATE FOREIGN TABLE students </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="304.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7141">( </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="358.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7161">    id integer, </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="412.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7163">    first_name text, </tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="466.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7165">    last_name text</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="520.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7167">)</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="574.9165"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7143">SERVER mephi OPTIONS (table_name 'students');</tspan></text>
+  </g>
+  <g
+     style="display:inline"
      inkscape:label="Практика"
      id="g6246"
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
        y="150"
        id="text6248"
-       sodipodi:linespacing="200%"><tspan
+       sodipodi:linespacing="150%"><tspan
          y="150"
          x="120"
          sodipodi:role="line"
-         id="tspan6511">Проделайте задачу на окраску точек с бОльшим количеством</tspan><tspan
-         y="230"
+         id="tspan6513">Создайте две базы данных, bank_1 и bank_2, содержащие</tspan><tspan
+         y="210"
          x="120"
          sodipodi:role="line"
-         id="tspan6513">цветов и параллельных транзакций.</tspan></text>
+         id="tspan7171">таблицу accounts (id, balance).</tspan></text>
     <g
        id="g6252"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,118.92579)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,153.62305)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -4503,7 +7281,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,299.60938)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,433.96485)"
        id="g6328">
       <g
          id="g6330"
@@ -4573,28 +7351,319 @@
        transform="translate(2.7539063,-60)">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="117.24609"
-         y="390"
+         y="350"
          id="text6374"
-         sodipodi:linespacing="200%"><tspan
-           y="390"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan6529"
+           y="350"
+           x="117.24609"
+           sodipodi:role="line">С помощью механизма двухфазной фиксации транзакций</tspan><tspan
+           y="410"
            x="117.24609"
            sodipodi:role="line"
-           id="tspan6376">Изучите страницу http://wiki.postgresql.org/wiki/SSI и выполните </tspan><tspan
-           id="tspan6529"
+           id="tspan8544">реализуйте процедуру межбанковского перевода.</tspan><tspan
            y="470"
-           x="117.24609"
-           sodipodi:role="line">приведённые на ней дополнительные задачи.  </tspan><tspan
-           y="550"
            x="117.24609"
            sodipodi:role="line"
            id="tspan6378" /><tspan
-           y="630"
+           y="530"
            x="117.24609"
            sodipodi:role="line"
            id="tspan6380" /></text>
+      <text
+         sodipodi:linespacing="150%"
+         id="text8546"
+         y="490"
+         x="117.24609"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8550"
+           sodipodi:role="line"
+           x="117.24609"
+           y="490">Подключите модуль dblink и реализуйте процедуру </tspan><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="550"
+           id="tspan8560">межбанковского перевода.</tspan><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="610"
+           id="tspan8558" /><tspan
+           id="tspan8552"
+           sodipodi:role="line"
+           x="117.24609"
+           y="670" /><tspan
+           id="tspan8554"
+           sodipodi:role="line"
+           x="117.24609"
+           y="730" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8562"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:32px;line-height:125%;letter-spacing:0.30000000999999998px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Courier;font-stretch:normal;font-variant:normal"><flowRegion
+           id="flowRegion8564"><rect
+             id="rect8566"
+             width="70"
+             height="51.42857"
+             x="714.28571"
+             y="531.42859" /></flowRegion><flowPara
+           id="flowPara8568"></flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="117.24609"
+         y="630"
+         id="text8570"
+         sodipodi:linespacing="150%"><tspan
+           y="630"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan8572">Подключите модуль postgres_fdw и реализуйте процедуру </tspan><tspan
+           id="tspan8574"
+           y="690"
+           x="117.24609"
+           sodipodi:role="line">межбанковского перевода.</tspan><tspan
+           id="tspan8576"
+           y="750"
+           x="117.24609"
+           sodipodi:role="line" /><tspan
+           y="810"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan8578" /><tspan
+           y="870"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan8580" /></text>
+      <text
+         sodipodi:linespacing="150%"
+         id="text8582"
+         y="770"
+         x="117.24609"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="770"
+           id="tspan8600"
+           style="fill:#aa0000">Проверьте работу распределённых транзакций с </tspan><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="830"
+           style="fill:#aa0000"
+           id="tspan8698">различными модулями FDW.</tspan><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="890"
+           id="tspan8588" /><tspan
+           id="tspan8590"
+           sodipodi:role="line"
+           x="117.24609"
+           y="950" /><tspan
+           id="tspan8592"
+           sodipodi:role="line"
+           x="117.24609"
+           y="1010" /></text>
     </a>
+    <g
+       id="g8602"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,293.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g8604" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g8606">
+        <path
+           id="path8608"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8610"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8612"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8614"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8616"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8618"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8620"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8622"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8624"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8626"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8628"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8630"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,573.96485)"
+       id="g8632">
+      <g
+         id="g8634"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g8636"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path8638" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path8640" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path8642" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path8644" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path8646" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path8648" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path8650" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path8652" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path8654" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path8656" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path8658" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path8660" />
+      </g>
+    </g>
+    <g
+       id="g8662"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,713.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g8664" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g8666">
+        <path
+           id="path8668"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8670"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8672"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8674"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8676"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8678"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8680"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8682"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8684"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8686"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8688"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8690"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4605,17 +7674,9 @@
        id="a4242"
        xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
        style="fill:#800080">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="120"
-         y="150"
-         id="text4162"
-         sodipodi:linespacing="200%"><tspan
-           y="150"
-           x="120"
-           sodipodi:role="line"
-           id="tspan4166">PostgreSQL: Transaction Isolation</tspan></text>
+      <a
+         id="a3974"
+         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
     </a>
     <g
        style="display:inline"
@@ -4683,91 +7744,6 @@
            id="path4196" />
       </g>
     </g>
-    <g
-       id="g4198"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,439.60938)"
-       style="display:inline">
-      <g
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
-         id="g4200" />
-      <g
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-         id="g4202">
-        <path
-           id="path4204"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4206"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           style="fill:#336791;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4208"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4210"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4212"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4214"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           style="stroke-linejoin:bevel"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4216"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4218"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4220"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4222"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4224"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4226"
-           d="M 0,60.232"
-           style="stroke-width:3"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       sodipodi:linespacing="200%"
-       id="text4355"
-       y="465.64453"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="465.64453"
-         id="tspan4357">Momjian B. Get To Know PostgreSQL </tspan><tspan
-         id="tspan4359"
-         sodipodi:role="line"
-         x="120"
-         y="545.64453" /><tspan
-         id="tspan4361"
-         sodipodi:role="line"
-         x="120"
-         y="625.64453" /></text>
     <g
        id="g4252"
        transform="matrix(0.0673571,0,0,0.0673571,68.534688,198.92579)"
@@ -4900,72 +7876,6 @@
            id="path4322" />
       </g>
     </g>
-    <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,359.60938)"
-       id="g4330">
-      <g
-         id="g4332"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
-      <g
-         id="g4334"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path4336" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path4338" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path4340" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path4342" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path4344" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path4346" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path4348" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path4350" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path4352" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path4354" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path4356" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
-           d="M 0,60.232"
-           id="path4358" />
-      </g>
-    </g>
     <a
        style="fill:#800080"
        id="a4319"
@@ -4973,7 +7883,7 @@
        transform="translate(2.8710938,0)" />
     <a
        transform="translate(2.8710938,-80)"
-       xlink:href="http://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8_%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/postgres-fdw.html"
        id="a4329"
        style="fill:#800080">
       <text
@@ -4986,7 +7896,7 @@
            sodipodi:role="line"
            x="117.24609"
            y="390"
-           id="tspan4333">Wikipedia: Уровни изолированности транзакций</tspan><tspan
+           id="tspan4333">PostgreSQL: postgres_fdw</tspan><tspan
            id="tspan4335"
            sodipodi:role="line"
            x="117.24609"
@@ -4999,7 +7909,7 @@
     <a
        style="fill:#800080"
        id="a4339"
-       xlink:href="http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
        transform="translate(2.8710938,-160)">
       <text
          xml:space="preserve"
@@ -5011,7 +7921,7 @@
            id="tspan4343"
            y="390"
            x="117.24609"
-           sodipodi:role="line">Wikipedia: Транзакция</tspan><tspan
+           sodipodi:role="line">PostgreSQL: dblink</tspan><tspan
            y="470"
            x="117.24609"
            sodipodi:role="line"
@@ -5022,30 +7932,222 @@
            id="tspan4347" /></text>
     </a>
     <a
-       id="a4395"
-       xlink:href="http://www.postgresql.org/files/developer/transactions.pdf"
-       target="http://www.postgresql.org/files/developer/transactions.pdf"
-       transform="translate(0,-160)">
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a6488"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/sql-prepare-transaction.html"
+       id="a6508"
+       style="fill:#800080">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6510"
+         y="390"
+         x="117.24609"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           x="117.24609"
+           y="390"
+           id="tspan6512">PostgreSQL: PREPARE TRANSACTION</tspan><tspan
+           id="tspan6514"
+           sodipodi:role="line"
+           x="117.24609"
+           y="470" /><tspan
+           id="tspan6516"
+           sodipodi:role="line"
+           x="117.24609"
+           y="550" /></text>
+    </a>
+    <g
+       id="g7009"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,278.92579)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7011" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7013">
+        <path
+           id="path7015"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7017"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7019"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7021"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7023"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7025"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7027"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7029"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7031"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7033"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7035"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7037"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <a
+       style="fill:#800080"
+       id="a7039"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/postgres-fdw.html"
+       transform="translate(2.8710938,-80)">
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="120.11719"
-         y="550"
-         id="text4365"
+         x="117.24609"
+         y="390"
+         id="text7041"
          sodipodi:linespacing="200%"><tspan
-           id="tspan4367"
+           id="tspan7043"
+           y="390"
+           x="117.24609"
+           sodipodi:role="line">PostgreSQL: postgres_fdw</tspan><tspan
+           y="470"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan7045" /><tspan
            y="550"
-           x="120.11719"
-           sodipodi:role="line">Lane T. Transaction Processing in PostgreSQL </tspan><tspan
-           y="630"
-           x="120.11719"
+           x="117.24609"
            sodipodi:role="line"
-           id="tspan4369" /><tspan
-           y="710"
-           x="120.11719"
-           sodipodi:role="line"
-           id="tspan4371" /></text>
+           id="tspan7047" /></text>
     </a>
+    <g
+       id="g7049"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,358.92579)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7051" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7053">
+        <path
+           id="path7055"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7057"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7059"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7061"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7063"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7065"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7067"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7069"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7071"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7073"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7075"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7077"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <a
+       style="fill:#800080"
+       id="a7079"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       transform="translate(2.8710938,0)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="117.24609"
+         y="390"
+         id="text7081"
+         sodipodi:linespacing="200%"><tspan
+           y="390"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan7103">Write a Foreign Data Wrapper in 15 minutes</tspan><tspan
+           y="470"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan7085" /><tspan
+           y="550"
+           x="117.24609"
+           sodipodi:role="line"
+           id="tspan7087" /></text>
+    </a>
+    <a
+       transform="translate(2.8710938,0)"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       id="a7089"
+       style="fill:#800080" />
   </g>
   <g
      inkscape:groupmode="layer"
