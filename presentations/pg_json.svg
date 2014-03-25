@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="150.27557"
+     inkscape:cx="198.99807"
      inkscape:cy="476.03751"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -4136,96 +4136,6 @@
        style="display:inline"
        xlink:href="http://www.postgresql.org/download/"
        id="a5529-8" />
-    <g
-       style="display:inline"
-       transform="translate(0,320)"
-       id="g4917-4-5">
-      <text
-         sodipodi:linespacing="200%"
-         id="text9527-4-0"
-         y="150"
-         x="80"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4601-6-3"
-           y="150"
-           x="80"
-           sodipodi:role="line">Создание таблицы со столбцом типа hstore: </tspan><tspan
-           id="tspan9570-5-0"
-           y="222"
-           x="80"
-           sodipodi:role="line" /></text>
-      <rect
-         rx="20"
-         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="rect4022-7-5-8"
-         width="1440"
-         height="60"
-         x="80"
-         y="170"
-         ry="20" />
-      <text
-         sodipodi:linespacing="150%"
-         id="text4024-6-7-0"
-         y="210"
-         x="120"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
-           y="210"
-           x="120"
-           sodipodi:role="line"
-           id="tspan4052-4-9-2">CREATE TABLE test (x hstore);</tspan><tspan
-           y="258"
-           x="120"
-           sodipodi:role="line"
-           id="tspan4036-8-9-8" /></text>
-    </g>
-    <g
-       style="display:inline"
-       transform="translate(0,310)"
-       id="g4906-2-3">
-      <text
-         xml:space="preserve"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         x="80"
-         y="310"
-         id="text4846-3-9"
-         sodipodi:linespacing="200%"><tspan
-           sodipodi:role="line"
-           x="80"
-           y="310"
-           id="tspan4848-0-6">Ввод данных в hstore: </tspan><tspan
-           sodipodi:role="line"
-           x="80"
-           y="382"
-           id="tspan4850-4-4" /></text>
-      <rect
-         ry="20"
-         y="330"
-         x="80"
-         height="60"
-         width="1440"
-         id="rect4852-9-5"
-         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         rx="20" />
-      <text
-         xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="120"
-         y="368.45312"
-         id="text4854-9-8"
-         sodipodi:linespacing="150%"><tspan
-           id="tspan4856-1-8"
-           sodipodi:role="line"
-           x="120"
-           y="368.45312"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">INSERT INTO test VALUES ('a=&gt;1,b=&gt;2'::hstore);</tspan><tspan
-           id="tspan4858-7-9"
-           sodipodi:role="line"
-           x="120"
-           y="416.45312" /></text>
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8052,6 +7962,96 @@
          x="80"
          y="270"
          id="tspan4737">Установка модуля hstore:</tspan></text>
+    <g
+       style="display:inline"
+       transform="translate(0,320)"
+       id="g4917-4-5">
+      <text
+         sodipodi:linespacing="200%"
+         id="text9527-4-0"
+         y="150"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4601-6-3"
+           y="150"
+           x="80"
+           sodipodi:role="line">Создание таблицы со столбцом типа hstore: </tspan><tspan
+           id="tspan9570-5-0"
+           y="222"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect4022-7-5-8"
+         width="1440"
+         height="60"
+         x="80"
+         y="170"
+         ry="20" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text4024-6-7-0"
+         y="210"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="210"
+           x="120"
+           sodipodi:role="line"
+           id="tspan4052-4-9-2">CREATE TABLE test (x hstore);</tspan><tspan
+           y="258"
+           x="120"
+           sodipodi:role="line"
+           id="tspan4036-8-9-8" /></text>
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(0,310)"
+       id="g4906-2-3">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="310"
+         id="text4846-3-9"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="310"
+           id="tspan4848-0-6">Ввод данных в hstore: </tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="382"
+           id="tspan4850-4-4" /></text>
+      <rect
+         ry="20"
+         y="330"
+         x="80"
+         height="60"
+         width="1440"
+         id="rect4852-9-5"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="368.45312"
+         id="text4854-9-8"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan4856-1-8"
+           sodipodi:role="line"
+           x="120"
+           y="368.45312"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">INSERT INTO test VALUES ('a=&gt;1,b=&gt;2'::hstore);</tspan><tspan
+           id="tspan4858-7-9"
+           sodipodi:role="line"
+           x="120"
+           y="416.45312" /></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
