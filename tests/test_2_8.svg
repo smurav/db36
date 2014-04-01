@@ -2330,6 +2330,97 @@
        id="a5529-8"
        xlink:href="http://www.postgresql.org/download/"
        style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="Введение"
+     style="display:none">
+    <a
+       style="display:inline"
+       id="a3237"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,0)">
+      <text
+         sodipodi:linespacing="200%"
+         id="text3231"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           id="tspan6097" /></text>
+    </a>
+    <text
+       sodipodi:linespacing="150%"
+       id="text5033-0"
+       y="468.93359"
+       x="119.78906"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="119.78906"
+         y="468.93359"
+         id="tspan9821-1">Часть тем выполняется через удалённое подключение к центральному </tspan><tspan
+         sodipodi:role="line"
+         x="119.78906"
+         y="522.93359"
+         id="tspan9839-3">серверу баз данных, расположенному по адресу <tspan
+   style="font-size:36px;fill:#aa0000"
+   id="tspan8418">192.168.1.100</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="118.24219"
+       y="630"
+       id="text8456"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan8462"
+         y="630"
+         x="118.24219"
+         sodipodi:role="line">Все задачи расчитаны на работу с PostgreSQL версии <tspan
+   style="fill:#aa0000"
+   id="tspan13874">9.3</tspan> и выше.</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text8471"
+       y="150"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="120"
+         y="150"
+         id="tspan8473">Данная контрольная работа содержит <tspan
+   style="fill:#aa0000"
+   id="tspan8479">25</tspan> тем, состоящих из одной или </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="204"
+         id="tspan8485">нескольких задач. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="119.40234"
+       y="308.55273"
+       id="text8475"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan8477"
+         y="308.55273"
+         x="119.40234"
+         sodipodi:role="line">За правильное выполнение <tspan
+   style="fill:#aa0000"
+   id="tspan8483">всех</tspan> задач темы студент получает <tspan
+   style="fill:#aa0000"
+   id="tspan8481">1</tspan> балл, </tspan><tspan
+         y="362.55273"
+         x="119.40234"
+         sodipodi:role="line"
+         id="tspan8487">что позволяет получить <tspan
+   style="fill:#aa0000"
+   id="tspan8489">25</tspan> баллов за всю работу.</tspan></text>
     <g
        style="display:inline"
        transform="matrix(0.0673571,0,0,0.0673571,61.636198,604.76075)"
@@ -2594,97 +2685,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer23"
-     inkscape:label="Введение"
-     style="display:none">
-    <a
-       style="display:inline"
-       id="a3237"
-       xlink:href="http://postgresql.org"
-       transform="translate(2,0)">
-      <text
-         sodipodi:linespacing="200%"
-         id="text3231"
-         y="150"
-         x="78"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="150"
-           x="78"
-           sodipodi:role="line"
-           id="tspan6097" /></text>
-    </a>
-    <text
-       sodipodi:linespacing="150%"
-       id="text5033-0"
-       y="468.93359"
-       x="119.78906"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="119.78906"
-         y="468.93359"
-         id="tspan9821-1">Часть тем выполняется через удалённое подключение к центральному </tspan><tspan
-         sodipodi:role="line"
-         x="119.78906"
-         y="522.93359"
-         id="tspan9839-3">серверу баз данных, расположенному по адресу <tspan
-   style="font-size:36px;fill:#aa0000"
-   id="tspan8418">192.168.1.100</tspan>.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="118.24219"
-       y="630"
-       id="text8456"
-       sodipodi:linespacing="150%"><tspan
-         id="tspan8462"
-         y="630"
-         x="118.24219"
-         sodipodi:role="line">Все задачи расчитаны на работу с PostgreSQL версии <tspan
-   style="fill:#aa0000"
-   id="tspan13874">9.3</tspan> и выше.</tspan></text>
-    <text
-       sodipodi:linespacing="150%"
-       id="text8471"
-       y="150"
-       x="120"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="150"
-         id="tspan8473">Данная контрольная работа содержит <tspan
-   style="fill:#aa0000"
-   id="tspan8479">25</tspan> тем, состоящих из одной или </tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="204"
-         id="tspan8485">нескольких задач. </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="119.40234"
-       y="308.55273"
-       id="text8475"
-       sodipodi:linespacing="150%"><tspan
-         id="tspan8477"
-         y="308.55273"
-         x="119.40234"
-         sodipodi:role="line">За правильное выполнение <tspan
-   style="fill:#aa0000"
-   id="tspan8483">всех</tspan> задач темы студент получает <tspan
-   style="fill:#aa0000"
-   id="tspan8481">1</tspan> балл, </tspan><tspan
-         y="362.55273"
-         x="119.40234"
-         sodipodi:role="line"
-         id="tspan8487">что позволяет получить <tspan
-   style="fill:#aa0000"
-   id="tspan8489">25</tspan> баллов за всю работу.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
