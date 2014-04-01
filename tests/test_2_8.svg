@@ -28,7 +28,7 @@
      inkscape:cx="725.97701"
      inkscape:cy="473.43572"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer19"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -2089,7 +2089,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -2241,7 +2241,7 @@
   <g
      ns1:transitionOut="name:fade;length:500"
      ns1:transitionIn="name:fade;length:500"
-     style="display:none"
+     style="display:inline"
      inkscape:label="master_slide"
      id="layer2"
      inkscape:groupmode="layer"
@@ -3959,7 +3959,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="9. Изменение данных"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="150%"
        id="text4056"
@@ -4002,27 +4002,31 @@
          id="tspan4088" /></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
        y="310"
        id="text4090"
-       sodipodi:linespacing="200%"><tspan
+       sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="80"
          y="310"
          id="tspan4092">2. В строках с <tspan
-   style="fill:#aa0000"
+   style="fill:#aa0000;line-height:150%"
    id="tspan4153">нечётным</tspan> числом в поле <tspan
-   style="fill:#aa0000"
+   style="fill:#aa0000;line-height:150%"
    id="tspan4159">id</tspan> записать строку '<tspan
-   style="fill:#aa0000"
-   id="tspan4155">odd</tspan>' в поле <tspan
-   style="fill:#aa0000"
+   style="fill:#aa0000;line-height:150%"
+   id="tspan4155">odd</tspan>' </tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="390"
+         id="tspan13936">в поле <tspan
+   style="fill:#aa0000;line-height:150%"
    id="tspan4157">value</tspan>.</tspan><tspan
          id="tspan4098"
          sodipodi:role="line"
          x="80"
-         y="390" /></text>
+         y="470" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
