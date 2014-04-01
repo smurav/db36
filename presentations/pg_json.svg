@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="198.99807"
+     inkscape:cx="203.03868"
      inkscape:cy="476.03751"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="a4559"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -7154,7 +7154,7 @@
            style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:Monospace;-inkscape-font-specification:Monospace"
            y="236"
            x="118"
-           sodipodi:role="line">json_each(json)</tspan><tspan
+           sodipodi:role="line">json_array_length(json)</tspan><tspan
            y="280.79999"
            x="118"
            sodipodi:role="line"

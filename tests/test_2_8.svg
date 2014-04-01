@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.975"
-     inkscape:cx="744.61538"
-     inkscape:cy="486.92308"
+     inkscape:cx="725.97701"
+     inkscape:cy="473.43572"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer23"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2089,7 +2089,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -2106,7 +2106,7 @@
        id="g3027">
       <path
          transform="matrix(1.057377,0,0,1.057377,-6.3398196,-35.248479)"
-         d="m 86.081264,73.921494 c 0,21.449878 -17.388561,38.838436 -38.838439,38.838436 -21.449879,0 -38.8384404,-17.388558 -38.8384404,-38.838436 0,-21.449879 17.3885614,-38.83844 38.8384404,-38.83844 21.449878,0 38.838439,17.388561 38.838439,38.83844 z"
+         d="m 86.081264,73.921494 a 38.83844,38.83844 0 1 1 -77.6768794,0 38.83844,38.83844 0 1 1 77.6768794,0 z"
          sodipodi:ry="38.83844"
          sodipodi:rx="38.83844"
          sodipodi:cy="73.921494"
@@ -2166,7 +2166,7 @@
        sodipodi:cy="554.18579"
        sodipodi:rx="2016.2645"
        sodipodi:ry="1992.0209"
-       d="m -1656.65,554.18579 c 0,1100.16271 -902.7124,1992.02091 -2016.2646,1992.02091 -1113.5521,0 -2016.2645,-891.8582 -2016.2645,-1992.02091 0,-1100.16275 902.7124,-1992.02089 2016.2645,-1992.02089 1113.5522,0 2016.2646,891.85814 2016.2646,1992.02089 z"
+       d="m -1656.65,554.18579 a 2016.2645,1992.0209 0 1 1 -4032.5291,0 2016.2645,1992.0209 0 1 1 4032.5291,0 z"
        transform="translate(0,308.2677)" />
     <path
        sodipodi:nodetypes="ccccc"
@@ -2241,19 +2241,18 @@
   <g
      ns1:transitionOut="name:fade;length:500"
      ns1:transitionIn="name:fade;length:500"
-     style="display:inline"
+     style="display:none"
      inkscape:label="master_slide"
      id="layer2"
      inkscape:groupmode="layer"
      ns1:masterSlide="masterSlide">
     <rect
-       y="152.36218"
+       y="60"
        x="0"
        height="900"
        width="1600"
        id="rect9037"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       transform="translate(0,-152.36218)" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <rect
        y="830"
        x="0"
@@ -2272,25 +2271,25 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-       x="31.882813"
+       x="31.882812"
        y="51.535156"
        id="text8877-3"
        sodipodi:linespacing="125%"><tspan
          ns1:autoText="slideTitle"
          sodipodi:role="line"
-         x="31.882813"
+         x="31.882812"
          y="51.535156"
          id="tspan8881-6">Заголовок</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9302"
        y="881.53516"
-       x="31.882813"
+       x="31.882812"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
        xml:space="preserve"><tspan
          id="tspan9304"
          y="881.53516"
-         x="31.882813"
+         x="31.882812"
          sodipodi:role="line">Базовая функциональность PostgreSQL</tspan></text>
     <text
        xml:space="preserve"
@@ -2331,6 +2330,270 @@
        id="a5529-8"
        xlink:href="http://www.postgresql.org/download/"
        style="display:inline" />
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,61.636198,604.76075)"
+       id="g4386">
+      <g
+         id="g4388"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g4390"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path4392" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path4394" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path4396" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path4398" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path4400" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path4402" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path4404" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path4406" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path4408" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path4410" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path4412" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path4414" />
+      </g>
+    </g>
+    <g
+       id="g13784"
+       transform="matrix(0.0673571,0,0,0.0673571,61.636198,471.03711)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g13786" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g13788">
+        <path
+           id="path13790"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13792"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13794"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13796"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13798"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13800"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13802"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13804"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13806"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13808"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13810"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13812"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,61.636198,310.31348)"
+       id="g13814">
+      <g
+         id="g13816"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g13818"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path13820" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path13822" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path13824" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path13826" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path13828" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path13830" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path13832" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path13834" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path13836" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path13838" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path13840" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path13842" />
+      </g>
+    </g>
+    <g
+       id="g13844"
+       transform="matrix(0.0673571,0,0,0.0673571,62.468227,150.50391)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g13846" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g13848">
+        <path
+           id="path13850"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13852"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13854"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13856"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13858"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13860"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13862"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13864"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13866"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13868"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13870"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13872"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2354,6 +2617,74 @@
            sodipodi:role="line"
            id="tspan6097" /></text>
     </a>
+    <text
+       sodipodi:linespacing="150%"
+       id="text5033-0"
+       y="468.93359"
+       x="119.78906"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="119.78906"
+         y="468.93359"
+         id="tspan9821-1">Часть тем выполняется через удалённое подключение к центральному </tspan><tspan
+         sodipodi:role="line"
+         x="119.78906"
+         y="522.93359"
+         id="tspan9839-3">серверу баз данных, расположенному по адресу <tspan
+   style="font-size:36px;fill:#aa0000"
+   id="tspan8418">192.168.1.100</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="118.24219"
+       y="630"
+       id="text8456"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan8462"
+         y="630"
+         x="118.24219"
+         sodipodi:role="line">Все задачи расчитаны на работу с PostgreSQL версии <tspan
+   style="fill:#aa0000"
+   id="tspan13874">9.3</tspan> и выше.</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text8471"
+       y="150"
+       x="120"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="120"
+         y="150"
+         id="tspan8473">Данная контрольная работа содержит <tspan
+   style="fill:#aa0000"
+   id="tspan8479">25</tspan> тем, состоящих из одной или </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="204"
+         id="tspan8485">нескольких задач. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="119.40234"
+       y="308.55273"
+       id="text8475"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan8477"
+         y="308.55273"
+         x="119.40234"
+         sodipodi:role="line">За правильное выполнение <tspan
+   style="fill:#aa0000"
+   id="tspan8483">всех</tspan> задач темы студент получает <tspan
+   style="fill:#aa0000"
+   id="tspan8481">1</tspan> балл, </tspan><tspan
+         y="362.55273"
+         x="119.40234"
+         sodipodi:role="line"
+         id="tspan8487">что позволяет получить <tspan
+   style="fill:#aa0000"
+   id="tspan8489">25</tspan> баллов за всю работу.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2370,37 +2701,33 @@
          sodipodi:role="line"
          id="tspan5121"
          x="80"
-         y="150">С помощью утилиты psql выполните подключение к базе данных <tspan
-   style="font-size:36px;fill:#aa0000"
-   id="tspan9825">test_2_8</tspan>, </tspan><tspan
+         y="150">С помощью утилиты psql выполните подключение от имени пользователя </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="204"
-         id="tspan9821">расположенной по адресу <tspan
+         id="tspan9839">student (пароль <tspan
+   style="fill:#aa0000"
+   id="tspan8402">student</tspan>) к базе данных <tspan
    style="font-size:36px;fill:#aa0000"
-   id="tspan9823">192.168.1.100</tspan>, от имени пользователя <tspan
-   style="font-size:36px;fill:#aa0000"
-   id="tspan9831">student</tspan></tspan><tspan
+   id="tspan9825">test_2_8</tspan>, хранимой на центральном</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="258"
-         id="tspan9839">(пароль <tspan
-   style="font-size:36px;fill:#aa0000"
-   id="tspan9833">student</tspan>).</tspan></text>
+         id="tspan8410">сервере.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="350"
+       y="330"
        id="text9842"
        sodipodi:linespacing="150%"><tspan
          id="tspan9854"
-         y="350"
+         y="330"
          x="80"
          sodipodi:role="line">Выполните регистрацию, указав свой логин и полное имя:</tspan></text>
     <rect
        ry="20"
-       y="390"
+       y="370"
        x="80"
        height="200"
        width="1440"
@@ -2411,12 +2738,12 @@
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="434.10156"
+       y="414.10156"
        id="text5576-8-7"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="120"
-         y="434.10156"
+         y="414.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan5578-2-4">select start('<tspan
    style="fill:#aa0000"
@@ -2425,58 +2752,112 @@
    id="tspan9927">Иванов Иван Иванович</tspan>');</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="466.10156"
+         y="446.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan9897"> start  </tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="498.10156"
+         y="478.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan9899">--------</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="530.10156"
+         y="510.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#aa0000;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan9901"> 2c42e5</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="562.10156"
+         y="542.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan9903">(1 row)</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="594.10156"
+         y="574.10156"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan9905" /><tspan
          id="tspan5580-3-9"
          sodipodi:role="line"
          x="120"
-         y="626.10156" /></text>
+         y="606.10156" /></text>
     <text
        sodipodi:linespacing="150%"
        id="text9921"
-       y="650"
+       y="630"
        x="80"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          x="80"
-         y="650"
+         y="630"
          id="tspan9929">Функция <tspan
    style="font-size:36px;fill:#aa0000"
    id="tspan9937">start</tspan> создаст индивидуальную среду выполнения конрольной </tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="704"
+         y="684"
          id="tspan9953">работы и вернёт <tspan
    style="font-size:36px;fill:#aa0000"
    id="tspan9959">пароль</tspan> нового пользователя, имя которого совпадает с</tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="758"
+         y="738"
          id="tspan9949">вашим логином.  <tspan
    style="font-size:36px;fill:#aa0000"
    id="tspan9957">Переподключитесь к БД от имени этого пользователя.</tspan></tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4864"
+       width="1440"
+       height="200"
+       x="80"
+       y="370"
+       ry="20" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4866"
+       y="414.10156"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4868"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="414.10156"
+         x="120"
+         sodipodi:role="line">select start('<tspan
+   id="tspan4870"
+   style="fill:#aa0000">ivan</tspan>', '<tspan
+   id="tspan4872"
+   style="fill:#aa0000">Иванов Иван Иванович</tspan>');</tspan><tspan
+         id="tspan4874"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="446.10156"
+         x="120"
+         sodipodi:role="line"> start  </tspan><tspan
+         id="tspan4876"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="478.10156"
+         x="120"
+         sodipodi:role="line">--------</tspan><tspan
+         id="tspan4878"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#aa0000;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="510.10156"
+         x="120"
+         sodipodi:role="line"> 2c42e5</tspan><tspan
+         id="tspan4880"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="542.10156"
+         x="120"
+         sodipodi:role="line">(1 row)</tspan><tspan
+         id="tspan4882"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="574.10156"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="606.10156"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4884" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3467,24 +3848,22 @@
          x="80"
          y="150"
          id="tspan3924">Вставьте в таблицу <tspan
-   id="tspan3926"
-   style="line-height:150%;fill:#203e86;fill-opacity:1"><tspan
    style="line-height:150%;fill:#aa0000"
-   id="tspan4000">table8</tspan> строки с ответами на следующие вопросы так,</tspan></tspan><tspan
+   id="tspan4000">table8</tspan> строки с ответами на следующие вопросы</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="210"
-         id="tspan4004">чтобы в поле <tspan
+         id="tspan4004">так, чтобы в поле <tspan
    style="line-height:150%;fill:#aa0000"
    id="tspan4008">question</tspan> содержался <tspan
    style="line-height:150%;fill:#aa0000"
-   id="tspan4010">номер вопроса</tspan>, а в поле <tspan
-   style="line-height:150%;fill:#aa0000"
-   id="tspan4012">answer</tspan> - </tspan><tspan
+   id="tspan4010">номер вопроса</tspan>, а в поле </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="270"
          id="tspan4006"><tspan
+   style="line-height:150%;fill:#aa0000"
+   id="tspan7663">answer</tspan> - <tspan
    style="line-height:150%;fill:#aa0000"
    id="tspan4014">ответ</tspan>:</tspan><tspan
          sodipodi:role="line"
@@ -3528,11 +3907,11 @@
    style="line-height:150%;fill:#aa0000"
    id="tspan4048">input8</tspan>, где значение поля <tspan
    style="fill:#aa0000"
-   id="tspan4054">value</tspan> начинается</tspan><tspan
+   id="tspan4054">value </tspan></tspan><tspan
          sodipodi:role="line"
          x="80"
          y="650"
-         id="tspan4050">с символа '<tspan
+         id="tspan4050">начинается с символа '<tspan
    style="fill:#aa0000"
    id="tspan4052">b</tspan>'.</tspan></text>
     <text
@@ -3818,24 +4197,26 @@
          x="80"
          sodipodi:role="line">На вашем сервере настройте аутентификацию по методу <tspan
    style="fill:#aa0000"
-   id="tspan4361">md5</tspan> к базе </tspan><tspan
+   id="tspan4361">md5</tspan></tspan><tspan
          y="210"
          x="80"
          sodipodi:role="line"
-         id="tspan4359">данных <tspan
-   style="fill:#aa0000"
-   id="tspan4365">test_2_8</tspan> для любых удалённых клиентов с хоста <tspan
+         id="tspan4359">к базе данных, имя которой совпадает с вашим логином, для </tspan><tspan
+         y="270"
+         x="80"
+         sodipodi:role="line"
+         id="tspan8334">любых удалённых клиентов с хоста <tspan
    style="fill:#aa0000"
    id="tspan4363">192.168.1.100</tspan></tspan><tspan
          id="tspan4345"
-         y="270"
-         x="80"
-         sodipodi:role="line" /><tspan
-         id="tspan4347"
          y="330"
          x="80"
          sodipodi:role="line" /><tspan
+         id="tspan4347"
          y="390"
+         x="80"
+         sodipodi:role="line" /><tspan
+         y="450"
          x="80"
          sodipodi:role="line"
          id="tspan4349" /></text>
@@ -3843,25 +4224,25 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#203e86;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="310"
+       y="350"
        id="text4585"
        sodipodi:linespacing="150%"><tspan
          id="tspan4591"
          sodipodi:role="line"
          x="80"
-         y="310">Убедитесь, что изменения вступили в силу.</tspan><tspan
+         y="350">Убедитесь, что изменения вступили в силу.</tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="370"
+         y="410"
          id="tspan4597" /><tspan
          sodipodi:role="line"
          x="80"
-         y="430"
+         y="470"
          id="tspan4599" /><tspan
          id="tspan4601"
          sodipodi:role="line"
          x="80"
-         y="490" /></text>
+         y="530" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3884,58 +4265,22 @@
          sodipodi:role="line"
          id="tspan5535-7-4-7" /></text>
     <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="310"
-       id="text3667-3-6"
-       sodipodi:linespacing="200%"><tspan
-         sodipodi:role="line"
-         x="80"
-         y="310"
-         id="tspan3669-3-1">2. Создайте простую роль <tspan
-   style="fill:#aa0000"
-   id="tspan4480">user</tspan>. </tspan><tspan
-         id="tspan3673-5-3"
-         sodipodi:role="line"
-         x="80"
-         y="390" /></text>
-    <text
        sodipodi:linespacing="200%"
        id="text3675-2-2"
-       y="230"
+       y="310"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan3677-7-2"
-         y="230"
-         x="80"
-         sodipodi:role="line">1. Создайте роль суперпользователей <tspan
-   style="fill:#aa0000"
-   id="tspan4478">dba</tspan>. </tspan><tspan
          y="310"
+         x="80"
+         sodipodi:role="line">2. Создайте роль <tspan
+   style="fill:#aa0000"
+   id="tspan3848">user</tspan>. </tspan><tspan
+         y="390"
          x="80"
          sodipodi:role="line"
          id="tspan3679-3-8" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text3719-5-5"
-       y="390"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan3721-3-7"
-         y="390"
-         x="80"
-         sodipodi:role="line">3. Создайте пользователя <tspan
-   style="fill:#aa0000"
-   id="tspan4482">admin</tspan> и присвойте ему роль <tspan
-   style="fill:#aa0000"
-   id="tspan4484">dba</tspan>.</tspan><tspan
-         y="470"
-         x="80"
-         sodipodi:role="line"
-         id="tspan3727-2-89" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4470"
@@ -3946,41 +4291,41 @@
            height="57.435898"
            x="1164.1025"
            y="115.38461" /></flowRegion><flowPara
-         id="flowPara4476"></flowPara></flowRoot>    <text
+         id="flowPara4476" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="550"
+       y="390"
        id="text4486"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="80"
-         y="550"
-         id="tspan4488">5. Создайте пользователя, имя которого совпадает с вашим логином, </tspan><tspan
+         y="390"
+         id="tspan4488">3. Создайте пользователя, имя которого совпадает с вашим </tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="610"
-         id="tspan4510">выбранным для выполнения контрольной работы.</tspan><tspan
+         y="450"
+         id="tspan4510">логином, выбранным для выполнения контрольной работы.</tspan><tspan
          id="tspan4494"
          sodipodi:role="line"
          x="80"
-         y="670" /></text>
+         y="510" /></text>
     <text
        sodipodi:linespacing="200%"
        id="text4496"
-       y="470"
+       y="230"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan4498"
-         y="470"
+         y="230"
          x="80"
-         sodipodi:role="line">4. Создайте пользователя <tspan
+         sodipodi:role="line">1. Создайте пользователя <tspan
    style="fill:#aa0000"
    id="tspan4506">student</tspan> с паролем <tspan
    style="fill:#aa0000"
    id="tspan4508">student</tspan>.</tspan><tspan
-         y="550"
+         y="310"
          x="80"
          sodipodi:role="line"
          id="tspan4504" /></text>
@@ -4008,15 +4353,15 @@
     <text
        sodipodi:linespacing="200%"
        id="text4518"
-       y="390"
+       y="310"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan4520"
-         y="390"
+         y="310"
          x="80"
-         sodipodi:role="line">3. Вашему пользователю задайте пароль, совпадающий с именем. </tspan><tspan
-         y="470"
+         sodipodi:role="line">2. Вашему пользователю задайте пароль, совпадающий с именем. </tspan><tspan
+         y="390"
          x="80"
          sodipodi:role="line"
          id="tspan4524" /></text>
@@ -4039,31 +4384,12 @@
          sodipodi:role="line"
          x="80"
          y="310" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text4564"
-       y="310"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan4566"
-         y="310"
-         x="80"
-         sodipodi:role="line">2. Переименуйте пользователя <tspan
-   style="fill:#aa0000"
-   id="tspan4574">admin</tspan> в <tspan
-   style="fill:#aa0000"
-   id="tspan4576">dbadm</tspan>. </tspan><tspan
-         y="390"
-         x="80"
-         sodipodi:role="line"
-         id="tspan4572" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="15. Создание БД"
-     style="display:inline">
+     style="display:none">
     <text
        sodipodi:linespacing="150%"
        id="text4606"
@@ -4074,70 +4400,1824 @@
          id="tspan4608"
          y="150"
          x="80"
-         sodipodi:role="line">На вашем сервере создайте базу данных <tspan
-   style="fill:#aa0000"
-   id="tspan4617">test_2_8</tspan>, владельцем которой</tspan><tspan
-         y="230"
+         sodipodi:role="line">На вашем сервере создайте базу данных, название которой и</tspan><tspan
+         y="210"
          x="80"
          sodipodi:role="line"
-         id="tspan4615">является пользователь, имя которого совпадает с вашим <tspan
+         id="tspan3845">имя владельца совпадают с вашим <tspan
    style="fill:#aa0000"
    id="tspan4619">логином</tspan>. </tspan><tspan
-         y="310"
+         y="270"
          x="80"
          sodipodi:role="line"
          id="tspan4610" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text5531-4"
+       y="290"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6647-4"
+         y="290"
+         x="80"
+         sodipodi:role="line">От имени этого пользователя создайте таблицу <tspan
+   style="line-height:150%;fill:#aa0000"
+   id="tspan22557-8">test1</tspan>, имеющую </tspan><tspan
+         y="350"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4111">следующую структуру: </tspan><tspan
+         y="410"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5535-3" /></text>
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5349-4"
+       width="299.51282"
+       height="60"
+       x="80.487183"
+       y="390" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5351-6"
+       y="430.54688"
+       x="229.87445"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="430.54688"
+         x="229.87445"
+         sodipodi:role="line"
+         id="tspan5353-0">Столбец</tspan></text>
+    <rect
+       y="450"
+       x="80.486694"
+       height="60"
+       width="299.51331"
+       id="rect5359-9"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text5363-8"
+       y="489.875"
+       x="100"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5365-9"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="489.875"
+         x="100"
+         sodipodi:role="line">key</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="553.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5367-8" /><tspan
+         y="617.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5369-4" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5395-1"
+       width="380"
+       height="60"
+       x="380"
+       y="450" />
+    <rect
+       y="450"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5397-9"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="400"
+       y="486.90625"
+       id="text5493-9"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5641-4"
+         sodipodi:role="line"
+         x="400"
+         y="486.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">integer</tspan><tspan
+         id="tspan5497-7"
+         sodipodi:role="line"
+         x="400"
+         y="518.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5499-6"
+         sodipodi:role="line"
+         x="400"
+         y="550.90625" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5501-3"
+       y="486.8125"
+       x="780"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="486.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5505-8">Первичный ключ</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="518.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5507-8" /><tspan
+         y="550.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5509-7" /></text>
+    <rect
+       y="390"
+       x="380"
+       height="60"
+       width="380"
+       id="rect5529-1"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5531-3"
+       width="760"
+       height="60"
+       x="760"
+       y="390" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="569.57812"
+       y="432.88477"
+       id="text5535-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="575.30859"
+         y="432.88477"
+         id="tspan5539-5">Тип </tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5541-0"
+       y="429.53613"
+       x="1139.1298"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="429.53613"
+         x="1144.8602"
+         sodipodi:role="line"
+         id="tspan5543-3">Ограничения </tspan></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect22497-2"
+       width="299.51331"
+       height="60"
+       x="80.486694"
+       y="510" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="549.875"
+       id="text22499-2"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="549.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan22501-0">value</tspan><tspan
+         id="tspan22503-9"
+         sodipodi:role="line"
+         x="100"
+         y="613.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan22505-8"
+         sodipodi:role="line"
+         x="100"
+         y="677.875" /></text>
+    <rect
+       y="510"
+       x="380"
+       height="60"
+       width="380"
+       id="rect22507-9"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect22509-4"
+       width="760"
+       height="60"
+       x="760"
+       y="510" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text22511-2"
+       y="546.90625"
+       x="400"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="546.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan22513-5">text</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="578.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan22515-4" /><tspan
+         y="610.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan22517-3" /></text>
+    <rect
+       y="390"
+       x="80.487183"
+       height="60"
+       width="299.51282"
+       id="rect5218"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="229.87445"
+       y="430.54688"
+       id="text5220"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5222"
+         sodipodi:role="line"
+         x="229.87445"
+         y="430.54688">Столбец</tspan></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5224"
+       width="299.51331"
+       height="60"
+       x="80.486694"
+       y="450" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="489.875"
+       id="text5226"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="489.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan5228">key</tspan><tspan
+         id="tspan5230"
+         sodipodi:role="line"
+         x="100"
+         y="553.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5232"
+         sodipodi:role="line"
+         x="100"
+         y="617.875" /></text>
+    <rect
+       y="450"
+       x="380"
+       height="60"
+       width="380"
+       id="rect5234"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5236"
+       width="760"
+       height="60"
+       x="760"
+       y="450" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5238"
+       y="486.90625"
+       x="400"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="486.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5240">integer</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="518.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5242" /><tspan
+         y="550.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5244" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="780"
+       y="486.8125"
+       id="text5246"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5248"
+         sodipodi:role="line"
+         x="780"
+         y="486.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Первичный ключ</tspan><tspan
+         id="tspan5250"
+         sodipodi:role="line"
+         x="780"
+         y="518.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5252"
+         sodipodi:role="line"
+         x="780"
+         y="550.8125" /></text>
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5254"
+       width="380"
+       height="60"
+       x="380"
+       y="390" />
+    <rect
+       y="390"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5256"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5258"
+       y="432.88477"
+       x="569.57812"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5260"
+         y="432.88477"
+         x="575.30859"
+         sodipodi:role="line">Тип </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1139.1298"
+       y="429.53613"
+       id="text5262"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5264"
+         sodipodi:role="line"
+         x="1144.8602"
+         y="429.53613">Ограничения </tspan></text>
+    <rect
+       y="510"
+       x="80.486694"
+       height="60"
+       width="299.51331"
+       id="rect5266"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text5268"
+       y="549.875"
+       x="100"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5270"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="549.875"
+         x="100"
+         sodipodi:role="line">value</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="613.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5272" /><tspan
+         y="677.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5274" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5276"
+       width="380"
+       height="60"
+       x="380"
+       y="510" />
+    <rect
+       y="510"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5278"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="400"
+       y="546.90625"
+       id="text5280"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5282"
+         sodipodi:role="line"
+         x="400"
+         y="546.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">text</tspan><tspan
+         id="tspan5284"
+         sodipodi:role="line"
+         x="400"
+         y="578.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5286"
+         sodipodi:role="line"
+         x="400"
+         y="610.90625" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="16.  Настройка доступа к БД"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text4512-3"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="150"
+         id="tspan4514-8">На вашем сервере настройте доступ к базе данных</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="210"
+         id="tspan4383">следующим образом: </tspan><tspan
+         id="tspan4516-4"
+         sodipodi:role="line"
+         x="80"
+         y="270" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text4518-3"
+       y="370"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4520-7"
+         y="370"
+         x="80"
+         sodipodi:role="line">2. Выдайте пользователю <tspan
+   style="fill:#aa0000"
+   id="tspan4398">student</tspan> право на создание таблиц в БД. </tspan><tspan
+         y="450"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4524-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="290"
+       id="text4526-2"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="290"
+         id="tspan4387">1. Выдайте роли <tspan
+   style="fill:#aa0000"
+   id="tspan4392">user</tspan> право на подключение и запрос данных из БД.</tspan><tspan
+         id="tspan4532-8"
+         sodipodi:role="line"
+         x="80"
+         y="350" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="450"
+       id="text4547"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="450"
+         id="tspan4549">От имени пользователя <tspan
+   style="fill:#aa0000"
+   id="tspan4670">student</tspan> создайте таблицу <tspan
+   id="tspan4551"
+   style="line-height:150%;fill:#aa0000">test2</tspan>, имеющую </tspan><tspan
+         id="tspan4553"
+         sodipodi:role="line"
+         x="80"
+         y="510">следующую структуру: </tspan><tspan
+         id="tspan4555"
+         sodipodi:role="line"
+         x="80"
+         y="570" /></text>
+    <rect
+       y="550"
+       x="80.487183"
+       height="60"
+       width="299.51282"
+       id="rect4557"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="229.87445"
+       y="590.54688"
+       id="text4559"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4561"
+         sodipodi:role="line"
+         x="229.87445"
+         y="590.54688">Столбец</tspan></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4563"
+       width="299.51331"
+       height="60"
+       x="80.486694"
+       y="610" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="649.875"
+       id="text4565"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="649.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4567">id</tspan><tspan
+         id="tspan4569"
+         sodipodi:role="line"
+         x="100"
+         y="713.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan4571"
+         sodipodi:role="line"
+         x="100"
+         y="777.875" /></text>
+    <rect
+       y="610"
+       x="380"
+       height="60"
+       width="380"
+       id="rect4573"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4575"
+       width="760"
+       height="60"
+       x="760"
+       y="610" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4577"
+       y="646.90625"
+       x="400"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="646.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan4579">integer</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="678.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan4581" /><tspan
+         y="710.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan4583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="780"
+       y="646.8125"
+       id="text4586"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4588"
+         sodipodi:role="line"
+         x="780"
+         y="646.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Первичный ключ</tspan><tspan
+         id="tspan4590"
+         sodipodi:role="line"
+         x="780"
+         y="678.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan4592"
+         sodipodi:role="line"
+         x="780"
+         y="710.8125" /></text>
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4594"
+       width="380"
+       height="60"
+       x="380"
+       y="550" />
+    <rect
+       y="550"
+       x="760"
+       height="60"
+       width="760"
+       id="rect4596"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4598"
+       y="592.88477"
+       x="569.57812"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4600"
+         y="592.88477"
+         x="575.30859"
+         sodipodi:role="line">Тип </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1139.1298"
+       y="589.53613"
+       id="text4602"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4604"
+         sodipodi:role="line"
+         x="1144.8602"
+         y="589.53613">Ограничения </tspan></text>
+    <rect
+       y="670"
+       x="80.486694"
+       height="60"
+       width="299.51331"
+       id="rect4606"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text4608"
+       y="709.875"
+       x="100"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4611"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="709.875"
+         x="100"
+         sodipodi:role="line">num</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="773.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan4613" /><tspan
+         y="837.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan4616" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4618"
+       width="380"
+       height="60"
+       x="380"
+       y="670" />
+    <rect
+       y="670"
+       x="760"
+       height="60"
+       width="760"
+       id="rect4620"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="400"
+       y="706.90625"
+       id="text4622"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4624"
+         sodipodi:role="line"
+         x="400"
+         y="706.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">real</tspan><tspan
+         id="tspan4626"
+         sodipodi:role="line"
+         x="400"
+         y="738.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan4628"
+         sodipodi:role="line"
+         x="400"
+         y="770.90625" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="17. Настройка доступа к таблицам"
-     style="display:none" />
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text4400"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="150"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4443">В вашей базе данных настройте доступ к таблицам </tspan><tspan
+         y="210"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4674">следующим образом: </tspan><tspan
+         y="270"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4408" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="370"
+       id="text4410"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="370"
+         id="tspan4412">2. Выдайте пользователю <tspan
+   id="tspan4414"
+   style="line-height:150%;fill:#aa0000">student</tspan> право на вставку данных в</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="430"
+         id="tspan4445">таблицу <tspan
+   style="fill:#aa0000"
+   id="tspan4678">test1</tspan>. </tspan><tspan
+         id="tspan4416"
+         sodipodi:role="line"
+         x="80"
+         y="490" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4418"
+       y="290"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4420"
+         y="290"
+         x="80"
+         sodipodi:role="line">1. Выдайте роли <tspan
+   id="tspan4422"
+   style="fill:#aa0000">user</tspan> право на чтение данных из таблицы <tspan
+   style="fill:#aa0000"
+   id="tspan4676">test1</tspan>.</tspan><tspan
+         y="350"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4424" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer28"
      inkscape:label="18. Транзакции"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text4692"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4696"
+         sodipodi:role="line"
+         x="80"
+         y="150">В рамках <tspan
+   style="fill:#aa0000"
+   id="tspan4737">одной</tspan> транзакции выполните вставку следующих данных: </tspan><tspan
+         id="tspan4698"
+         sodipodi:role="line"
+         x="80"
+         y="210" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4700"
+       y="310"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4706"
+         y="310"
+         x="80"
+         sodipodi:role="line">2. Строка <tspan
+   style="fill:#aa0000"
+   id="tspan4748">id</tspan>=<tspan
+   style="fill:#aa0000"
+   id="tspan4768">1</tspan>,<tspan
+   style="fill:#aa0000"
+   id="tspan4750"> num</tspan>=<tspan
+   style="fill:#aa0000"
+   id="tspan4758">3.14</tspan> в таблицу <tspan
+   id="tspan4708"
+   style="fill:#aa0000">test2</tspan>. </tspan><tspan
+         y="370"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4710" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="230"
+       id="text4712"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="230"
+         id="tspan4714">1. Строка <tspan
+   style="fill:#aa0000"
+   id="tspan4746">key</tspan>=<tspan
+   style="fill:#aa0000"
+   id="tspan4766">1</tspan>,<tspan
+   style="fill:#aa0000"
+   id="tspan4752"> value</tspan>=<tspan
+   style="fill:#aa0000"
+   id="tspan4760">'pi'</tspan> в таблицу <tspan
+   style="fill:#aa0000"
+   id="tspan4762">test1</tspan>.</tspan><tspan
+         id="tspan4720"
+         sodipodi:role="line"
+         x="80"
+         y="290" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="19.  Блокировки"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="370"
+       id="text4778"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="370"
+         id="tspan4780">2. Установите эксклюзивную блокировку на строки таблицы <tspan
+   style="fill:#aa0000"
+   id="tspan4830">test2</tspan>. </tspan><tspan
+         id="tspan4792"
+         sodipodi:role="line"
+         x="80"
+         y="430" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4794"
+       y="290"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4796"
+         y="290"
+         x="80"
+         sodipodi:role="line">1. Установите эксклюзивную блокировку (EXCLUSIVE) на таблицу <tspan
+   id="tspan4806"
+   style="fill:#aa0000">test1</tspan>.</tspan><tspan
+         y="350"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4808" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4832"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4834"
+         y="150"
+         x="80"
+         sodipodi:role="line">В базе данных на вашем рабочем месте выполните следующие </tspan><tspan
+         y="210"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4854">действия: </tspan><tspan
+         y="270"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4838" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="470"
+       id="text4856"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4860"
+         sodipodi:role="line"
+         x="80"
+         y="470">Для чтобы зарегистрировать результат выполнения данной задачи</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="530"
+         id="tspan4960">необходимо на центральном сервере от имени вашего пользователя</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="590"
+         id="tspan4964">выполнить следующий запрос: </tspan><tspan
+         id="tspan4862"
+         sodipodi:role="line"
+         x="80"
+         y="650" /></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4864-4"
+       width="1440"
+       height="60"
+       x="80"
+       y="630"
+       ry="20" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4866-6"
+       y="670"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4868-1"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="670"
+         x="120"
+         sodipodi:role="line">select check_locks();</tspan><tspan
+         id="tspan4880-4"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="702"
+         x="120"
+         sodipodi:role="line" /><tspan
+         id="tspan4882-7"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="734"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="766"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4884-2" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="20. Подготовленные транзакции"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text4692-0"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4696-3"
+         sodipodi:role="line"
+         x="80"
+         y="150">Создайте подготовленную транзакцию с именем <tspan
+   style="fill:#aa0000"
+   id="tspan5017">mephi</tspan>, в которой</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="210"
+         id="tspan5019">должна выполняться вставка строки <tspan
+   style="fill:#aa0000"
+   id="tspan5027">key</tspan>=<tspan
+   style="fill:#aa0000"
+   id="tspan5021">36</tspan>, <tspan
+   style="fill:#aa0000"
+   id="tspan5025">value</tspan>='<tspan
+   style="fill:#aa0000"
+   id="tspan5033">МИФИ</tspan>' в </tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="270"
+         id="tspan5029">таблицу <tspan
+   style="fill:#aa0000"
+   id="tspan5031">test1</tspan>.</tspan><tspan
+         id="tspan4698-0"
+         sodipodi:role="line"
+         x="80"
+         y="330" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="21. dblink"
-     style="display:none" />
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text5035"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="150"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5037">В вашей базе данных создайте dblink-подключение с именем <tspan
+   id="tspan5039"
+   style="fill:#aa0000">mephi</tspan>, </tspan><tspan
+         id="tspan5051"
+         y="210"
+         x="80"
+         sodipodi:role="line">к базе данных <tspan
+   style="fill:#aa0000"
+   id="tspan5079">test_2_8</tspan> на центральном сервере от имени вашего</tspan><tspan
+         y="270"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5083">пользователя.</tspan><tspan
+         y="330"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5055" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="350"
+       id="text5085"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan5097"
+         sodipodi:role="line"
+         x="80"
+         y="350">Через это подключение выполните вставку строки <tspan
+   style="fill:#aa0000"
+   id="tspan5110">data</tspan>='<tspan
+   style="fill:#aa0000"
+   id="tspan5112">dblink</tspan>' в</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="410"
+         id="tspan5114">таблицу <tspan
+   style="fill:#aa0000"
+   id="tspan5116">table21</tspan>.</tspan><tspan
+         id="tspan5099"
+         sodipodi:role="line"
+         x="80"
+         y="470" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="22. Обработчики внешних данных"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text5143"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan5145"
+         sodipodi:role="line"
+         x="80"
+         y="150">В вашей базе данных создайте внешний сервер с именем <tspan
+   style="fill:#aa0000"
+   id="tspan5147">mephi</tspan>, </tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="210"
+         id="tspan5149">коротый обеспечит подкючение к базе данных <tspan
+   id="tspan5151"
+   style="fill:#aa0000">test_2_8</tspan> на </tspan><tspan
+         id="tspan5155"
+         sodipodi:role="line"
+         x="80"
+         y="270">центральном сервере.</tspan><tspan
+         id="tspan5157"
+         sodipodi:role="line"
+         x="80"
+         y="330" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text5159"
+       y="350"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5167"
+         y="350"
+         x="80"
+         sodipodi:role="line">Настройте сопоставление локального пользователя <tspan
+   style="fill:#aa0000"
+   id="tspan5201">student</tspan></tspan><tspan
+         y="410"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5199">с <tspan
+   style="fill:#aa0000"
+   id="tspan7346">вашим</tspan> удалённым пользователем.</tspan><tspan
+         y="470"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5171" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="490"
+       id="text5203"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan5209"
+         sodipodi:role="line"
+         x="80"
+         y="490">Создайте внешнюю таблицу <tspan
+   style="fill:#aa0000"
+   id="tspan7344">fdw</tspan>, которая является проекцией </tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="550"
+         id="tspan7341">удалённой таблицы <tspan
+   style="fill:#aa0000"
+   id="tspan5216">table22</tspan>:</tspan><tspan
+         id="tspan5211"
+         sodipodi:role="line"
+         x="80"
+         y="610" /></text>
+    <rect
+       y="590"
+       x="80.487183"
+       height="60"
+       width="299.51282"
+       id="rect5323"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="229.87445"
+       y="630.54688"
+       id="text5325"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5327"
+         sodipodi:role="line"
+         x="229.87445"
+         y="630.54688">Столбец</tspan></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5329"
+       width="299.51331"
+       height="60"
+       x="80.486694"
+       y="650" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="689.875"
+       id="text5331"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="689.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan5333">key</tspan><tspan
+         id="tspan5335"
+         sodipodi:role="line"
+         x="100"
+         y="753.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5337"
+         sodipodi:role="line"
+         x="100"
+         y="817.875" /></text>
+    <rect
+       y="650"
+       x="380"
+       height="60"
+       width="380"
+       id="rect5339"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5341"
+       width="760"
+       height="60"
+       x="760"
+       y="650" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5343"
+       y="686.90625"
+       x="400"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="686.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5345">integer</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="718.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5347" /><tspan
+         y="750.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5349" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="780"
+       y="686.8125"
+       id="text5352"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5354"
+         sodipodi:role="line"
+         x="780"
+         y="686.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Первичный ключ</tspan><tspan
+         id="tspan5356"
+         sodipodi:role="line"
+         x="780"
+         y="718.8125"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5358"
+         sodipodi:role="line"
+         x="780"
+         y="750.8125" /></text>
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5360"
+       width="380"
+       height="60"
+       x="380"
+       y="590" />
+    <rect
+       y="590"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5362"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5364"
+       y="632.88477"
+       x="569.57812"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5366"
+         y="632.88477"
+         x="575.30859"
+         sodipodi:role="line">Тип </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1139.1298"
+       y="629.53613"
+       id="text5368"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5370"
+         sodipodi:role="line"
+         x="1144.8602"
+         y="629.53613">Ограничения </tspan></text>
+    <rect
+       y="710"
+       x="80.486694"
+       height="60"
+       width="299.51331"
+       id="rect5372"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text5374"
+       y="749.875"
+       x="100"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5376"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="749.875"
+         x="100"
+         sodipodi:role="line">value</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="813.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5378" /><tspan
+         y="877.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5380" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5382"
+       width="380"
+       height="60"
+       x="380"
+       y="710" />
+    <rect
+       y="710"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5384"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="400"
+       y="746.90625"
+       id="text5386"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5388"
+         sodipodi:role="line"
+         x="400"
+         y="746.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">text</tspan><tspan
+         id="tspan5390"
+         sodipodi:role="line"
+         x="400"
+         y="778.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5392"
+         sodipodi:role="line"
+         x="400"
+         y="810.90625" /></text>
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28857899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5394"
+       width="299.51282"
+       height="60"
+       x="80.487183"
+       y="590" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5396"
+       y="630.54688"
+       x="229.87445"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="630.54688"
+         x="229.87445"
+         sodipodi:role="line"
+         id="tspan5398">Столбец</tspan></text>
+    <rect
+       y="650"
+       x="80.486694"
+       height="60"
+       width="299.51331"
+       id="rect5400"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text5402"
+       y="689.875"
+       x="100"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5404"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="689.875"
+         x="100"
+         sodipodi:role="line">key</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="753.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5406" /><tspan
+         y="817.875"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5408" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5410"
+       width="380"
+       height="60"
+       x="380"
+       y="650" />
+    <rect
+       y="650"
+       x="760"
+       height="60"
+       width="760"
+       id="rect5412"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="400"
+       y="686.90625"
+       id="text5414"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5416"
+         sodipodi:role="line"
+         x="400"
+         y="686.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">integer</tspan><tspan
+         id="tspan5418"
+         sodipodi:role="line"
+         x="400"
+         y="718.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5420"
+         sodipodi:role="line"
+         x="400"
+         y="750.90625" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5422"
+       y="686.8125"
+       x="780"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="686.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5424">Первичный ключ</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="718.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5426" /><tspan
+         y="750.8125"
+         x="780"
+         sodipodi:role="line"
+         id="tspan5428" /></text>
+    <rect
+       y="590"
+       x="380"
+       height="60"
+       width="380"
+       id="rect5430"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5432"
+       width="760"
+       height="60"
+       x="760"
+       y="590" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="569.57812"
+       y="632.88477"
+       id="text5434"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="575.30859"
+         y="632.88477"
+         id="tspan5436">Тип </tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5438"
+       y="629.53613"
+       x="1139.1298"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="629.53613"
+         x="1144.8602"
+         sodipodi:role="line"
+         id="tspan5440">Ограничения </tspan></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5442"
+       width="299.51331"
+       height="60"
+       x="80.486694"
+       y="710" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="749.875"
+       id="text5444"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="749.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan5446">value</tspan><tspan
+         id="tspan5448"
+         sodipodi:role="line"
+         x="100"
+         y="813.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan5450"
+         sodipodi:role="line"
+         x="100"
+         y="877.875" /></text>
+    <rect
+       y="710"
+       x="380"
+       height="60"
+       width="380"
+       id="rect5452"
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5.28752327;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5454"
+       width="760"
+       height="60"
+       x="760"
+       y="710" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5456"
+       y="746.90625"
+       x="400"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="746.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5458">text</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="778.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5460" /><tspan
+         y="810.90625"
+         x="400"
+         sodipodi:role="line"
+         id="tspan5462" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="23. XML"
-     style="display:none" />
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text5531-6-7-18"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6647-0-8-55"
+         y="150"
+         x="80"
+         sodipodi:role="line">В базе данных на вашем сервере создайте таблицу <tspan
+   style="line-height:150%;fill:#aa0000"
+   id="tspan22557-1-31-00">table23 </tspan></tspan><tspan
+         y="210"
+         x="80"
+         sodipodi:role="line"
+         id="tspan7943">с целочисленным столбцом <tspan
+   style="fill:#aa0000"
+   id="tspan7993">task</tspan> и столбцом <tspan
+   style="fill:#aa0000"
+   id="tspan7995">result</tspan>, в котором </tspan><tspan
+         y="270"
+         x="80"
+         sodipodi:role="line"
+         id="tspan7645">можно хранить данные в формате <tspan
+   style="fill:#aa0000"
+   id="tspan7997">XML</tspan>. Далее необходимо </tspan><tspan
+         y="330"
+         x="80"
+         sodipodi:role="line"
+         id="tspan7965">вставить в эту таблицу строки с ответами, где номер задачи </tspan><tspan
+         y="390"
+         x="80"
+         sodipodi:role="line"
+         id="tspan7967">попадает в поле <tspan
+   style="fill:#aa0000"
+   id="tspan7999">task</tspan>, а результат - в поле <tspan
+   style="fill:#aa0000"
+   id="tspan8001">result</tspan>. </tspan><tspan
+         y="450"
+         x="80"
+         sodipodi:role="line"
+         id="tspan5535-7-4-11" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text3675-2-3"
+       y="470"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="470"
+         x="80"
+         sodipodi:role="line"
+         id="tspan7949">1. Выполнить разбор содержимого <tspan
+   style="line-height:150%;fill:#aa0000"
+   id="tspan7951">&lt;element key=&quot;pi&quot; value=&quot;3.14&quot;&gt;</tspan></tspan><tspan
+         y="530"
+         x="80"
+         sodipodi:role="line"
+         id="tspan3679-3-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="550"
+       id="text7985"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan7987"
+         sodipodi:role="line"
+         x="80"
+         y="550">2. Создать лес (последовательность) элементов с именем <tspan
+   style="fill:#aa0000"
+   id="tspan8328">item</tspan>, в</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="610"
+         id="tspan8003">которых содержатся целые числа от 1 до 1000 включительно.</tspan><tspan
+         id="tspan7991"
+         sodipodi:role="line"
+         x="80"
+         y="670" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text8006"
+       y="690"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan8010"
+         y="690"
+         x="80"
+         sodipodi:role="line">3. Сгенерировать XML-схему таблицы <tspan
+   style="fill:#aa0000"
+   id="tspan8016">table23</tspan>.</tspan><tspan
+         y="750"
+         x="80"
+         sodipodi:role="line"
+         id="tspan8012" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="24. JSON"
-     style="display:none" />
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text8068"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="150"
+         id="tspan8070">В базе данных на вашем сервере создайте таблицу <tspan
+   id="tspan8072"
+   style="line-height:150%;fill:#aa0000">table24 </tspan></tspan><tspan
+         id="tspan8074"
+         sodipodi:role="line"
+         x="80"
+         y="210">с целочисленным столбцом <tspan
+   id="tspan8076"
+   style="fill:#aa0000">task</tspan> и столбцом <tspan
+   id="tspan8078"
+   style="fill:#aa0000">result</tspan>, в котором </tspan><tspan
+         id="tspan8080"
+         sodipodi:role="line"
+         x="80"
+         y="270">можно хранить данные в формате <tspan
+   style="fill:#aa0000"
+   id="tspan8143">JSON</tspan>. Далее необходимо </tspan><tspan
+         id="tspan8084"
+         sodipodi:role="line"
+         x="80"
+         y="330">вставить в эту таблицу строки с ответами, где номер задачи </tspan><tspan
+         id="tspan8086"
+         sodipodi:role="line"
+         x="80"
+         y="390">попадает в поле <tspan
+   id="tspan8088"
+   style="fill:#aa0000">task</tspan>, а результат - в поле <tspan
+   id="tspan8090"
+   style="fill:#aa0000">result</tspan>. </tspan><tspan
+         id="tspan8092"
+         sodipodi:role="line"
+         x="80"
+         y="450" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="470"
+       id="text8094"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan8096"
+         sodipodi:role="line"
+         x="80"
+         y="470">1. Создать объект <tspan
+   style="fill:#aa0000"
+   id="tspan8296">student</tspan> с атрибутами <tspan
+   style="fill:#aa0000"
+   id="tspan8298">login</tspan>, <tspan
+   style="fill:#aa0000"
+   id="tspan8300">ipv4</tspan>, <tspan
+   style="fill:#aa0000"
+   id="tspan8306">passed</tspan>, в которых</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="530"
+         id="tspan8304">сохранить ваш логин, последний байт вашего IP-адреса и <tspan
+   style="fill:#aa0000"
+   id="tspan8308">true </tspan></tspan><tspan
+         id="tspan8100"
+         sodipodi:role="line"
+         x="80"
+         y="590" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text8102"
+       y="610"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan8106"
+         y="610"
+         x="80"
+         sodipodi:role="line">2. Создать массив целых чисел от 100 до 200</tspan><tspan
+         y="670"
+         x="80"
+         sodipodi:role="line"
+         id="tspan8108" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="25. hstore"
-     style="display:none" />
+     inkscape:label="25. Резервное копирование"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text8068-9"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="150"
+         id="tspan8225">Выполните резервное копирование вашей локальной базы данных </tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="210"
+         id="tspan8229">в файле, имя которого совпадает с вашим логином. </tspan><tspan
+         id="tspan8092-8"
+         sodipodi:role="line"
+         x="80"
+         y="270" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="290"
+       id="text9842-9"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan9854-2"
+         y="290"
+         x="80"
+         sodipodi:role="line">Сохраните резервную копию на центральном сервере:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4864-9"
+       width="1440"
+       height="60"
+       x="80"
+       y="330"
+       ry="20" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4866-4"
+       y="370"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4880-9"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="370"
+         x="120"
+         sodipodi:role="line">select save_backup('~/ivan.sql');</tspan><tspan
+         id="tspan4882-9"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="402"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="434"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4884-5" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
