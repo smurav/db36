@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.975"
-     inkscape:cx="725.97701"
+     inkscape:cx="825.74713"
      inkscape:cy="473.43572"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer20"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -3959,7 +3959,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="9. Изменение данных"
-     style="display:inline">
+     style="display:none">
     <text
        sodipodi:linespacing="150%"
        id="text4056"
@@ -4011,28 +4011,28 @@
          x="80"
          y="310"
          id="tspan4092">2. В строках с <tspan
-   style="fill:#aa0000;line-height:150%"
+   style="line-height:150%;fill:#aa0000"
    id="tspan4153">нечётным</tspan> числом в поле <tspan
-   style="fill:#aa0000;line-height:150%"
+   style="line-height:150%;fill:#aa0000"
    id="tspan4159">id</tspan> записать строку '<tspan
-   style="fill:#aa0000;line-height:150%"
+   style="line-height:150%;fill:#aa0000"
    id="tspan4155">odd</tspan>' </tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="390"
+         y="370"
          id="tspan13936">в поле <tspan
-   style="fill:#aa0000;line-height:150%"
+   style="line-height:150%;fill:#aa0000"
    id="tspan4157">value</tspan>.</tspan><tspan
          id="tspan4098"
          sodipodi:role="line"
          x="80"
-         y="470" /></text>
+         y="430" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="10. Удаление данных"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#203e86;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -4045,11 +4045,11 @@
          y="150"
          id="tspan4163">Удалите строки из таблицы <tspan
    style="line-height:150%;fill:#aa0000"
-   id="tspan4165">table10</tspan>, для которых выполняются следующие</tspan><tspan
+   id="tspan4165">table10</tspan>, для которых выполняются </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="210"
-         id="tspan4218">условия:</tspan><tspan
+         id="tspan4218">следующие условия:</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="270"
