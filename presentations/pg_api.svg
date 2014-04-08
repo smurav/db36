@@ -28,7 +28,7 @@
      inkscape:cx="767.288"
      inkscape:cy="474.09213"
      inkscape:document-units="px"
-     inkscape:current-layer="g27744"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -6093,32 +6093,28 @@
     </a>
     <a
        style="opacity:0.98999999;fill:#800080"
-       id="a22531"
-       transform="translate(2.7539063,-240)"
-       xlink:href="http://www.postgresql.org/docs/9.3/static/libpq.html">
-      <a
-         id="a22552"
-         xlink:href="http://www.postgresql.org/docs/9.3/static/libpq.html">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/libpq.html"
+       id="a22552"
+       transform="translate(2.7539063,-240)">
+      <text
+         sodipodi:linespacing="200%"
+         id="text22533"
+         y="390"
+         x="117.24609"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
            x="117.24609"
            y="390"
-           id="text22533"
-           sodipodi:linespacing="200%"><tspan
-             id="tspan22536"
-             y="390"
-             x="117.24609"
-             sodipodi:role="line">PostgreSQL: libpq - C Library</tspan><tspan
-             y="470"
-             x="117.24609"
-             sodipodi:role="line"
-             id="tspan22538" /><tspan
-             y="550"
-             x="117.24609"
-             sodipodi:role="line"
-             id="tspan22540" /></text>
-      </a>
+           id="tspan22536">PostgreSQL: libpq - C Library</tspan><tspan
+           id="tspan22538"
+           sodipodi:role="line"
+           x="117.24609"
+           y="470" /><tspan
+           id="tspan22540"
+           sodipodi:role="line"
+           x="117.24609"
+           y="550" /></text>
     </a>
     <g
        style="opacity:0.98999999;display:inline"
@@ -6253,30 +6249,27 @@
       </g>
     </g>
     <a
-       id="a26747">
-      <a
-         id="a26753"
-         xlink:href="http://legacy.python.org/dev/peps/pep-0249/">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xlink:href="http://legacy.python.org/dev/peps/pep-0249/"
+       id="a26753">
+      <text
+         sodipodi:linespacing="200%"
+         id="text26735"
+         y="310"
+         x="120"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
            x="120"
            y="310"
-           id="text26735"
-           sodipodi:linespacing="200%"><tspan
-             id="tspan26737"
-             y="310"
-             x="120"
-             sodipodi:role="line">Python Database API Specification v2.0</tspan><tspan
-             y="390"
-             x="120"
-             sodipodi:role="line"
-             id="tspan26739" /><tspan
-             y="470"
-             x="120"
-             sodipodi:role="line"
-             id="tspan26741" /></text>
-      </a>
+           id="tspan26737">Python Database API Specification v2.0</tspan><tspan
+           id="tspan26739"
+           sodipodi:role="line"
+           x="120"
+           y="390" /><tspan
+           id="tspan26741"
+           sodipodi:role="line"
+           x="120"
+           y="470" /></text>
     </a>
   </g>
   <g
