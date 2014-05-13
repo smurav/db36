@@ -29,7 +29,7 @@
      inkscape:cx="874.00161"
      inkscape:cy="280.05892"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g7367"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -4878,11 +4878,11 @@
          y="710"
          x="80"
          sodipodi:role="line"
-         id="tspan7446">При помощи GiST можно реализовать стратегии поиска сложнее, </tspan><tspan
+         id="tspan7446">При помощи GiST можно реализовать более сложные стратегии </tspan><tspan
          y="770"
          x="80"
          sodipodi:role="line"
-         id="tspan7450">чем простое сравнение в B-tree индексах.</tspan><tspan
+         id="tspan7450">поиска, чем простое сравнение в B-tree индексах.</tspan><tspan
          y="830"
          x="80"
          sodipodi:role="line"
