@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="837.58346"
-     inkscape:cy="397.81958"
+     inkscape:zoom="0.5"
+     inkscape:cx="874.00161"
+     inkscape:cy="280.05892"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -3433,6 +3433,56 @@
          in2="BackgroundImage"
          id="feBlend5528" />
     </filter>
+    <linearGradient
+       gradientTransform="translate(-1600,-830)"
+       y2="865"
+       x2="1600"
+       y1="865"
+       x1="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9052-5"
+       xlink:href="#linearGradient7629-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient7629-3">
+      <stop
+         style="stop-color:#649ccf;stop-opacity:1;"
+         offset="0"
+         id="stop7631-7" />
+      <stop
+         style="stop-color:#1f3c84;stop-opacity:1;"
+         offset="1"
+         id="stop7633-1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="865"
+       x2="1600"
+       y1="865"
+       x1="0"
+       id="linearGradient9048-8"
+       xlink:href="#linearGradient7629-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient94184">
+      <stop
+         style="stop-color:#649ccf;stop-opacity:1;"
+         offset="0"
+         id="stop94186" />
+      <stop
+         style="stop-color:#1f3c84;stop-opacity:1;"
+         offset="1"
+         id="stop94188" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7629-3"
+       id="linearGradient94192"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="865"
+       x2="1600"
+       y2="865" />
   </defs>
   <metadata
      id="metadata7">
@@ -3587,31 +3637,31 @@
          id="tspan8919">Муравьёв С.К.</tspan></text>
   </g>
   <g
-     ns1:transitionOut="name:fade;length:500"
-     ns1:transitionIn="name:fade;length:500"
-     style="display:none;filter:url(#filter5526)"
+     ns1:masterSlide="masterSlide"
+     style="display:none"
      inkscape:label="master_slide"
-     id="layer2"
+     id="layer3"
      inkscape:groupmode="layer"
-     ns1:masterSlide="masterSlide">
+     ns1:transitionIn="name:fade;length:200"
+     ns1:transitionOut="name:fade;length:200">
     <rect
        y="0"
        x="0"
        height="900"
        width="1600"
-       id="rect9037"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       id="rect9037-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline" />
     <rect
        y="830"
-       x="0"
+       x="1.1368684e-13"
        height="70"
        width="1600"
-       id="rect9040"
-       style="fill:url(#linearGradient9048);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       id="rect9040-1"
+       style="fill:url(#linearGradient94192);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline" />
     <rect
        transform="scale(-1,1)"
-       style="fill:url(#linearGradient9052);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect9050"
+       style="fill:url(#linearGradient9052-5);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+       id="rect9050-2"
        width="1600"
        height="70"
        x="-1600"
@@ -3619,65 +3669,61 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-       x="31.882812"
-       y="51.535156"
-       id="text8877-3"
+       x="40"
+       y="50"
+       id="text8877-3-6"
        sodipodi:linespacing="125%"><tspan
-         id="tspan4604"
          ns1:autoText="slideTitle"
+         id="tspan4604-7"
          sodipodi:role="line"
-         x="31.882812"
-         y="51.535156">Заголовок</tspan></text>
+         x="40"
+         y="50">Заголовок</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text9302"
-       y="881.53516"
-       x="31.882812"
+       id="text9302-9"
+       y="880"
+       x="40"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
        xml:space="preserve"><tspan
-         id="tspan9304"
-         y="881.53516"
-         x="31.882812"
+         id="tspan9304-0"
+         y="880"
+         x="40"
          sodipodi:role="line">Индексы</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-       x="1470.3302"
-       y="881.53516"
-       id="text9306"
+       x="1478.4474"
+       y="880"
+       id="text9306-3"
        sodipodi:linespacing="125%"><tspan
-         ns1:autoText="slideNumber"
          sodipodi:role="line"
-         x="1470.6302"
-         y="881.53516"
-         id="tspan9308">01</tspan></text>
+         x="1478.7474"
+         y="880"
+         id="tspan9308-5"
+         ns1:autoText="slideNumber">01</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text9310"
-       y="881.53516"
-       x="1491.7219"
+       id="text9310-5"
+       y="880"
+       x="1499.8391"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
        xml:space="preserve"><tspan
-         id="tspan9312"
-         y="881.53516"
-         x="1491.8719"
+         id="tspan9312-9"
+         y="880"
+         x="1499.9891"
          sodipodi:role="line">/</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-       x="1510.6763"
-       y="881.53516"
-       id="text9314"
+       x="1518.7935"
+       y="880"
+       id="text9314-1"
        sodipodi:linespacing="125%"><tspan
          ns1:autoText="numberOfSlides"
          sodipodi:role="line"
-         x="1510.6763"
-         y="881.53516"
-         id="tspan9316">10</tspan></text>
-    <a
-       id="a5529-8"
-       xlink:href="http://www.postgresql.org/download/"
-       style="display:inline" />
+         x="1518.7935"
+         y="880"
+         id="tspan9316-5">10</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8094,7 +8140,7 @@
          x="440"
          y="446.64844"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6389"></tspan><tspan
+         id="tspan6389" /><tspan
          sodipodi:role="line"
          x="440"
          y="478.64844"
@@ -8987,7 +9033,7 @@
          sodipodi:role="line"
          id="tspan7040"
          x="879.64087"
-         y="644.02734"></tspan><tspan
+         y="644.02734" /><tspan
          sodipodi:role="line"
          id="tspan7042"
          x="879.64087"
@@ -9659,7 +9705,7 @@
          sodipodi:role="line"
          id="tspan7559"
          x="117.37973"
-         y="793.93396"></tspan></text>
+         y="793.93396" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9827,7 +9873,7 @@
          id="tspan7679"
          sodipodi:role="line"
          x="117.37973"
-         y="793.93396"></tspan></text>
+         y="793.93396" /></text>
   </g>
   <g
      style="display:none"
@@ -9946,7 +9992,7 @@
          y="793.93396"
          x="117.37973"
          sodipodi:role="line"
-         id="tspan7877"></tspan></text>
+         id="tspan7877" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10065,7 +10111,7 @@
          id="tspan7989"
          sodipodi:role="line"
          x="117.37973"
-         y="793.93396"></tspan></text>
+         y="793.93396" /></text>
     <rect
        ry="19.999998"
        y="511.54688"
@@ -10332,7 +10378,7 @@
          y="335.60156"
          x="120"
          sodipodi:role="line"
-         id="tspan8099"></tspan><tspan
+         id="tspan8099" /><tspan
          y="367.60156"
          x="120"
          sodipodi:role="line"
@@ -10378,7 +10424,7 @@
          id="tspan7621"
          sodipodi:role="line"
          x="117.37973"
-         y="793.93396"></tspan></text>
+         y="793.93396" /></text>
     <text
        sodipodi:linespacing="150%"
        id="text8109"
@@ -10510,7 +10556,7 @@
          y="793.93396"
          x="117.37973"
          sodipodi:role="line"
-         id="tspan8179"></tspan></text>
+         id="tspan8179" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11017,7 +11063,7 @@
            height="74.953316"
            x="275.77164"
            y="576.14508" /></flowRegion><flowPara
-         id="flowPara8363"></flowPara></flowRoot>  </g>
+         id="flowPara8363" /></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Ссылки"
@@ -11181,31 +11227,27 @@
       </g>
     </g>
     <a
-       xlink:href="http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80_(%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)"
-       id="a5582">
-      <a
-         id="a4678"
-         xlink:href="http://www.postgresql.org/docs/9.3/static/indexes.html">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/indexes.html"
+       id="a4678">
+      <text
+         sodipodi:linespacing="200%"
+         id="text5570"
+         y="150"
+         x="120"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
            x="120"
            y="150"
-           id="text5570"
-           sodipodi:linespacing="200%"><tspan
-             id="tspan5572"
-             y="150"
-             x="120"
-             sodipodi:role="line">PostgreSQL: Indexes </tspan><tspan
-             y="230"
-             x="120"
-             sodipodi:role="line"
-             id="tspan5574" /><tspan
-             y="310"
-             x="120"
-             sodipodi:role="line"
-             id="tspan5576" /></text>
-      </a>
+           id="tspan5572">PostgreSQL: Indexes </tspan><tspan
+           id="tspan5574"
+           sodipodi:role="line"
+           x="120"
+           y="230" /><tspan
+           id="tspan5576"
+           sodipodi:role="line"
+           x="120"
+           y="310" /></text>
     </a>
     <g
        id="g20958"
@@ -11274,27 +11316,23 @@
       </g>
     </g>
     <a
-       id="a6763"
-       xlink:href="http://www.postgresql.org/docs/9.3/static/event-triggers.html">
-      <a
-         id="a6851"
-         xlink:href="http://www.postgresql.org/docs/9.3/static/performance-tips.html">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/performance-tips.html"
+       id="a6851">
+      <text
+         sodipodi:linespacing="200%"
+         id="text20990"
+         y="310"
+         x="120"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan20994"
+           sodipodi:role="line"
            x="120"
-           y="310"
-           id="text20990"
-           sodipodi:linespacing="200%"><tspan
-             y="310"
-             x="120"
-             sodipodi:role="line"
-             id="tspan20994">PostgreSQL: Performance Tips</tspan><tspan
-             y="390"
-             x="120"
-             sodipodi:role="line"
-             id="tspan20996" /></text>
-      </a>
+           y="310">PostgreSQL: Performance Tips</tspan><tspan
+           id="tspan20996"
+           sodipodi:role="line"
+           x="120"
+           y="390" /></text>
     </a>
     <g
        style="opacity:0.98999999;display:inline"
@@ -11619,22 +11657,19 @@
       </g>
     </g>
     <a
-       id="a8229">
-      <a
-         id="a8233"
-         xlink:href="http://habrahabr.ru/post/203320/">
-        <text
-           sodipodi:linespacing="200%"
-           id="text8223"
+       xlink:href="http://habrahabr.ru/post/203320/"
+       id="a8233">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="670"
+         id="text8223"
+         sodipodi:linespacing="200%"><tspan
            y="670"
            x="120"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           xml:space="preserve"><tspan
-             id="tspan8225"
-             sodipodi:role="line"
-             x="120"
-             y="670">Habrahabr: Оптимизация запросов. Основы EXPLAIN в PostgreSQL</tspan></text>
-      </a>
+           sodipodi:role="line"
+           id="tspan8225">Habrahabr: Оптимизация запросов. Основы EXPLAIN в PostgreSQL</tspan></text>
     </a>
   </g>
   <g
@@ -11694,64 +11729,6 @@
            id="tspan4362" /></text>
     </a>
   </g>
-  <ns1:mousehandler
-     ns1:subtype="jessyInk_core_mouseHandler_noclick">
-    <script
-       id="script18545">// Copyright 2008, 2009 Hannes Hochreiner
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
-//
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with this program.  If not, see http://www.gnu.org/licenses/.
-
-// Add event listener for initialisation.
-document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_noclick_init, false);
-
-/** Initialisation function.
- *  
- *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
- */
-function jessyInk_core_mouseHandler_noclick_init()
-{
-	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
-
-	for (var counter = 0; counter &lt; elems.length; counter++)
-	{
-		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_noclick&quot;)
-			jessyInk_core_mouseHandler_noclick(elems[counter]);
-	}
-}
-
-/** Function to initialise an object.
- *
- *  @param obj Object to be initialised.
- */
-function jessyInk_core_mouseHandler_noclick(obj)
-{
-	/** Function supplying a custom mouse handler.
-	 *
-	 *  @returns A dictionary containing the new mouse handler functions.
-	 */
-	obj.getMouseHandler = function ()
-	{
-		var handlerDictio = new Object();
-
-		handlerDictio[SLIDE_MODE] = new Object();
-		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = null;
-
-		return handlerDictio;
-	}
-}
-
-</script>
-  </ns1:mousehandler>
   <script
      id="JessyInk"
      ns1:version="1.5.5">// Copyright 2008, 2009 Hannes Hochreiner
@@ -12541,8 +12518,6 @@ function effect(dir)
 			done &amp;= appear(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
 		else if (effectArray[counter][&quot;effect&quot;] == &quot;pop&quot;)
 			done &amp;= pop(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
-		else if (effectArray[counter][&quot;effect&quot;] == &quot;motion&quot;)
-			done &amp;= motion(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
 		else if (effectArray[counter][&quot;effect&quot;] == &quot;view&quot;)
 			done &amp;= view(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
 	}
@@ -13084,8 +13059,6 @@ function slideUpdateExportLayer()
 						appear(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
 						pop(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
-					else if (effect[&quot;effect&quot;] == &quot;motion&quot;)
-						motion(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 				}
@@ -13640,47 +13613,6 @@ function pop(dir, element, time, options)
 	return false;
 }
 
-/** The motion effect.
- *
- *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
- *  @param element the element the effect should be applied to
- *  @param time the time that has elapsed since the beginning of the effect
- *  @param options a dictionary with additional options (e.g. length of the effect)
- */
-function motion(dir, element, time, options)
-{
-	var length = 500;
-	var fraction;
-	var svg = d3.select(&quot;svg&quot;);
-	var path = svg.select(&quot;#&quot; + options[&quot;pathid&quot;]);
-	var startPoint = path.node().getPointAtLength(0);
-	var l = path.node().getTotalLength();
-
-	if ((time == STATE_END) || (time == STATE_START))
-		fraction = 1;
-	else
-	{
-		if (options &amp;&amp; options[&quot;length&quot;])
-			length = options[&quot;length&quot;];
-		fraction = time / length;
-	}
-
-	if (fraction &gt;= 1)
-	{
-		return true;
-	}
-	else
-	{
-		element.style.display = &quot;inherit&quot;;
-		var p = path.node().getPointAtLength(((dir-1)/-2)*l + dir*fraction * l);
-		p.x -= startPoint.x;
-		p.y -= startPoint.y;
-		element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + p.x + &quot;,&quot; + p.y + &quot;)&quot;);
-	}
-	
-	return false;
-}
-
 /** Function to set a slide either to the start or the end state.
  *  
  *  @param slide the slide to use
@@ -13705,8 +13637,6 @@ function setSlideToState(slide, state)
 						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
 						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
-					else if (effect[&quot;effect&quot;] == &quot;motion&quot;)
-						motion(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 				}
@@ -13725,8 +13655,6 @@ function setSlideToState(slide, state)
 						appear(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
 						pop(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
-					else if (effect[&quot;effect&quot;] == &quot;motion&quot;)
-						motion(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
 				}
@@ -13747,8 +13675,6 @@ function setSlideToState(slide, state)
 						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
 						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
-					else if (effect[&quot;effect&quot;] == &quot;motion&quot;)
-						motion(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);
 					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
 						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
 				}
@@ -14540,4 +14466,62 @@ String.prototype.trim = function()
 }
 
 </script>
+  <ns1:mousehandler
+     ns1:subtype="jessyInk_core_mouseHandler_noclick">
+    <script
+       id="script119167">// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Add event listener for initialisation.
+document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_noclick_init, false);
+
+/** Initialisation function.
+ *  
+ *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
+ */
+function jessyInk_core_mouseHandler_noclick_init()
+{
+	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; elems.length; counter++)
+	{
+		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_noclick&quot;)
+			jessyInk_core_mouseHandler_noclick(elems[counter]);
+	}
+}
+
+/** Function to initialise an object.
+ *
+ *  @param obj Object to be initialised.
+ */
+function jessyInk_core_mouseHandler_noclick(obj)
+{
+	/** Function supplying a custom mouse handler.
+	 *
+	 *  @returns A dictionary containing the new mouse handler functions.
+	 */
+	obj.getMouseHandler = function ()
+	{
+		var handlerDictio = new Object();
+
+		handlerDictio[SLIDE_MODE] = new Object();
+		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = null;
+
+		return handlerDictio;
+	}
+}
+
+</script>
+  </ns1:mousehandler>
 </svg>
