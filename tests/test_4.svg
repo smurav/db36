@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68942911"
-     inkscape:cx="670.12093"
-     inkscape:cy="487.95645"
+     inkscape:zoom="0.975"
+     inkscape:cx="810.68333"
+     inkscape:cy="452.18528"
      inkscape:document-units="px"
-     inkscape:current-layer="text4835"
+     inkscape:current-layer="g4928"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1146"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2089,7 +2089,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -2236,7 +2236,7 @@
   <g
      ns1:transitionOut="name:fade;length:500"
      ns1:transitionIn="name:fade;length:500"
-     style="display:none"
+     style="display:inline"
      inkscape:label="master_slide"
      id="layer2"
      inkscape:groupmode="layer"
@@ -4804,7 +4804,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="13. Фреймы"
      id="g4928"
      inkscape:groupmode="layer">
@@ -4830,7 +4830,7 @@
          x="80"
          sodipodi:role="line">1. <tspan
    id="tspan4940"
-   style="fill:#aa0000">num int</tspan> - порядковый номер строки.</tspan><tspan
+   style="fill:#aa0000">num bigint</tspan> - порядковый номер строки.</tspan><tspan
          id="tspan4942"
          y="330"
          x="80"
