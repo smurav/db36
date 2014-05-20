@@ -28,7 +28,7 @@
      inkscape:cx="563.36449"
      inkscape:cy="487.95645"
      inkscape:document-units="px"
-     inkscape:current-layer="g4468"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -3409,7 +3409,7 @@
          sodipodi:role="line"
          x="80"
          y="330"
-         id="tspan4527">2. Максимальное значение таблице <tspan
+         id="tspan4527">2. Максимальное значение в таблице <tspan
    style="fill:#aa0000"
    id="tspan4531">table5</tspan>.</tspan><tspan
          id="tspan4482"
@@ -4194,7 +4194,7 @@
          y="270"
          id="tspan4827">1. <tspan
    style="fill:#aa0000"
-   id="tspan4916">num int</tspan> - порядковый номер строки в окне.</tspan><tspan
+   id="tspan4916">num bigint</tspan> - порядковый номер строки в окне.</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="330"
