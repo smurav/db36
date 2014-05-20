@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68942911"
-     inkscape:cx="749.75059"
+     inkscape:cx="563.36449"
      inkscape:cy="487.95645"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g4468"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -2084,7 +2084,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3403,13 +3403,13 @@
          sodipodi:role="line"
          x="80"
          y="270"
-         id="tspan4525">1. Сумма значений в чётных строках таблицы <tspan
+         id="tspan4525">1. Минимальное значение в таблице <tspan
    style="fill:#aa0000"
    id="tspan4529">table5</tspan>.</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="330"
-         id="tspan4527">2. Разность значений в нечётных строках таблицы <tspan
+         id="tspan4527">2. Максимальное значение таблице <tspan
    style="fill:#aa0000"
    id="tspan4531">table5</tspan>.</tspan><tspan
          id="tspan4482"
