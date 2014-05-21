@@ -2089,7 +2089,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -2236,7 +2236,7 @@
   <g
      ns1:transitionOut="name:fade;length:500"
      ns1:transitionIn="name:fade;length:500"
-     style="display:inline"
+     style="display:none"
      inkscape:label="master_slide"
      id="layer2"
      inkscape:groupmode="layer"
@@ -4804,7 +4804,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="13. Фреймы"
      id="g4928"
      inkscape:groupmode="layer">
