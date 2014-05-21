@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.975"
-     inkscape:cx="676.83718"
-     inkscape:cy="452.18528"
+     inkscape:cx="729.65769"
+     inkscape:cy="428.59554"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g5068"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1146"
@@ -2106,7 +2106,7 @@
        id="g3027">
       <path
          transform="matrix(1.057377,0,0,1.057377,-6.3398196,-35.248479)"
-         d="m 86.081264,73.921494 a 38.83844,38.83844 0 1 1 -77.6768794,0 38.83844,38.83844 0 1 1 77.6768794,0 z"
+         d="m 86.081264,73.921494 c 0,21.449878 -17.388561,38.838436 -38.838439,38.838436 -21.449879,0 -38.8384404,-17.388558 -38.8384404,-38.838436 0,-21.449879 17.3885614,-38.83844 38.8384404,-38.83844 21.449878,0 38.838439,17.388561 38.838439,38.83844 z"
          sodipodi:ry="38.83844"
          sodipodi:rx="38.83844"
          sodipodi:cy="73.921494"
@@ -2166,7 +2166,7 @@
        sodipodi:cy="554.18579"
        sodipodi:rx="2016.2645"
        sodipodi:ry="1992.0209"
-       d="m -1656.65,554.18579 a 2016.2645,1992.0209 0 1 1 -4032.5291,0 2016.2645,1992.0209 0 1 1 4032.5291,0 z"
+       d="m -1656.65,554.18579 c 0,1100.16271 -902.7124,1992.02091 -2016.2646,1992.02091 -1113.5521,0 -2016.2645,-891.8582 -2016.2645,-1992.02091 0,-1100.16275 902.7124,-1992.02089 2016.2645,-1992.02089 1113.5522,0 2016.2646,891.85814 2016.2646,1992.02089 z"
        transform="translate(0,308.2677)" />
     <path
        sodipodi:nodetypes="ccccc"
@@ -3399,19 +3399,23 @@
          sodipodi:role="line"
          x="80"
          y="210"
-         id="tspan4522">которая возвращает два значения:</tspan><tspan
+         id="tspan4522">которая возвращает два значения через выходные параметры:</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="270"
          id="tspan4525">1. Минимальное значение в таблице <tspan
    style="fill:#aa0000"
-   id="tspan4529">table5</tspan>.</tspan><tspan
+   id="tspan4529">table5</tspan> в виде <tspan
+   style="fill:#aa0000"
+   id="tspan5158">числа</tspan>.</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="330"
          id="tspan4527">2. Максимальное значение в таблице <tspan
    style="fill:#aa0000"
-   id="tspan4531">table5</tspan>.</tspan><tspan
+   id="tspan4531">table5</tspan> в виде <tspan
+   style="fill:#aa0000"
+   id="tspan5160">текста</tspan>.</tspan><tspan
          id="tspan4482"
          sodipodi:role="line"
          x="80"
@@ -6038,17 +6042,15 @@
          id="tspan5076"
          y="210"
          x="80"
-         sodipodi:role="line">вставки в таблицу <tspan
+         sodipodi:role="line">вставки в вид <tspan
    style="fill:#aa0000"
-   id="tspan5100">table16</tspan> и перенаправляет её в таблицу </tspan><tspan
+   id="tspan5100">view16</tspan> и перенаправляет её в таблицу </tspan><tspan
          y="270"
          x="80"
          sodipodi:role="line"
          id="tspan5106"><tspan
    style="fill:#aa0000"
-   id="tspan5108">instead16</tspan>. Таблица <tspan
-   style="fill:#aa0000"
-   id="tspan5111">table16</tspan> не должна изменяться!</tspan></text>
+   id="tspan5108">table16</tspan>.</tspan></text>
     <rect
        ry="20"
        y="326.72656"
