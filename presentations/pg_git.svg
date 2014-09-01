@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="399.54784"
-     inkscape:cy="547.05727"
+     inkscape:cx="688.91281"
+     inkscape:cy="735.21523"
      inkscape:document-units="px"
-     inkscape:current-layer="g49465"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
@@ -7179,7 +7179,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -7198,7 +7198,7 @@
          sodipodi:cy="73.921494"
          sodipodi:rx="38.83844"
          sodipodi:ry="38.83844"
-         d="m 86.081264,73.921494 c 0,21.449878 -17.388561,38.838436 -38.838439,38.838436 -21.449879,0 -38.8384404,-17.388558 -38.8384404,-38.838436 0,-21.449879 17.3885614,-38.83844 38.8384404,-38.83844 21.449878,0 38.838439,17.388561 38.838439,38.83844 z"
+         d="m 86.081264,73.921494 a 38.83844,38.83844 0 1 1 -77.6768794,0 38.83844,38.83844 0 1 1 77.6768794,0 z"
          transform="matrix(1.057377,0,0,1.057377,-6.3398196,-35.248479)" />
       <path
          style="fill:#cf1b26;fill-opacity:1"
@@ -7246,7 +7246,7 @@
     </g>
     <path
        transform="translate(0,308.2677)"
-       d="m -1656.65,554.18579 c 0,1100.16271 -902.7124,1992.02091 -2016.2646,1992.02091 -1113.5521,0 -2016.2645,-891.8582 -2016.2645,-1992.02091 0,-1100.16275 902.7124,-1992.02089 2016.2645,-1992.02089 1113.5522,0 2016.2646,891.85814 2016.2646,1992.02089 z"
+       d="m -1656.65,554.18579 a 2016.2645,1992.0209 0 1 1 -4032.5291,0 2016.2645,1992.0209 0 1 1 4032.5291,0 z"
        sodipodi:ry="1992.0209"
        sodipodi:rx="2016.2645"
        sodipodi:cy="554.18579"
@@ -7319,7 +7319,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect9037"
@@ -7988,7 +7988,7 @@
            style="fill:url(#linearGradient11801-7-4);fill-opacity:1;stroke:none" />
         <path
            transform="matrix(4.9627313,0,0,4.9627313,278.62528,-3481.3366)"
-           d="m 303.29832,521.77954 a 16.667517,5.5558391 0 1 1 -33.33504,0 16.667517,5.5558391 0 1 1 33.33504,0 z"
+           d="m 303.29832,521.77954 c 0,3.06841 -7.46231,5.55584 -16.66752,5.55584 -9.20522,0 -16.66752,-2.48743 -16.66752,-5.55584 0,-3.0684 7.4623,-5.55584 16.66752,-5.55584 9.20521,0 16.66752,2.48744 16.66752,5.55584 z"
            sodipodi:ry="5.5558391"
            sodipodi:rx="16.667517"
            sodipodi:cy="521.77954"
@@ -9729,7 +9729,7 @@
            sodipodi:cy="521.77954"
            sodipodi:rx="16.667517"
            sodipodi:ry="5.5558391"
-           d="m 303.29832,521.77954 a 16.667517,5.5558391 0 1 1 -33.33504,0 16.667517,5.5558391 0 1 1 33.33504,0 z"
+           d="m 303.29832,521.77954 c 0,3.06841 -7.46231,5.55584 -16.66752,5.55584 -9.20522,0 -16.66752,-2.48743 -16.66752,-5.55584 0,-3.0684 7.4623,-5.55584 16.66752,-5.55584 9.20521,0 16.66752,2.48744 16.66752,5.55584 z"
            transform="matrix(4.9627313,0,0,4.9627313,278.62528,-3481.3366)" />
         <path
            style="fill:#3b5d8b;fill-opacity:1;stroke:none"
@@ -10872,7 +10872,7 @@
          sodipodi:cy="521.77954"
          sodipodi:rx="16.667517"
          sodipodi:ry="5.5558391"
-         d="m 303.29832,521.77954 a 16.667517,5.5558391 0 1 1 -33.33504,0 16.667517,5.5558391 0 1 1 33.33504,0 z"
+         d="m 303.29832,521.77954 c 0,3.06841 -7.46231,5.55584 -16.66752,5.55584 -9.20522,0 -16.66752,-2.48743 -16.66752,-5.55584 0,-3.0684 7.4623,-5.55584 16.66752,-5.55584 9.20521,0 16.66752,2.48744 16.66752,5.55584 z"
          transform="matrix(4.9627313,0,0,4.9627313,278.62528,-3481.3366)" />
       <path
          style="fill:#3b5d8b;fill-opacity:1;stroke:none"
@@ -10995,7 +10995,7 @@
          style="fill:url(#linearGradient48433);fill-opacity:1;stroke:none" />
       <path
          transform="matrix(4.9627313,0,0,4.9627313,278.62528,-3481.3366)"
-         d="m 303.29832,521.77954 a 16.667517,5.5558391 0 1 1 -33.33504,0 16.667517,5.5558391 0 1 1 33.33504,0 z"
+         d="m 303.29832,521.77954 c 0,3.06841 -7.46231,5.55584 -16.66752,5.55584 -9.20522,0 -16.66752,-2.48743 -16.66752,-5.55584 0,-3.0684 7.4623,-5.55584 16.66752,-5.55584 9.20521,0 16.66752,2.48744 16.66752,5.55584 z"
          sodipodi:ry="5.5558391"
          sodipodi:rx="16.667517"
          sodipodi:cy="521.77954"
@@ -11163,65 +11163,6 @@
      id="g49334"
      inkscape:groupmode="layer">
     <g
-       id="g49360"
-       style="display:inline"
-       transform="translate(0,-20)">
-      <text
-         sodipodi:linespacing="200%"
-         id="text49362"
-         y="450"
-         x="80"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan49366"
-           y="450"
-           x="80"
-           sodipodi:role="line">Создание ссылки на внешний репозиторий:</tspan></text>
-      <rect
-         rx="20"
-         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.75411677;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="rect49368"
-         width="1440"
-         height="80.000061"
-         x="80"
-         y="469.99994"
-         ry="13.846159" />
-      <text
-         sodipodi:linespacing="150%"
-         id="text49370"
-         y="520.80469"
-         x="120"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
-           y="520.80469"
-           x="120"
-           sodipodi:role="line"
-           id="tspan49378">git remote add <tspan
-   style="fill:#aa0000"
-   id="tspan49415">имя_ссылки имя</tspan>@<tspan
-   style="fill:#aa0000"
-   id="tspan49417">адрес</tspan>:<tspan
-   style="fill:#aa0000"
-   id="tspan49419">имя_репозитория</tspan></tspan><tspan
-           y="568.80469"
-           x="120"
-           sodipodi:role="line"
-           id="tspan49380" /></text>
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="779.83777"
-         y="746.45679"
-         id="text49411"
-         sodipodi:linespacing="125%"
-         transform="translate(0,20)"><tspan
-           sodipodi:role="line"
-           id="tspan49413"
-           x="779.83777"
-           y="746.45679" /></text>
-    </g>
-    <g
        transform="translate(0,-300)"
        style="display:inline"
        id="g49382">
@@ -11235,7 +11176,7 @@
            sodipodi:role="line"
            x="80"
            y="450"
-           id="tspan49386">Создание репозитория:</tspan></text>
+           id="tspan49386">Создание нового репозитория:</tspan></text>
       <rect
          ry="13.846159"
          y="469.99994"
@@ -11277,68 +11218,112 @@
            x="120"
            y="712.80469" /></text>
     </g>
-    <g
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5543"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion5545"><rect
+           id="rect5547"
+           width="1781.9091"
+           height="242.43661"
+           x="-153.54318"
+           y="405.02527" /></flowRegion><flowPara
+         id="flowPara5549"></flowPara></flowRoot>    <g
+       id="g6588"
        style="display:inline"
-       id="g49421"
-       transform="translate(0,160)">
+       transform="translate(0,-40)">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6590"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6592"
+           y="450"
+           x="80"
+           sodipodi:role="line">Создание файла .gitignore:</tspan></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.14834523;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect6594"
+         width="1440"
+         height="120.00006"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text6596"
+         y="520.80469"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6602"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="520.80469"
+           x="120"
+           sodipodi:role="line">*.[oa]</tspan><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="568.80469"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6613">*~</tspan><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="616.80469"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6604" /><tspan
+           y="664.80469"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6606" /></text>
       <text
          xml:space="preserve"
          style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          x="80"
-         y="450"
-         id="text49423"
+         y="650"
+         id="text6615"
          sodipodi:linespacing="200%"><tspan
            sodipodi:role="line"
            x="80"
-           y="450"
-           id="tspan49425">Клонирование репозитория:</tspan><tspan
-           sodipodi:role="line"
-           x="80"
-           y="522"
-           id="tspan49427" /></text>
+           y="650"
+           id="tspan6617">Первый коммит:</tspan></text>
       <rect
          ry="13.846159"
-         y="469.99994"
+         y="669.99994"
          x="80"
-         height="80.000061"
+         height="120.00006"
          width="1440"
-         id="rect49429"
-         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.75411677;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect6619"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.14834523;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          rx="20" />
       <text
          xml:space="preserve"
          style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="120"
-         y="520.80469"
-         id="text49431"
+         y="720.80469"
+         id="text6621"
          sodipodi:linespacing="150%"><tspan
-           id="tspan49433"
+           id="tspan6625"
            sodipodi:role="line"
            x="120"
-           y="520.80469"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git clone<tspan
-   id="tspan49435"
-   style="fill:#aa0000"> имя</tspan>@<tspan
-   id="tspan49437"
-   style="fill:#aa0000">адрес</tspan>:<tspan
-   id="tspan49439"
-   style="fill:#aa0000">имя_репозитория</tspan></tspan><tspan
-           id="tspan49441"
+           y="720.80469"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git add .gitignore</tspan><tspan
            sodipodi:role="line"
            x="120"
-           y="568.80469" /></text>
-      <text
-         transform="translate(0,20)"
-         sodipodi:linespacing="125%"
-         id="text49443"
-         y="746.45679"
-         x="779.83777"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="746.45679"
-           x="779.83777"
-           id="tspan49445"
-           sodipodi:role="line" /></text>
+           y="768.80469"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           id="tspan6633">git commit -m &quot;Первый коммит&quot;</tspan><tspan
+           id="tspan6627"
+           sodipodi:role="line"
+           x="120"
+           y="816.80469"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+           id="tspan6629"
+           sodipodi:role="line"
+           x="120"
+           y="864.80469" /></text>
     </g>
   </g>
   <g
@@ -11502,7 +11487,7 @@
            sodipodi:role="line"
            id="tspan49100"
            x="230.31477"
-           y="724.23346"></tspan></text>
+           y="724.23346" /></text>
     </g>
     <g
        style="display:inline"
@@ -11593,7 +11578,7 @@
            y="368.45312"
            x="120"
            sodipodi:role="line"
-           id="tspan49132">git commit -m 'Описание фиксируемых изменений' </tspan><tspan
+           id="tspan49132">git commit -m &quot;Описание фиксируемых изменений&quot; </tspan><tspan
            y="416.45312"
            x="120"
            sodipodi:role="line"
@@ -11649,7 +11634,7 @@
            sodipodi:role="line"
            x="120"
            y="508.71872"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git commit -m 'Описание фиксируемых изменений' <tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git commit -m &quot;Описание фиксируемых изменений&quot; <tspan
    style="fill:#aa0000"
    id="tspan49198">func.c</tspan></tspan><tspan
            id="tspan49158"
@@ -11698,7 +11683,7 @@
            sodipodi:role="line"
            id="tspan49172">git commit -<tspan
    style="fill:#aa0000"
-   id="tspan49196">a</tspan>m 'Описание фиксируемых изменений' </tspan><tspan
+   id="tspan49196">a</tspan>m &quot;Описание фиксируемых изменений&quot; </tspan><tspan
            y="556.71875"
            x="120"
            sodipodi:role="line"
@@ -11714,7 +11699,7 @@
            id="tspan49178"
            sodipodi:role="line"
            x="230.31477"
-           y="724.23346"></tspan></text>
+           y="724.23346" /></text>
     </g>
     <g
        transform="translate(0,-160)"
@@ -11777,7 +11762,7 @@
      inkscape:groupmode="layer"
      id="g49270"
      inkscape:label="Контроль изменений"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        id="g49272"
@@ -11934,19 +11919,8 @@
            id="tspan49332"
            sodipodi:role="line"
            x="230.31477"
-           y="724.23346"></tspan></text>
+           y="724.23346" /></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1521.2897"
-       y="1069.7056"
-       id="text49461"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan49463"
-         x="1521.2897"
-         y="1069.7056">j</tspan></text>
     <g
        style="display:inline"
        id="g49465"
@@ -12004,7 +11978,1095 @@
            y="724.23346"
            x="230.31477"
            sodipodi:role="line"
-           id="tspan49483"></tspan></text>
+           id="tspan49483" /></text>
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Перемещение между коммитами"
+     id="g6635"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(0,-160)"
+       id="g6637"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="310"
+         id="text6639"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="310"
+           id="tspan6641">Присвоение метки коммиту:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="382"
+           id="tspan6643" /></text>
+      <rect
+         ry="20"
+         y="330"
+         x="80"
+         height="60"
+         width="1440"
+         id="rect6645"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="368.45312"
+         id="text6647"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan6649"
+           sodipodi:role="line"
+           x="120"
+           y="368.45312"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git tag <tspan
+   style="fill:#aa0000"
+   id="tspan6719">&lt;метка&gt; &lt;хэш&gt; </tspan></tspan><tspan
+           id="tspan6651"
+           sodipodi:role="line"
+           x="120"
+           y="416.45312" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6653"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+         transform="translate(0,9.9999622)"><flowRegion
+           id="flowRegion6655"><rect
+             id="rect6657"
+             width="1730"
+             height="162.85715"
+             x="-162.85715"
+             y="98.571426" /></flowRegion><flowPara
+           id="flowPara6659" /></flowRoot>    </g>
+    <g
+       transform="translate(0,-140)"
+       id="g6661"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6663"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6665"
+           y="450"
+           x="80"
+           sodipodi:role="line">Переключение на коммит по его хэшу:</tspan><tspan
+           id="tspan6667"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect6669"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text6671"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6673">git checkout <tspan
+   style="fill:#aa0000"
+   id="tspan6725">хэш </tspan></tspan><tspan
+           y="556.71875"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6675" /></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6677"
+       transform="translate(0,20)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text6679"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan6681">Переключение на коммит по метке:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan6683" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect6685"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.71872"
+         id="text6687"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan6689"
+           sodipodi:role="line"
+           x="120"
+           y="508.71872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git checkout <tspan
+   style="fill:#aa0000"
+   id="tspan6731">метка   </tspan></tspan><tspan
+           id="tspan6691"
+           sodipodi:role="line"
+           x="120"
+           y="556.71875" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="230.31477"
+         y="724.23346"
+         id="text6693"
+         sodipodi:linespacing="125%"
+         transform="translate(0,-20)"><tspan
+           y="724.23346"
+           x="230.31477"
+           sodipodi:role="line"
+           id="tspan6695" /></text>
+    </g>
+    <g
+       transform="translate(0,180)"
+       id="g6697"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6699"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6701"
+           y="450"
+           x="80"
+           sodipodi:role="line">Переключение на коммит по комментарию:</tspan><tspan
+           id="tspan6703"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect6705"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text6707"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6709">git checkout :/&quot;Первый коммит&quot; </tspan><tspan
+           y="556.71875"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6713" /></text>
+      <text
+         transform="translate(0,-20)"
+         sodipodi:linespacing="125%"
+         id="text6715"
+         y="724.23346"
+         x="230.31477"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6717"
+           sodipodi:role="line"
+           x="230.31477"
+           y="724.23346" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="901.05603"
+       y="1241.4316"
+       id="text6721"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6723"
+         x="901.05603"
+         y="1241.4316"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="454.56863"
+       y="520.18268"
+       id="text6727"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6729"
+         x="454.56863"
+         y="520.18268" /></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Ветки"
+     id="g5327"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(0,-160)"
+       id="g5329"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="310"
+         id="text5331"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="310"
+           id="tspan5333">Создание ветки: </tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="382"
+           id="tspan5335" /></text>
+      <rect
+         ry="20"
+         y="330"
+         x="80"
+         height="60"
+         width="1440"
+         id="rect5337"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="368.45312"
+         id="text5339"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan5341"
+           sodipodi:role="line"
+           x="120"
+           y="368.45312"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git branch <tspan
+   style="fill:#aa0000"
+   id="tspan5423">ветка </tspan></tspan><tspan
+           id="tspan5343"
+           sodipodi:role="line"
+           x="120"
+           y="416.45312" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5345"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+         transform="translate(0,9.9999622)"><flowRegion
+           id="flowRegion5347"><rect
+             id="rect5349"
+             width="1730"
+             height="162.85715"
+             x="-162.85715"
+             y="98.571426" /></flowRegion><flowPara
+           id="flowPara5351" /></flowRoot>    </g>
+    <g
+       transform="translate(0,-140)"
+       id="g5353"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="200%"
+         id="text5355"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5357"
+           y="450"
+           x="80"
+           sodipodi:role="line">Переход на ветку:</tspan><tspan
+           id="tspan5359"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect5361"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text5363"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5367"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git checkout <tspan
+   style="fill:#aa0000"
+   id="tspan5427">ветка</tspan></tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5369"
+       transform="translate(0,20)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text5371"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan5373">Создание ветки и переход на неё:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan5375" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect5377"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.71872"
+         id="text5379"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan5381"
+           sodipodi:role="line"
+           x="120"
+           y="508.71872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git checkout <tspan
+   style="fill:#aa0000"
+   id="tspan5429">-b новая_ветка </tspan></tspan><tspan
+           id="tspan5383"
+           sodipodi:role="line"
+           x="120"
+           y="556.71875" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="230.31477"
+         y="724.23346"
+         id="text5385"
+         sodipodi:linespacing="125%"
+         transform="translate(0,-20)"><tspan
+           y="724.23346"
+           x="230.31477"
+           sodipodi:role="line"
+           id="tspan5387" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1260.6704"
+       y="942.42639"
+       id="text5411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5413"
+         x="1260.6704"
+         y="942.42639" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="458.60925"
+       y="261.58359"
+       id="text5419"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5421"
+         x="458.60925"
+         y="261.58359"> </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5433"
+     inkscape:label="Объединение веток"
+     style="display:none">
+    <g
+       style="display:inline"
+       id="g5435">
+      <text
+         sodipodi:linespacing="200%"
+         id="text5437"
+         y="310"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5439"
+           y="310"
+           x="80"
+           sodipodi:role="line">Объединение текущей ветки с заданной: </tspan><tspan
+           id="tspan5441"
+           y="382"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect5443"
+         width="1440"
+         height="60"
+         x="80"
+         y="330"
+         ry="20" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text5445"
+         y="368.45312"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="368.45312"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5447">git merge <tspan
+   id="tspan5449"
+   style="fill:#aa0000">ветка </tspan></tspan><tspan
+           y="416.45312"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5451" /></text>
+      <flowRoot
+         transform="translate(0,9.9999622)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+         id="flowRoot5453"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5455"><rect
+             y="98.571426"
+             x="-162.85715"
+             height="162.85715"
+             width="1730"
+             id="rect5457" /></flowRegion><flowPara
+           id="flowPara5459" /></flowRoot>    </g>
+    <g
+       style="display:inline"
+       id="g5499"
+       transform="translate(0,20)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text5501"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan5503">Удаление ветки:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan5505" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect5507"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.71872"
+         id="text5509"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan5511"
+           sodipodi:role="line"
+           x="120"
+           y="508.71872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git branch <tspan
+   id="tspan5513"
+   style="fill:#aa0000">-d ветка </tspan></tspan><tspan
+           id="tspan5515"
+           sodipodi:role="line"
+           x="120"
+           y="556.71875" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="230.31477"
+         y="724.23346"
+         id="text5517"
+         sodipodi:linespacing="125%"
+         transform="translate(0,-20)"><tspan
+           y="724.23346"
+           x="230.31477"
+           sodipodi:role="line"
+           id="tspan5519" /></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5521"
+       y="942.42639"
+       x="1260.6704"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="942.42639"
+         x="1260.6704"
+         id="tspan5523"
+         sodipodi:role="line" /></text>
+    <g
+       id="g5389"
+       style="display:inline"
+       transform="translate(0,-300)">
+      <text
+         sodipodi:linespacing="200%"
+         id="text5391"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5393"
+           y="450"
+           x="80"
+           sodipodi:role="line">Просмостр списка существующих веток и имени текущей:</tspan><tspan
+           id="tspan5395"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect5397"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text5399"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5401">git branch </tspan><tspan
+           y="556.71875"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5405" /></text>
+      <text
+         transform="translate(0,-20)"
+         sodipodi:linespacing="125%"
+         id="text5407"
+         y="724.23346"
+         x="230.31477"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5409"
+           sodipodi:role="line"
+           x="230.31477"
+           y="724.23346" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="373.75644"
+         y="174.71048"
+         id="text5539"
+         sodipodi:linespacing="125%"
+         transform="translate(0,300)"><tspan
+           sodipodi:role="line"
+           id="tspan5541"
+           x="373.75644"
+           y="174.71048"></tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Коррекция ошибок"
+     id="g6733"
+     inkscape:groupmode="layer">
+    <g
+       id="g6735"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="310"
+         id="text6737"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="310"
+           id="tspan6739">Изменение последнего коммита:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="382"
+           id="tspan6741" /></text>
+      <rect
+         ry="20"
+         y="330"
+         x="80"
+         height="60"
+         width="1440"
+         id="rect6743"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="368.45312"
+         id="text6745"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan6747"
+           sodipodi:role="line"
+           x="120"
+           y="368.45312"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git commit --amend </tspan><tspan
+           id="tspan6751"
+           sodipodi:role="line"
+           x="120"
+           y="416.45312" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6753"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+         transform="translate(0,9.9999622)"><flowRegion
+           id="flowRegion6755"><rect
+             id="rect6757"
+             width="1730"
+             height="162.85715"
+             x="-162.85715"
+             y="98.571426" /></flowRegion><flowPara
+           id="flowPara6759" /></flowRoot>    </g>
+    <g
+       transform="translate(0,20)"
+       id="g6761"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="200%"
+         id="text6763"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6765"
+           y="450"
+           x="80"
+           sodipodi:role="line">Отмена коммита:</tspan><tspan
+           id="tspan6767"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect6769"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text6771"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6773">git revert <tspan
+   style="fill:#aa0000"
+   id="tspan6817">&lt;коммит&gt; </tspan></tspan><tspan
+           y="556.71875"
+           x="120"
+           sodipodi:role="line"
+           id="tspan6777" /></text>
+      <text
+         transform="translate(0,-20)"
+         sodipodi:linespacing="125%"
+         id="text6779"
+         y="724.23346"
+         x="230.31477"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6781"
+           sodipodi:role="line"
+           x="230.31477"
+           y="724.23346" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1260.6704"
+       y="942.42639"
+       id="text6783"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6785"
+         x="1260.6704"
+         y="942.42639" /></text>
+    <g
+       transform="translate(0,-300)"
+       style="display:inline"
+       id="g6787">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text6789"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan6791">Отмена незафикрированных изменений:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan6793" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect6795"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.71872"
+         id="text6797"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan6799"
+           sodipodi:role="line"
+           x="120"
+           y="508.71872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git checkout -- <tspan
+   style="fill:#aa0000"
+   id="tspan6811">&lt;файл&gt; </tspan></tspan><tspan
+           id="tspan6801"
+           sodipodi:role="line"
+           x="120"
+           y="556.71875" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="230.31477"
+         y="724.23346"
+         id="text6803"
+         sodipodi:linespacing="125%"
+         transform="translate(0,-20)"><tspan
+           y="724.23346"
+           x="230.31477"
+           sodipodi:role="line"
+           id="tspan6805" /></text>
+      <text
+         transform="translate(0,300)"
+         sodipodi:linespacing="125%"
+         id="text6807"
+         y="174.71048"
+         x="373.75644"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="174.71048"
+           x="373.75644"
+           id="tspan6809"
+           sodipodi:role="line"></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="499.01535"
+       y="518.16235"
+       id="text6813"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6815"
+         x="499.01535"
+         y="518.16235" /></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Взаимодействие с удалённым репозиторием"
+     id="g5222"
+     inkscape:groupmode="layer">
+    <g
+       id="g5224"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="310"
+         id="text5226"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="310"
+           id="tspan5228">Создание ссылки на внешний репозиторий:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="382"
+           id="tspan5230" /></text>
+      <rect
+         ry="20"
+         y="330"
+         x="80"
+         height="60"
+         width="1440"
+         id="rect5232"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.56200004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="368.45312"
+         id="text5234"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan5236"
+           sodipodi:role="line"
+           x="120"
+           y="368.45312"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git remote add <tspan
+   style="fill:#aa0000"
+   id="tspan5307">имя_ссылки имя</tspan>@<tspan
+   style="fill:#aa0000"
+   id="tspan5311">адрес</tspan>:<tspan
+   style="fill:#aa0000"
+   id="tspan5313">имя_репозитория</tspan></tspan><tspan
+           id="tspan5238"
+           sodipodi:role="line"
+           x="120"
+           y="416.45312" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5240"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+         transform="translate(0,9.9999622)"><flowRegion
+           id="flowRegion5242"><rect
+             id="rect5244"
+             width="1730"
+             height="162.85715"
+             x="-162.85715"
+             y="98.571426" /></flowRegion><flowPara
+           id="flowPara5246" /></flowRoot>    </g>
+    <g
+       id="g5248"
+       style="display:inline"
+       transform="translate(0,20)">
+      <text
+         sodipodi:linespacing="200%"
+         id="text5250"
+         y="450"
+         x="80"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5252"
+           y="450"
+           x="80"
+           sodipodi:role="line">Получение изменений из удалённого репозитория:</tspan><tspan
+           id="tspan5254"
+           y="522"
+           x="80"
+           sodipodi:role="line" /></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect5256"
+         width="1440"
+         height="60.000061"
+         x="80"
+         y="469.99994"
+         ry="13.846159" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text5258"
+         y="508.71872"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="508.71872"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5260">git pull <tspan
+   style="fill:#aa0000"
+   id="tspan5323">имя_ссылки ветка</tspan></tspan><tspan
+           y="556.71875"
+           x="120"
+           sodipodi:role="line"
+           id="tspan5262" /></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5264"
+       transform="translate(0,180)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text5266"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan5268">Отправка изменений в удалённый репозиторий:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan5270" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect5273"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.71872"
+         id="text5275"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan5277"
+           sodipodi:role="line"
+           x="120"
+           y="508.71872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git push <tspan
+   style="fill:#aa0000"
+   id="tspan5325">имя_ссылки ветка </tspan></tspan><tspan
+           id="tspan5279"
+           sodipodi:role="line"
+           x="120"
+           y="556.71875" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="230.31477"
+         y="724.23346"
+         id="text5281"
+         sodipodi:linespacing="125%"
+         transform="translate(0,-20)"><tspan
+           y="724.23346"
+           x="230.31477"
+           sodipodi:role="line"
+           id="tspan5283" /></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g49421"
+       transform="translate(0,-300)">
+      <text
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80"
+         y="450"
+         id="text49423"
+         sodipodi:linespacing="200%"><tspan
+           sodipodi:role="line"
+           x="80"
+           y="450"
+           id="tspan49425">Клонирование удалённого репозитория:</tspan><tspan
+           sodipodi:role="line"
+           x="80"
+           y="522"
+           id="tspan49427" /></text>
+      <rect
+         ry="13.846159"
+         y="469.99994"
+         x="80"
+         height="60.000061"
+         width="1440"
+         id="rect49429"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.51910985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="508.46872"
+         id="text49431"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan49433"
+           sodipodi:role="line"
+           x="120"
+           y="508.46872"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">git clone<tspan
+   id="tspan49435"
+   style="fill:#aa0000"> имя</tspan>@<tspan
+   id="tspan49437"
+   style="fill:#aa0000">адрес</tspan>:<tspan
+   id="tspan49439"
+   style="fill:#aa0000">имя_репозитория</tspan></tspan><tspan
+           id="tspan49441"
+           sodipodi:role="line"
+           x="120"
+           y="556.46875" /></text>
+      <text
+         transform="translate(0,20)"
+         sodipodi:linespacing="125%"
+         id="text49443"
+         y="746.45679"
+         x="779.83777"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="746.45679"
+           x="779.83777"
+           id="tspan49445"
+           sodipodi:role="line" /></text>
     </g>
   </g>
   <g
@@ -12091,7 +13153,7 @@
     </g>
     <g
        id="g6328"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,283.96485)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,683.96485)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -12177,26 +13239,26 @@
     <text
        sodipodi:linespacing="150%"
        id="text8546"
-       y="310"
+       y="710"
        x="120"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan13988"
          sodipodi:role="line"
          x="120"
-         y="310">Склонируйте репозиторий repo1 в репозиторий repo2.</tspan><tspan
+         y="710">Посмотрите разницу между ветками feature и master.</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="370"
+         y="770"
          id="tspan8558" /><tspan
          id="tspan8552"
          sodipodi:role="line"
          x="120"
-         y="430" /><tspan
+         y="830" /><tspan
          id="tspan8554"
          sodipodi:role="line"
          x="120"
-         y="490" /></text>
+         y="890" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8562"
@@ -12209,62 +13271,6 @@
            x="714.28571"
            y="531.42859" /></flowRegion><flowPara
          id="flowPara8568" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="496.60938"
-       id="text8570"
-       sodipodi:linespacing="150%"><tspan
-         id="tspan13992"
-         y="496.60938"
-         x="120"
-         sodipodi:role="line">Выполните сериализацию в XML-документ различных выборок</tspan><tspan
-         id="tspan4554"
-         y="556.60938"
-         x="120"
-         sodipodi:role="line">из таблиц базы данных mephi. </tspan><tspan
-         id="tspan8576"
-         y="616.60938"
-         x="120"
-         sodipodi:role="line" /><tspan
-         y="676.60938"
-         x="120"
-         sodipodi:role="line"
-         id="tspan8578" /><tspan
-         y="736.60938"
-         x="120"
-         sodipodi:role="line"
-         id="tspan8580" /></text>
-    <text
-       sodipodi:linespacing="150%"
-       id="text8582"
-       y="710"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="710"
-         style="fill:#aa0000"
-         id="tspan8698">Создайде xsl-преобразование, которое создает html-страницу</tspan><tspan
-         id="tspan4558"
-         sodipodi:role="line"
-         x="120"
-         y="770"
-         style="fill:#aa0000">с табличным представлением проекции запроса.</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="830"
-         id="tspan8588" /><tspan
-         id="tspan8590"
-         sodipodi:role="line"
-         x="120"
-         y="890" /><tspan
-         id="tspan8592"
-         sodipodi:role="line"
-         x="120"
-         y="950" /></text>
-    <text
        sodipodi:linespacing="125%"
        id="text4536"
        y="572.85712"
@@ -12275,29 +13281,6 @@
          x="1317.1429"
          id="tspan4538"
          sodipodi:role="line" /></text>
-    <text
-       sodipodi:linespacing="150%"
-       id="text4540"
-       y="633.30469"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="633.30469"
-         id="tspan4542">Выполните проецирование различных таблиц и запросов БД.</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="693.30469"
-         id="tspan4544" /><tspan
-         id="tspan4546"
-         sodipodi:role="line"
-         x="120"
-         y="753.30469" /><tspan
-         id="tspan4548"
-         sodipodi:role="line"
-         x="120"
-         y="813.30469" /></text>
     <g
        style="display:inline"
        transform="matrix(0.0673571,0,0,0.0673571,68.534688,200.66016)"
@@ -12365,203 +13348,1435 @@
       </g>
     </g>
     <g
-       id="g8632"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,500.23243)"
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,283.96485)"
+       id="g6819">
+      <g
+         id="g6821"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g6823"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path6825" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path6827" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path6829" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path6831" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path6833" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path6835" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path6837" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path6839" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path6841" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path6843" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path6845" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path6847" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="310"
+       id="text6849"
+       sodipodi:linespacing="150%"><tspan
+         y="310"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6851">Создайте файл file1 с текстом &quot;версия 1&quot;. </tspan><tspan
+         id="tspan6853"
+         y="370"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="430"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6855" /><tspan
+         y="490"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6857" /></text>
+    <g
+       id="g6859"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,363.96485)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
-         id="g8634" />
+         id="g6861" />
       <g
          style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-         id="g8636">
+         id="g6863">
         <path
-           id="path8638"
+           id="path6865"
            d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
            style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
            inkscape:connector-curvature="0" />
         <path
-           id="path8640"
+           id="path6867"
            d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
            style="fill:#336791;stroke:none"
            inkscape:connector-curvature="0" />
         <path
-           id="path8642"
+           id="path6869"
            d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
            inkscape:connector-curvature="0" />
         <path
-           id="path8644"
+           id="path6871"
            d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
            inkscape:connector-curvature="0" />
         <path
-           id="path8646"
+           id="path6873"
            d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
            inkscape:connector-curvature="0" />
         <path
-           id="path8648"
+           id="path6875"
            d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
            style="stroke-linejoin:bevel"
            inkscape:connector-curvature="0" />
         <path
-           id="path8650"
+           id="path6877"
            d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
            inkscape:connector-curvature="0" />
         <path
-           id="path8652"
+           id="path6879"
            d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
            inkscape:connector-curvature="0" />
         <path
-           id="path8654"
+           id="path6881"
            d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
            style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
            inkscape:connector-curvature="0" />
         <path
-           id="path8656"
+           id="path6883"
            d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
            style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
            inkscape:connector-curvature="0" />
         <path
-           id="path8658"
+           id="path6885"
            d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
            inkscape:connector-curvature="0" />
         <path
-           id="path8660"
+           id="path6887"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text6889"
+       y="390"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6891"
+         sodipodi:role="line"
+         x="120"
+         y="390">Добавьте файл file1 в репозиторий repo1. </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="450"
+         id="tspan6893" /><tspan
+         id="tspan6895"
+         sodipodi:role="line"
+         x="120"
+         y="510" /><tspan
+         id="tspan6897"
+         sodipodi:role="line"
+         x="120"
+         y="570" /></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,443.96485)"
+       id="g6899">
+      <g
+         id="g6901"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g6903"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path6905" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path6907" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path6909" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path6911" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path6913" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path6915" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path6917" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path6919" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path6921" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path6923" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path6925" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path6927" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="470"
+       id="text6929"
+       sodipodi:linespacing="150%"><tspan
+         y="470"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6931">Измените содержимое файла на &quot;версия 2&quot; и зафиксируйте правку. </tspan><tspan
+         id="tspan6933"
+         y="530"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="590"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6935" /><tspan
+         y="650"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6937" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="991.96979"
+       y="514.1217"
+       id="text6939"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6941"
+         x="991.96979"
+         y="514.1217" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="468.71078"
+       y="699.98981"
+       id="text6943"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6945"
+         x="468.71078"
+         y="699.98981"></tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,523.96485)"
+       id="g6987">
+      <g
+         id="g6989"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g6991"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path6993" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path6995" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path6997" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path6999" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path7001" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path7003" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path7005" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path7007" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path7009" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path7011" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path7013" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path7015" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="550"
+       id="text7017"
+       sodipodi:linespacing="150%"><tspan
+         y="550"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7019">Создайте ветку feature и перейдите на неё.</tspan><tspan
+         id="tspan7021"
+         y="610"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="670"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7023" /><tspan
+         y="730"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7025" /></text>
+    <g
+       id="g7027"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,603.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7029" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7031">
+        <path
+           id="path7033"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7035"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7037"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7039"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7041"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7043"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7045"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7047"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7049"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7051"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7053"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7055"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7057"
+       y="630"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7059"
+         sodipodi:role="line"
+         x="120"
+         y="630">Добавьте в файл строку &quot;feature 1&quot; и зафиксируйте правку. </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="690"
+         id="tspan7061" /><tspan
+         id="tspan7063"
+         sodipodi:role="line"
+         x="120"
+         y="750" /><tspan
+         id="tspan7065"
+         sodipodi:role="line"
+         x="120"
+         y="810" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1258.6501"
+       y="764.63959"
+       id="text7441"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7443"
+         x="1258.6501"
+         y="764.63959" /></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,763.96485)"
+       id="g7103">
+      <g
+         id="g7105"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g7107"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path7109" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path7111" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path7113" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path7115" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path7117" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path7119" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path7121" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path7123" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path7125" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path7127" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path7129" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path7131" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="790"
+       id="text7141"
+       sodipodi:linespacing="150%"><tspan
+         y="790"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7143">Склонируйте репозиторий repo1 в репозиторий repo2.</tspan><tspan
+         id="tspan7145"
+         y="850"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="910"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7147" /><tspan
+         y="970"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7149" /></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Практика"
+     id="g7067"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="150"
+       id="text7069"
+       sodipodi:linespacing="150%"><tspan
+         y="150"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7071">Перейдите в репозиторий repo2.</tspan></text>
+    <g
+       id="g7073"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,123.62305)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7075" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7077">
+        <path
+           id="path7079"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7081"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7083"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7085"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7087"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7089"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7091"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7093"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7095"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7097"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7099"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7101"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7133"
+       y="226.69531"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="120"
+         y="226.69531"
+         id="tspan7135">Добавьте файл file2 с текстом &quot;feature 2&quot; в репозиторий repo2.</tspan><tspan
+         id="tspan7137"
+         sodipodi:role="line"
+         x="120"
+         y="286.69531" /><tspan
+         id="tspan7139"
+         sodipodi:role="line"
+         x="120"
+         y="346.69531" /></text>
+    <flowRoot
+       transform="translate(2.7539063,-60)"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+       id="flowRoot7151"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7153"><rect
+           y="531.42859"
+           x="714.28571"
+           height="51.42857"
+           width="70"
+           id="rect7155" /></flowRegion><flowPara
+         id="flowPara7157" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+       x="1317.1429"
+       y="572.85712"
+       id="text7159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7161"
+         x="1317.1429"
+         y="572.85712" /></text>
+    <g
+       id="g7163"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,200.66016)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7165" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7167">
+        <path
+           id="path7169"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7171"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7173"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7175"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7177"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7179"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7181"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7183"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7185"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7187"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7189"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7191"
            d="M 0,60.232"
            style="stroke-width:3"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,713.62305)"
-       id="g8662">
+       id="g7193"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,283.96485)"
+       style="display:inline">
       <g
-         id="g8664"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7195" />
       <g
-         id="g8666"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7197">
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           id="path7199"
            d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path8668" />
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
+           id="path7201"
            d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path8670" />
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7203"
            d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path8672" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7205"
            d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path8674" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7207"
            d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path8676" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
+           id="path7209"
            d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path8678" />
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7211"
            d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path8680" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7213"
            d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path8682" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           id="path7215"
            d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path8684" />
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           id="path7217"
            d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path8686" />
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
+           id="path7219"
            d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path8688" />
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
+           id="path7221"
            d="M 0,60.232"
-           id="path8690" />
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7223"
+       y="310"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7225"
+         sodipodi:role="line"
+         x="120"
+         y="310">Зафиксируйте правки в ветке master репозитория repo2. </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="370"
+         id="tspan7227" /><tspan
+         id="tspan7229"
+         sodipodi:role="line"
+         x="120"
+         y="430" /><tspan
+         id="tspan7231"
+         sodipodi:role="line"
+         x="120"
+         y="490" /></text>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,606.92774)"
-       id="g4594">
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,363.96485)"
+       id="g7233">
       <g
-         id="g4596"
+         id="g7235"
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
       <g
-         id="g4598"
+         id="g7237"
          style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
         <path
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
            d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path4600" />
+           id="path7239" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#336791;stroke:none"
            d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path4602" />
+           id="path7241" />
         <path
            inkscape:connector-curvature="0"
            d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path4604" />
+           id="path7243" />
         <path
            inkscape:connector-curvature="0"
            d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path4606" />
+           id="path7245" />
         <path
            inkscape:connector-curvature="0"
            d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path4608" />
+           id="path7247" />
         <path
            inkscape:connector-curvature="0"
            style="stroke-linejoin:bevel"
            d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path4610" />
+           id="path7249" />
         <path
            inkscape:connector-curvature="0"
            d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path4612" />
+           id="path7251" />
         <path
            inkscape:connector-curvature="0"
            d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path4614" />
+           id="path7253" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
            d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path4616" />
+           id="path7255" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
            d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path4618" />
+           id="path7257" />
         <path
            inkscape:connector-curvature="0"
            d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path4621" />
+           id="path7259" />
         <path
            inkscape:connector-curvature="0"
            style="stroke-width:3"
            d="M 0,60.232"
-           id="path4623" />
+           id="path7261" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="390"
+       id="text7263"
+       sodipodi:linespacing="150%"><tspan
+         y="390"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7265">Добавьте в файл file1 строку &quot;feature 3&quot; и зафиксируйте правку.</tspan><tspan
+         id="tspan7267"
+         y="450"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="510"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7269" /><tspan
+         y="570"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7271" /></text>
+    <g
+       id="g7273"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,443.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7275" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7277">
+        <path
+           id="path7279"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7281"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7283"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7285"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7287"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7289"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7291"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7293"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7295"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7297"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7299"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7301"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7303"
+       y="470"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7305"
+         sodipodi:role="line"
+         x="120"
+         y="470">Отправьте все правки из репозитория repo2 в repo1. </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="530"
+         id="tspan7307" /><tspan
+         id="tspan7309"
+         sodipodi:role="line"
+         x="120"
+         y="590" /><tspan
+         id="tspan7311"
+         sodipodi:role="line"
+         x="120"
+         y="650" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7313"
+       y="514.1217"
+       x="991.96979"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="514.1217"
+         x="991.96979"
+         id="tspan7315"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7317"
+       y="699.98981"
+       x="468.71078"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7319"
+         sodipodi:role="line"
+         x="468.71078"
+         y="699.98981"></tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,523.96485)"
+       id="g7321">
+      <g
+         id="g7323"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g7325"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path7327" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path7329" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path7331" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path7333" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path7335" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path7337" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path7339" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path7341" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path7343" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path7345" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path7347" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path7349" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="550"
+       id="text7351"
+       sodipodi:linespacing="150%"><tspan
+         y="550"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7353">Перейдите в репозиторий repo1 проверьте его содержимое.</tspan><tspan
+         id="tspan7355"
+         y="610"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="670"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7357" /><tspan
+         y="730"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7359" /></text>
+    <g
+       id="g7361"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,603.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7363" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7365">
+        <path
+           id="path7367"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7369"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7371"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7373"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7375"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7377"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7379"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7381"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7383"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7385"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7387"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7389"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7391"
+       y="630"
+       x="120"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7393"
+         sodipodi:role="line"
+         x="120"
+         y="630">Объедините ветку feature с веткой master.</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="690"
+         id="tspan7395" /><tspan
+         id="tspan7397"
+         sodipodi:role="line"
+         x="120"
+         y="750" /><tspan
+         id="tspan7399"
+         sodipodi:role="line"
+         x="120"
+         y="810" /></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,683.96485)"
+       id="g7401">
+      <g
+         id="g7403"
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
+      <g
+         id="g7405"
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           id="path7407" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#336791;stroke:none"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           id="path7409" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           id="path7411" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           id="path7413" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           id="path7415" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-linejoin:bevel"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           id="path7417" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           id="path7419" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           id="path7421" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           id="path7423" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           id="path7425" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           id="path7427" />
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke-width:3"
+           d="M 0,60.232"
+           id="path7429" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="710"
+       id="text7431"
+       sodipodi:linespacing="150%"><tspan
+         y="710"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7433">Удалите ветку feature. </tspan><tspan
+         id="tspan7435"
+         y="770"
+         x="120"
+         sodipodi:role="line" /><tspan
+         y="830"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7437" /><tspan
+         y="890"
+         x="120"
+         sodipodi:role="line"
+         id="tspan7439" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="949.5434"
+       y="588.87305"
+       id="text7465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7467"
+         x="949.5434"
+         y="588.87305" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1555.6349"
+       y="712.11163"
+       id="text7469"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7471"
+         x="1555.6349"
+         y="712.11163"></tspan></text>
+    <g
+       id="g7473"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,763.96485)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7475" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7477">
+        <path
+           id="path7479"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7481"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7483"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7485"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7487"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7489"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7491"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7493"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7495"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7497"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7499"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7501"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <a
+       xlink:href="try.github.io"
+       id="a7515">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="790"
+         id="text7503"
+         sodipodi:linespacing="150%"><tspan
+           y="790"
+           x="120"
+           sodipodi:role="line"
+           id="tspan7505">Пройдите интерактивный урок на сайте <tspan
+   id="tspan7513"
+   style="fill:#ff00ff">try.github.io</tspan></tspan><tspan
+           id="tspan7507"
+           y="850"
+           x="120"
+           sodipodi:role="line" /><tspan
+           y="910"
+           x="120"
+           sodipodi:role="line"
+           id="tspan7509" /><tspan
+           y="970"
+           x="120"
+           sodipodi:role="line"
+           id="tspan7511" /></text>
+    </a>
   </g>
   <g
      style="display:none"
@@ -12714,29 +14929,27 @@
        id="a4319"
        style="fill:#800080" />
     <a
-       transform="translate(2.8710938,-160)"
-       xlink:href="http://www.postgresql.org/docs/current/static/datatype-xml.html"
-       id="a4339"
-       style="fill:#800080">
+       id="a7577"
+       xlink:href="https://github.com/downloads/GArik/progit/progit.ru.pdf">
       <text
          sodipodi:linespacing="200%"
          id="text4341"
-         y="390"
-         x="117.24609"
+         y="230"
+         x="120.11719"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           x="117.24609"
-           y="390"
-           id="tspan4343">PostgreSQL: XML Type</tspan><tspan
+           x="120.11719"
+           y="230"
+           id="tspan4343">ProGit</tspan><tspan
            id="tspan4345"
            sodipodi:role="line"
-           x="117.24609"
-           y="470" /><tspan
+           x="120.11719"
+           y="310" /><tspan
            id="tspan4347"
            sodipodi:role="line"
-           x="117.24609"
-           y="550" /></text>
+           x="120.11719"
+           y="390" /></text>
     </a>
     <a
        style="fill:#800080"
@@ -12746,7 +14959,7 @@
     <a
        style="fill:#800080"
        id="a6508"
-       xlink:href="http://ru.wikipedia.org/wiki/XML"
+       xlink:href="https://ru.wikipedia.org/wiki/Git"
        transform="translate(2.8710938,-240)">
       <text
          xml:space="preserve"
@@ -12758,7 +14971,7 @@
            id="tspan6512"
            y="390"
            x="117.24609"
-           sodipodi:role="line">Wikipedia: XML</tspan><tspan
+           sodipodi:role="line">Wikipedia: Git</tspan><tspan
            y="470"
            x="117.24609"
            sodipodi:role="line"
@@ -12773,6 +14986,106 @@
        id="a7089"
        xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
        transform="translate(2.8710938,0)" />
+    <g
+       id="g7523"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,278.92579)"
+       style="display:inline">
+      <g
+         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+         id="g7525" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
+         id="g7527">
+        <path
+           id="path7529"
+           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
+           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7531"
+           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
+           style="fill:#336791;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7533"
+           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7535"
+           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7537"
+           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7539"
+           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
+           style="stroke-linejoin:bevel"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7541"
+           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7543"
+           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7545"
+           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
+           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7547"
+           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
+           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7549"
+           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7551"
+           d="M 0,60.232"
+           style="stroke-width:3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="100%"
+       id="text7555"
+       y="310"
+       x="120.11719"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="120.11719"
+         y="310"
+         id="tspan7557">Ефанов Д.В., Рощин П.Г. Система управления версиями Git. </tspan><tspan
+         sodipodi:role="line"
+         x="120.11719"
+         y="350"
+         id="tspan7575">Учебное пособие. М.: НИЯУ МИФИ, 2014. - 88 с.</tspan><tspan
+         id="tspan7559"
+         sodipodi:role="line"
+         x="120.11719"
+         y="390" /><tspan
+         id="tspan7561"
+         sodipodi:role="line"
+         x="120.11719"
+         y="430" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-541.44177"
+       y="712.11163"
+       id="text7571"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7573"
+         x="-541.44177"
+         y="712.11163"></tspan></text>
   </g>
   <g
      style="display:none"
