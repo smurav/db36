@@ -29,7 +29,7 @@
      inkscape:cx="998.21429"
      inkscape:cy="465.41791"
      inkscape:document-units="px"
-     inkscape:current-layer="g7067"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
@@ -7179,7 +7179,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -7319,7 +7319,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect9037"
@@ -15999,7 +15999,7 @@
          id="tspan7149" /></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Практика"
      id="g7067"
      inkscape:groupmode="layer">
