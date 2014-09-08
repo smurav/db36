@@ -29,7 +29,7 @@
      inkscape:cx="896.56472"
      inkscape:cy="463.26941"
      inkscape:document-units="px"
-     inkscape:current-layer="g6790"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
@@ -8284,7 +8284,7 @@
          y="204"
          x="80"
          sodipodi:role="line"
-         id="tspan5479">пространства имён и использовать соостветствующие префиксы:</tspan><tspan
+         id="tspan5479">пространства имён и использовать соответствующие префиксы:</tspan><tspan
          y="258"
          x="80"
          sodipodi:role="line"
@@ -9104,7 +9104,7 @@
            y="790"
            x="120"
            sodipodi:role="line"
-           id="tspan7505">Ввести данные о своей и параллельных группах в документ</tspan><tspan
+           id="tspan7505">Ввести данные о своей и параллельных группах в документ.</tspan><tspan
            id="tspan7507"
            y="850"
            x="120"
@@ -9186,7 +9186,7 @@
          sodipodi:role="line"
          x="140"
          y="721.81921"
-         id="tspan6588">Группе.</tspan><tspan
+         id="tspan6588">группе.</tspan><tspan
          sodipodi:role="line"
          x="140"
          y="761.81921"
@@ -9632,22 +9632,19 @@
        width="1600"
        height="900" />
     <a
-       id="a6203">
-      <a
-         id="a6268"
-         xlink:href="http://ukchill.com/technology/getting-started-with-libxml2-and-python-part-1/">
-        <text
-           sodipodi:linespacing="100%"
-           id="text6195"
+       id="a6935"
+       xlink:href="http://mikekneller.com/kb/python/libxml2python/part1">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="140.11719"
+         y="470"
+         id="text6195"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan6197"
            y="470"
            x="140.11719"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             x="140.11719"
-             y="470"
-             id="tspan6197">Getting started with Libxml2 and Python</tspan></text>
-      </a>
+           sodipodi:role="line">Getting started with Libxml2 and Python</tspan></text>
     </a>
     <use
        height="900"
