@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uniresity name="Mephi" metro="metro Kashirskoe" adress="Moscow,Kashirskoe shosse,31">
+ <faculty name="KiB">
+  <department name="Information tehnology" website="kaf36.ru">
+    <group name="K05-361">
+      <student>Anisimova Natalia</student>
+      <student>Artemiev Dmitriy</student>
+      <student>Bubenko Kirill</student>
+    </group>
+  </department>
+ </faculty>
+</university>
