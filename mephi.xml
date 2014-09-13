@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MEPhI>
+      <faculty name = 'K'>K 
+         <caf number = "36">Inf.systems </caf>
+            <group amount = "17">362</group>
+               <student number = '11'>Molochkov</student>
+	    
+            <group amount = "12">361</group>
+	       <student number = "7">Titorenko</student>
+       </faculty>
+       <faculty name = 'R'> R
+	<caf number = "12">Inf.security </caf>
+            <group amount = "17">125</group>
+               <student number = '11'>Ivanov-Petrov</student>
+	</faculty>
+</MEPhI>
+		 
+
