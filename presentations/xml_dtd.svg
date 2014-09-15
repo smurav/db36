@@ -15,7 +15,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="xml_dtd.svg"
    enable-background="new">
   <sodipodi:namedview
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="822.07941"
+     inkscape:cx="636.11033"
      inkscape:cy="360.27671"
      inkscape:document-units="px"
-     inkscape:current-layer="g4833"
+     inkscape:current-layer="g6790"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1146"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6314,16 +6314,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2402"
-       id="linearGradient6608"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
-       x1="10.269"
-       y1="18.593"
-       x2="20.639999"
-       y2="20" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2402"
        id="linearGradient7499"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
@@ -6335,6 +6325,36 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2402"
        id="linearGradient7511"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.639999"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402"
+       id="linearGradient8397"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.639999"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402"
+       id="linearGradient8425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.639999"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402"
+       id="linearGradient8427"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
        x1="10.269"
@@ -6359,7 +6379,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -6378,7 +6398,7 @@
          sodipodi:cy="73.921494"
          sodipodi:rx="38.83844"
          sodipodi:ry="38.83844"
-         d="m 86.081264,73.921494 c 0,21.449878 -17.388561,38.838436 -38.838439,38.838436 -21.449879,0 -38.8384404,-17.388558 -38.8384404,-38.838436 0,-21.449879 17.3885614,-38.83844 38.8384404,-38.83844 21.449878,0 38.838439,17.388561 38.838439,38.83844 z"
+         d="m 86.081264,73.921494 a 38.83844,38.83844 0 1 1 -77.6768794,0 38.83844,38.83844 0 1 1 77.6768794,0 z"
          transform="matrix(1.057377,0,0,1.057377,-6.3398196,-35.248479)" />
       <path
          style="fill:#cf1b26;fill-opacity:1"
@@ -6426,7 +6446,7 @@
     </g>
     <path
        transform="translate(0,308.2677)"
-       d="m -1656.65,554.18579 c 0,1100.16271 -902.7124,1992.02091 -2016.2646,1992.02091 -1113.5521,0 -2016.2645,-891.8582 -2016.2645,-1992.02091 0,-1100.16275 902.7124,-1992.02089 2016.2645,-1992.02089 1113.5522,0 2016.2646,891.85814 2016.2646,1992.02089 z"
+       d="m -1656.65,554.18579 a 2016.2645,1992.0209 0 1 1 -4032.5291,0 2016.2645,1992.0209 0 1 1 4032.5291,0 z"
        sodipodi:ry="1992.0209"
        sodipodi:rx="2016.2645"
        sodipodi:cy="554.18579"
@@ -6499,7 +6519,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect9037"
@@ -9057,13 +9077,13 @@
          sodipodi:role="line"
          id="tspan4829"
          x="1450.9832"
-         y="143.39574"></tspan></text>
+         y="143.39574" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g4833"
      inkscape:label="Обработка опций командной строки"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4835"
@@ -9076,143 +9096,128 @@
            y="396.94403" /></flowRegion><flowPara
          id="flowPara4841" /></flowRoot>    <rect
        ry="20"
-       y="250"
-       x="80"
-       height="280"
-       width="1440"
+       y="190.00002"
+       x="59.999996"
+       height="580"
+       width="1480"
        id="rect4843"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.04124141;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="297.62891"
+       x="100"
+       y="237.62891"
        id="text4845"
        sodipodi:linespacing="100%"><tspan
          id="tspan4863"
          sodipodi:role="line"
-         x="120"
-         y="297.62891"
+         x="100"
+         y="237.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">#!/usr/bin/env python</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="325.62891"
+         x="100"
+         y="265.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4935">#-*- coding: UTF-8 -*-</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="353.62891"
+         x="100"
+         y="293.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4937" /><tspan
          sodipodi:role="line"
-         x="120"
-         y="381.62891"
+         x="100"
+         y="321.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4943"><tspan
    style="fill:#0000ff"
    id="tspan4949">import</tspan> optparse</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="409.62891"
+         x="100"
+         y="349.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4953" /><tspan
          sodipodi:role="line"
-         x="120"
-         y="437.62891"
+         x="100"
+         y="377.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4955"><tspan
    style="fill:#0000ff"
    id="tspan4991">def</tspan> main():</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="465.62891"
+         x="100"
+         y="405.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4957">  op = optparse.OptionParser(description = U&quot;Проверка на соответствие DTD&quot;,</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="493.62891"
+         x="100"
+         y="433.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4959">                             prog=&quot;dtd&quot;,</tspan><tspan
+         id="tspan4963">                             prog=&quot;dtd&quot;, version=&quot;0.1&quot;, usage=U&quot;%prog&quot;)</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="521.62891"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4961">                             version=&quot;0.1&quot;,</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="549.62891"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4963">                             usage=U&quot;%prog&quot;)</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="577.62891"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4965" /><tspan
-         sodipodi:role="line"
-         x="120"
-         y="605.62891"
+         x="100"
+         y="461.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4967">  op.add_option(&quot;-x&quot;, &quot;--xml&quot;, dest=&quot;xml&quot;, help=U&quot;XML документ&quot;, metavar=&quot;XML_FILE&quot;)</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="633.62891"
+         x="100"
+         y="489.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4971">  op.add_option(&quot;-d&quot;, &quot;--dtd&quot;, dest=&quot;dtd&quot;, help=U&quot;DTD документ&quot;, metavar=&quot;DTD_FILE&quot;)</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="661.62891"
+         x="100"
+         y="517.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4973">                             </tspan><tspan
+         id="tspan4975">  </tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="689.62891"
+         x="100"
+         y="545.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4975">  options, arguments = op.parse_args()</tspan><tspan
+         id="tspan8367">  options, arguments = op.parse_args()</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="717.62891"
+         x="100"
+         y="573.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4977">  if options.xml and options.dtd:</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="745.62891"
+         x="100"
+         y="601.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4979">    validate(options.xml, options.xsl, options.out)</tspan><tspan
+         id="tspan4979">    validate(options.xml, options.dtd)</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="773.62891"
+         x="100"
+         y="629.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4981">  else:</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="801.62891"
+         x="100"
+         y="657.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4983">    op.print_help()</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="829.62891"
+         x="100"
+         y="685.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4985" /><tspan
+         id="tspan8369" /><tspan
          sodipodi:role="line"
-         x="120"
-         y="857.62891"
+         x="100"
+         y="713.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4987">if __name__ == '__main__':</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="885.62891"
+         x="100"
+         y="741.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4989">  main()</tspan><tspan
          sodipodi:role="line"
-         x="120"
-         y="913.62891"
+         x="100"
+         y="769.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan4867" /><tspan
          id="tspan4869"
          sodipodi:role="line"
-         x="120"
-         y="941.62891"
+         x="100"
+         y="797.62891"
          style="font-size:28px;line-height:100%" /></text>
     <flowRoot
        xml:space="preserve"
@@ -9232,14 +9237,10 @@
        x="80"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan4883"
          y="150"
          x="80"
-         sodipodi:role="line">В языке Python существуют удобные механизмы разбора опций командной</tspan><tspan
-         y="204"
-         x="80"
          sodipodi:role="line"
-         id="tspan4891">строки:</tspan></text>
+         id="tspan4891">Python предоставляет удобные механизмы обработки командной строки:</tspan></text>
     <text
        sodipodi:linespacing="200%"
        id="text4885"
@@ -9250,7 +9251,7 @@
          id="tspan4887"
          sodipodi:role="line"
          x="1450.9832"
-         y="143.39574"></tspan></text>
+         y="143.39574" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -9270,34 +9271,23 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="140"
-       y="150"
+       y="150.00006"
        id="text7069"
-       sodipodi:linespacing="150%"><tspan
-         y="150"
+       sodipodi:linespacing="100%"><tspan
+         y="150.00006"
          x="140"
          sodipodi:role="line"
-         id="tspan7071">Сделать форк репозитория github.com:smurav/db36.git</tspan></text>
-    <text
-       sodipodi:linespacing="150%"
-       id="text7133"
-       y="218.18079"
-       x="140"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
+         id="tspan7071">В вашем форке репозитория github.com:smurav/db36.git</tspan><tspan
+         y="190.00006"
          x="140"
-         y="218.18079"
-         id="tspan7135">Склонировать его на локальную машину.</tspan><tspan
-         id="tspan7137"
          sodipodi:role="line"
+         id="tspan8373">создать файл mephi.dtd.</tspan><tspan
+         y="230.00006"
          x="140"
-         y="278.18079" /><tspan
-         id="tspan7139"
          sodipodi:role="line"
-         x="140"
-         y="338.18079" /></text>
+         id="tspan8371" /></text>
     <flowRoot
        transform="translate(2.7539063,-60)"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
@@ -9323,50 +9313,50 @@
     <text
        sodipodi:linespacing="150%"
        id="text7223"
-       y="286.36157"
+       y="256.09705"
        x="140"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan7225"
          sodipodi:role="line"
          x="140"
-         y="286.36157">В отдельной ветке создать XML документ mephi.xml. </tspan><tspan
+         y="256.09705">В документе mephi.xml прописать ссылку на mephi.dtd. </tspan><tspan
          sodipodi:role="line"
          x="140"
-         y="346.36157"
+         y="316.09705"
          id="tspan7227" /><tspan
          id="tspan7229"
          sodipodi:role="line"
          x="140"
-         y="406.36157" /><tspan
+         y="376.09705" /><tspan
          id="tspan7231"
          sodipodi:role="line"
          x="140"
-         y="466.36157" /></text>
+         y="436.09705" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="140"
-       y="355.22598"
+       y="322.87762"
        id="text7263"
        sodipodi:linespacing="100%"><tspan
-         y="355.22598"
+         y="322.87762"
          x="140"
          sodipodi:role="line"
-         id="tspan7265">Придумать название и атрибуты корневого элемента, </tspan><tspan
-         y="395.22598"
+         id="tspan6554">Добавить в DTD объявления для элемента, соответствующего</tspan><tspan
+         y="362.87762"
          x="140"
          sodipodi:role="line"
-         id="tspan6554">соответствующего университету.</tspan><tspan
+         id="tspan8401">университету, и его атрибутов.</tspan><tspan
          id="tspan7267"
-         y="435.22598"
+         y="402.87762"
          x="140"
          sodipodi:role="line" /><tspan
-         y="475.22598"
+         y="442.87762"
          x="140"
          sodipodi:role="line"
          id="tspan7269" /><tspan
-         y="515.22595"
+         y="482.87762"
          x="140"
          sodipodi:role="line"
          id="tspan7271" /></text>
@@ -9416,28 +9406,36 @@
          y="712.11163" /></text>
     <a
        xlink:href="try.github.io"
-       transform="translate(20,0)"
-       id="a7515">
+       id="a7515"
+       transform="translate(20,-40)">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="120"
          y="790"
          id="text7503"
-         sodipodi:linespacing="150%"><tspan
+         sodipodi:linespacing="100%"><tspan
            y="790"
            x="120"
            sodipodi:role="line"
-           id="tspan7505">Ввести данные о своей и параллельных группах в документ.</tspan><tspan
+           id="tspan7505">Добавить в DTD объявления для элемента, соответствующего</tspan><tspan
+           y="830"
+           x="120"
+           sodipodi:role="line"
+           id="tspan8421">студенту, и его атрибутов.</tspan><tspan
+           y="870"
+           x="120"
+           sodipodi:role="line"
+           id="tspan8423" /><tspan
            id="tspan7507"
-           y="850"
+           y="910"
            x="120"
            sodipodi:role="line" /><tspan
-           y="910"
+           y="950"
            x="120"
            sodipodi:role="line"
            id="tspan7509" /><tspan
-           y="970"
+           y="990"
            x="120"
            sodipodi:role="line"
            id="tspan7511" /></text>
@@ -9445,84 +9443,96 @@
     <text
        sodipodi:linespacing="100%"
        id="text6556"
-       y="464.09039"
+       y="429.6582"
        x="140"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan6560"
          sodipodi:role="line"
          x="140"
-         y="464.09039">Придумать название и атрибуты элемента, соответствующего </tspan><tspan
+         y="429.6582"
+         id="tspan6570">Добавить в DTD объявления для элемента, соответствующего</tspan><tspan
          sodipodi:role="line"
          x="140"
-         y="504.09039"
-         id="tspan6570">факультету.</tspan><tspan
+         y="469.6582"
+         id="tspan8405">факультету, и его атрибутов.</tspan><tspan
          sodipodi:role="line"
          x="140"
-         y="544.09039"
+         y="509.6582"
+         id="tspan8407" /><tspan
+         sodipodi:role="line"
+         x="140"
+         y="549.6582"
          id="tspan6562" /><tspan
          id="tspan6564"
          sodipodi:role="line"
          x="140"
-         y="584.09039" /><tspan
+         y="589.6582" /><tspan
          id="tspan6566"
          sodipodi:role="line"
          x="140"
-         y="624.09039" /></text>
+         y="629.6582" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="140"
-       y="572.95483"
+       y="536.43884"
        id="text6572"
        sodipodi:linespacing="100%"><tspan
-         y="572.95483"
+         id="tspan6576"
+         y="536.43884"
+         x="140"
+         sodipodi:role="line">Добавить в DTD объявления для элемента, соответствующего</tspan><tspan
+         y="576.43884"
          x="140"
          sodipodi:role="line"
-         id="tspan6574">Придумать название и атрибуты элемента, соответствующего </tspan><tspan
-         id="tspan6576"
-         y="612.95483"
+         id="tspan8411">кафедре, и его атрибутов.</tspan><tspan
+         y="616.43884"
          x="140"
-         sodipodi:role="line">кафедре.</tspan><tspan
+         sodipodi:role="line"
+         id="tspan8413" /><tspan
          id="tspan6578"
-         y="652.95483"
+         y="656.43884"
          x="140"
          sodipodi:role="line" /><tspan
-         y="692.95483"
+         y="696.43884"
          x="140"
          sodipodi:role="line"
          id="tspan6580" /><tspan
-         y="732.95483"
+         y="736.43884"
          x="140"
          sodipodi:role="line"
          id="tspan6582" /></text>
     <text
        sodipodi:linespacing="100%"
        id="text6584"
-       y="681.81921"
+       y="643.21942"
        x="140"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan6586"
          sodipodi:role="line"
          x="140"
-         y="681.81921">Придумать название и атрибуты элемента, соответствующего </tspan><tspan
+         y="643.21942"
+         id="tspan6588">Добавить в DTD объявления для элемента, соответствующего</tspan><tspan
          sodipodi:role="line"
          x="140"
-         y="721.81921"
-         id="tspan6588">группе.</tspan><tspan
+         y="683.21942"
+         id="tspan8417">группе, и его атрибутов.</tspan><tspan
          sodipodi:role="line"
          x="140"
-         y="761.81921"
+         y="723.21942"
+         id="tspan8419" /><tspan
+         sodipodi:role="line"
+         x="140"
+         y="763.21942"
          id="tspan6590" /><tspan
          id="tspan6592"
          sodipodi:role="line"
          x="140"
-         y="801.81921" /><tspan
+         y="803.21942" /><tspan
          id="tspan6594"
          sodipodi:role="line"
          x="140"
-         y="841.81921" /></text>
+         y="843.21942" /></text>
     <use
        style="display:inline"
        x="0"
@@ -9532,31 +9542,41 @@
        transform="translate(-45.959799,-458.05469)"
        width="1600"
        height="900" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#use5916-6"
-       id="use6538"
-       transform="translate(0,68.180786)"
-       width="1600"
-       height="900" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#use6538"
+    <g
        id="use6540"
-       transform="translate(0,68.180786)"
-       width="1600"
-       height="900" />
+       transform="matrix(1.6768123,0,0,1.6768123,62.407971,219.91037)"
+       style="display:inline">
+      <path
+         d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
+         style="fill:#640000"
+         id="path8377"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z"
+         style="fill:#d40000"
+         sodipodi:nodetypes="ccccc"
+         id="path8379"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
+         style="fill:url(#linearGradient8427)"
+         sodipodi:nodetypes="ccccc"
+         id="path8381"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z"
+         style="fill:#aa0000"
+         sodipodi:nodetypes="ccccc"
+         id="path8383"
+         inkscape:connector-curvature="0" />
+    </g>
     <use
        style="display:inline"
        x="0"
        y="0"
        xlink:href="#use6540"
        id="use6542"
-       transform="translate(0,88.522614)"
+       transform="translate(0,86.438782)"
        width="1600"
        height="900" />
     <use
@@ -9565,7 +9585,7 @@
        y="0"
        xlink:href="#use6542"
        id="use6544"
-       transform="translate(0,108.86441)"
+       transform="translate(0,106.78058)"
        width="1600"
        height="900" />
     <use
@@ -9574,12 +9594,12 @@
        y="0"
        xlink:href="#use6544"
        id="use6546"
-       transform="translate(0,108.86444)"
+       transform="translate(0,106.78064)"
        width="1600"
        height="900" />
     <g
        id="use6550"
-       transform="matrix(1.6768123,0,0,1.6768123,62.407975,665.29075)"
+       transform="matrix(1.6768123,0,0,1.6768123,62.407975,626.69095)"
        style="display:inline">
       <path
          d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
@@ -9594,7 +9614,7 @@
          inkscape:connector-curvature="0" />
       <path
          d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
-         style="fill:url(#linearGradient6608)"
+         style="fill:url(#linearGradient8425)"
          sodipodi:nodetypes="ccccc"
          id="path6602"
          inkscape:connector-curvature="0" />
@@ -9611,7 +9631,7 @@
        y="0"
        xlink:href="#use6550"
        id="use6552"
-       transform="translate(0,88.522579)"
+       transform="translate(0,106.78058)"
        width="1600"
        height="900" />
   </g>
@@ -9630,7 +9650,7 @@
          id="tspan6794"
          sodipodi:role="line"
          x="140"
-         y="150">Создайте программу, печатающую перечень студентов.</tspan></text>
+         y="150">Создайте программу, выполняющую валидацию XML документа.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9784,19 +9804,38 @@
        y="0"
        x="0"
        style="display:inline" />
-    <use
-       height="900"
-       width="1600"
-       transform="translate(0,91.819214)"
+    <g
        id="use6906"
-       xlink:href="#use6538"
-       y="0"
-       x="0"
-       style="display:inline" />
+       transform="matrix(1.6768123,0,0,1.6768123,62.407971,273.81333)"
+       style="display:inline">
+      <path
+         d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
+         style="fill:#640000"
+         id="path8389"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z"
+         style="fill:#d40000"
+         sodipodi:nodetypes="ccccc"
+         id="path8391"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
+         style="fill:url(#linearGradient8397)"
+         sodipodi:nodetypes="ccccc"
+         id="path8393"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z"
+         style="fill:#aa0000"
+         sodipodi:nodetypes="ccccc"
+         id="path8395"
+         inkscape:connector-curvature="0" />
+    </g>
     <use
        height="900"
        width="1600"
-       transform="translate(0,123.29663)"
+       transform="translate(0,153.56116)"
        id="use6908"
        xlink:href="#use6540"
        y="0"
@@ -9880,22 +9919,6 @@
        id="a7089"
        xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
        transform="translate(2.8710938,0)" />
-    <a
-       id="a6345"
-       xlink:href="http://pyramidin.narod.ru/xml/xml1/index.htm"
-       transform="translate(20,0)">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="120.11719"
-         y="310"
-         id="text7555"
-         sodipodi:linespacing="100%"><tspan
-           id="tspan6341"
-           y="310"
-           x="120.11719"
-           sodipodi:role="line">Расширяемый Язык Разметки (XML) 1.0 (Второе Издание)</tspan></text>
-    </a>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -9907,21 +9930,6 @@
          id="tspan7573"
          x="-541.44177"
          y="712.11163" /></text>
-    <a
-       id="a5826"
-       xlink:href="http://xmlsoft.org/python.html">
-      <text
-         sodipodi:linespacing="100%"
-         id="text5820"
-         y="390"
-         x="140.11719"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           x="140.11719"
-           y="390"
-           id="tspan5822">The XML C parser and toolkit of Gnome</tspan></text>
-    </a>
     <g
        style="display:inline"
        transform="matrix(1.6768123,0,0,1.6768123,67.287907,113.81333)"
@@ -9958,45 +9966,6 @@
        transform="translate(0,80)"
        width="1600"
        height="900" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use5860"
-       id="use5862"
-       transform="translate(0,80)"
-       width="1600"
-       height="900" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use5862"
-       id="use5864"
-       transform="translate(0,80)"
-       width="1600"
-       height="900" />
-    <a
-       id="a6935"
-       xlink:href="http://mikekneller.com/kb/python/libxml2python/part1">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="140.11719"
-         y="470"
-         id="text6195"
-         sodipodi:linespacing="100%"><tspan
-           id="tspan6197"
-           y="470"
-           x="140.11719"
-           sodipodi:role="line">Getting started with Libxml2 and Python</tspan></text>
-    </a>
-    <use
-       height="900"
-       width="1600"
-       transform="translate(0,160)"
-       id="use6199"
-       xlink:href="#use5862"
-       y="0"
-       x="0" />
   </g>
   <g
      style="display:none"
