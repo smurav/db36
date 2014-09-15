@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- К5-361 Штанько Александр -->
+<university name="МИФИ">
+	<faculty name="КиБ">
+		<department name="К36">
+			<group name="361">
+				<student>Артемьев Дмитрий</student>
+				<student>Анисимова Наталья</student>
+				<student>Бубенко Кирилл</student>
+				<student>Джелоухова Алёна</student>
+			</group>
+			<group name="362">
+				<student>Ахметсафин Владислав</student>
+				<student>Галкин Александр</student>
+				<student>Головко Ирина</student>
+			</group>
+		</department>
+		<department name="K68">
+			<group name="682">
+				<student>Севумян Роберт</student>
+				<student>Янев Максим</student>
+			</group>
+		</department>
+	</faculty>
+	<faculty name="А">
+	</faculty>
+</university>
