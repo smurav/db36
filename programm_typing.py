@@ -6,10 +6,15 @@ def open(mephi_xml):
   doc.freeDoc()
 
 def main(argv):
-  if  len(argv) != 2:     
-    sys.stderr.write("Usage : %s xml_file" % (argv[0],))
-  else:
-    open(argv[1])
+  open(argv[1])
+  from xml.dom.minidom import *
+
+  xml = parse('mephi.xml')
+  name = xml.getElementsByTagName('student')
+
+for node in name:
+  print node.childNodes[0].nodeValue
+
 
 if __name__ == '__main__':
   main(sys.argv)
