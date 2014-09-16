@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university name="MEPhI">
+  <faculty name="K">
+    <kaf number="36" name="Information technologies">
+      <group number="362" amount="17">
+        <student firstname="Aleksandra" lastname="Chaikovskaia">Александра Чайковская</student> 
+      </group>
+      <group number="361" amount="1">
+        <student firstname="Aynur" lastname="Zamanov">Айнур Заманов</student>
+      </group>
+    </kaf>
+  </faculty>	
+</university>
