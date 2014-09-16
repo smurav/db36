@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE university SYSTEM "mephi.dtd">
 <!-- К5-361 Штанько Александр -->
-<university name="МИФИ">
+<university name="МИФИ" site="mephi.ru">
 	<faculty name="КиБ">
 		<department name="К36">
 			<group name="361">
-				<student>Артемьев Дмитрий</student>
-				<student>Анисимова Наталья</student>
-				<student>Бубенко Кирилл</student>
-				<student>Джелоухова Алёна</student>
+				<student code="020814">Артемьев Дмитрий</student>
+				<student code="020815">Анисимова Наталья</student>
+				<student code="020816">Бубенко Кирилл</student>
+				<student code="020817">Джелоухова Алёна</student>
 			</group>
 			<group name="362">
-				<student>Ахметсафин Владислав</student>
-				<student>Галкин Александр</student>
-				<student>Головко Ирина</student>
+				<student code="020825">Ахметсафин Владислав</student>
+				<student code="020826">Галкин Александр</student>
+				<student code="020827">Головко Ирина</student>
 			</group>
 		</department>
 		<department name="K68">
 			<group name="682">
-				<student>Севумян Роберт</student>
-				<student>Янев Максим</student>
+				<student code="025011">Севумян Роберт</student>
+				<student code="025012">Янев Максим</student>
 			</group>
 		</department>
 	</faculty>
