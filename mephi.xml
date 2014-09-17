@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
 <mephi status="Nuclear">
   <facultet field="Cyber">
     <kaf id="36">
 <group name="1" quantity="13">
 <member>Артемьев Дмитрий</member>
-<member>Анисимова Наталья</member>>
+<member>Анисимова Наталья</member>
 <member>Бубенко Кирилл</member>
-<member>Джелоухова Алена</member>>
+<member>Джелоухова Алена</member>
 <member>Заманов Айнур</member>
 <member>Михеев Денис</member>
 <member>Пивоваров Александр</member>
@@ -27,7 +28,7 @@
 <member>Левин Андрей</member>
 <member>Молочков Ярослав</member>
 <member>Моряшова Виктория</member>
-<member>1Полстянкин Константин</member>
+<member>Полстянкин Константин</member>
 <member>Пурик Яна</member>
 <member>Разживин Никита</member>
 <member>Редюк Сергей</member>

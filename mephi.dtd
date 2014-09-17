@@ -1,0 +1,13 @@
+<!ELEMENT mephi (facultet+)>
+<!ELEMENT facultet (kaf+)>
+<!ELEMENT kaf (group+)>
+<!ELEMENT group (member+)>
+<!ELEMENT member (#PCDATA)>
+
+<!ATTLIST mephi status CDATA #REQUIRED>
+<!ATTLIST facultet field CDATA #REQUIRED>
+<!ATTLIST kaf id CDATA #REQUIRED>
+<!ATTLIST group 
+	  name CDATA #REQUIRED
+	  quantity CDATA #REQUIRED
+>
