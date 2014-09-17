@@ -1,0 +1,19 @@
+<!ELEMENT university (faculty)>
+<!ATTLIST university 
+ name CDATA "Mephi"
+ adress CDATA "Moscow"
+>
+<!ELEMENT faculty (department)>
+<!ATTLIST faculty
+ name CDATA "KiB"
+ korp CDATA "K"
+>
+<!ELEMENT department (group)>
+<!ATTLIST department 
+ name CDATA "ISandT"
+ number CDATA "36"
+ floor CDATA "3"
+>
+<!ELEMENT group (student+)>
+<!ATTLIST group number CDATA "1">
+<!ELEMENT student ANY>
