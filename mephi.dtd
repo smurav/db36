@@ -8,12 +8,12 @@
  name CDATA "KiB"
  korp CDATA "K"
 >
-<!ELEMENT department (group)>
+<!ELEMENT department (group+)>
 <!ATTLIST department 
  name CDATA "ISandT"
  number CDATA "36"
  floor CDATA "3"
 >
 <!ELEMENT group (student+)>
-<!ATTLIST group number CDATA "1">
-<!ELEMENT student ANY>
+<!ATTLIST group number CDATA #REQUIRED>
+<!ELEMENT student (#PCDATA)>
