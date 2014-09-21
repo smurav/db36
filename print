@@ -4,6 +4,9 @@ def open(xml_file):
   doc = libxml2.parseFile(xml_file)
   root = doc.getRootElement()
   child = root.children
+  child = child.children
+  child = child.children
+  child = child.children
   while child.next is not None :
    print child.content
    child =child.next
