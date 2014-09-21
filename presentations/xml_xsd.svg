@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="473.47577"
-     inkscape:cy="360.27671"
+     inkscape:cx="733.4293"
+     inkscape:cy="395.13276"
      inkscape:document-units="px"
-     inkscape:current-layer="a6508"
+     inkscape:current-layer="g4909"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1146"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6324,16 +6324,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2402"
-       id="linearGradient7511"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
-       x1="10.269"
-       y1="18.593"
-       x2="20.639999"
-       y2="20" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2402"
        id="linearGradient8397"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
@@ -6355,6 +6345,26 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2402"
        id="linearGradient8427"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.639999"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402"
+       id="linearGradient4756"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.639999"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402"
+       id="linearGradient4768"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
        x1="10.269"
@@ -6398,7 +6408,7 @@
          sodipodi:cy="73.921494"
          sodipodi:rx="38.83844"
          sodipodi:ry="38.83844"
-         d="m 86.081264,73.921494 a 38.83844,38.83844 0 1 1 -77.6768794,0 38.83844,38.83844 0 1 1 77.6768794,0 z"
+         d="m 86.081264,73.921494 c 0,21.449878 -17.388561,38.838436 -38.838439,38.838436 -21.449879,0 -38.8384404,-17.388558 -38.8384404,-38.838436 0,-21.449879 17.3885614,-38.83844 38.8384404,-38.83844 21.449878,0 38.838439,17.388561 38.838439,38.83844 z"
          transform="matrix(1.057377,0,0,1.057377,-6.3398196,-35.248479)" />
       <path
          style="fill:#cf1b26;fill-opacity:1"
@@ -6446,7 +6456,7 @@
     </g>
     <path
        transform="translate(0,308.2677)"
-       d="m -1656.65,554.18579 a 2016.2645,1992.0209 0 1 1 -4032.5291,0 2016.2645,1992.0209 0 1 1 4032.5291,0 z"
+       d="m -1656.65,554.18579 c 0,1100.16271 -902.7124,1992.02091 -2016.2646,1992.02091 -1113.5521,0 -2016.2645,-891.8582 -2016.2645,-1992.02091 0,-1100.16275 902.7124,-1992.02089 2016.2645,-1992.02089 1113.5522,0 2016.2646,891.85814 2016.2646,1992.02089 z"
        sodipodi:ry="1992.0209"
        sodipodi:rx="2016.2645"
        sodipodi:cy="554.18579"
@@ -6546,23 +6556,23 @@
        sodipodi:linespacing="125%"
        id="text8877-3"
        y="51.535156"
-       x="31.882813"
+       x="31.882812"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
        xml:space="preserve"><tspan
          id="tspan8881-6"
          y="51.535156"
-         x="31.882813"
+         x="31.882812"
          sodipodi:role="line"
          ns1:autoText="slideTitle">Заголовок</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-       x="31.882813"
+       x="31.882812"
        y="881.53516"
        id="text9302"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="31.882813"
+         x="31.882812"
          y="881.53516"
          id="tspan9304">Схема XML-документа</tspan></text>
     <text
@@ -6626,163 +6636,882 @@
            sodipodi:role="line"
            x="78"
            y="150"
-           id="tspan9406">DTD (англ. Document Type Definition — определение типа документа) — </tspan><tspan
-           style="font-size:36px;line-height:150%"
-           sodipodi:role="line"
-           x="78"
-           y="204"
-           id="tspan6093">язык описания схемы XML документа или его части. </tspan></text>
-    </a>
-    <a
-       style="display:inline"
-       id="a4768"
-       xlink:href="http://postgresql.org"
-       transform="translate(2,160)">
-      <text
-         sodipodi:linespacing="150%"
-         id="text4770"
-         y="150"
-         x="78"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4774"
-           y="150"
-           x="78"
-           sodipodi:role="line"
-           style="font-size:36px;line-height:150%">DTD определяет допустимую структуру XML документа и список </tspan><tspan
-           y="204"
-           x="78"
-           sodipodi:role="line"
-           style="font-size:36px;line-height:150%"
-           id="tspan4780">допустимых элементов и атрибутов. </tspan></text>
+           id="tspan4772">XML Schema — язык описания структуры XML, рекомендуемый W3C. </tspan></text>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="200"
-       y="538"
-       id="text4520"
-       sodipodi:linespacing="150%"><tspan
-         y="538"
-         x="200"
-         sodipodi:role="line"
-         id="tspan4522"
-         style="font-size:36px">Используется отличный от XML синтаксис. </tspan><tspan
-         id="tspan4524"
-         y="592"
-         x="200"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="290"
+       id="text4892"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4896"
+         y="290"
+         x="140"
+         sodipodi:role="line">Элементы, которые могут встречаться в документе. </tspan><tspan
+         id="tspan4898"
+         y="326"
+         x="140"
          sodipodi:role="line" /><tspan
-         y="646"
-         x="200"
+         y="362"
+         x="140"
          sodipodi:role="line"
-         id="tspan4526" /><tspan
-         y="700"
-         x="200"
+         id="tspan4900" /><tspan
+         y="398"
+         x="140"
          sodipodi:role="line"
-         id="tspan4528" /></text>
-    <text
-       sodipodi:linespacing="150%"
-       id="text4560"
-       y="607.25879"
-       x="200"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="200"
-         y="607.25879"
-         id="tspan4564">Отсутствует типизация узлов.</tspan><tspan
-         id="tspan4566"
-         sodipodi:role="line"
-         x="200"
-         y="661.25879" /><tspan
-         id="tspan4568"
-         sodipodi:role="line"
-         x="200"
-         y="715.25879" /></text>
+         id="tspan4902" /></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use6540"
+       id="use4904"
+       transform="translate(0,35.560186)"
+       width="1600"
+       height="900" />
     <a
        style="display:inline"
-       id="a4770"
+       id="a5097"
        xlink:href="http://postgresql.org"
-       transform="translate(2,320)">
+       transform="translate(2,80)">
       <text
          sodipodi:linespacing="150%"
-         id="text4772"
+         id="text5099"
          y="150"
          x="78"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           id="tspan4776"
+           id="tspan5101"
            y="150"
            x="78"
            sodipodi:role="line"
-           style="font-size:36px;line-height:150%">Недостатки DTD:</tspan></text>
+           style="font-size:36px;line-height:150%">Схемы позволяют определить: </tspan></text>
     </a>
     <text
-       sodipodi:linespacing="150%"
-       id="text4810"
-       y="674.79492"
-       x="200"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       sodipodi:linespacing="100%"
+       id="text5115"
+       y="356.72882"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         x="200"
-         y="674.79492"
-         id="tspan4814"
-         style="font-size:36px">Отсутствует поддержка пространств имён.</tspan><tspan
-         id="tspan4816"
+         x="140"
+         y="356.72882"
+         id="tspan5117">Атрибуты, которые могут встречаться в документе.</tspan><tspan
          sodipodi:role="line"
-         x="200"
-         y="728.79492" /><tspan
-         id="tspan4818"
+         x="140"
+         y="392.72882"
+         id="tspan5119" /><tspan
+         id="tspan5121"
          sodipodi:role="line"
-         x="200"
-         y="782.79492" /></text>
-    <g
-       style="display:inline"
-       transform="matrix(1.6768123,0,0,1.6768123,108.36777,502.60923)"
-       id="use5854">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7503"
-         style="fill:#640000"
-         d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7505"
-         sodipodi:nodetypes="ccccc"
-         style="fill:#d40000"
-         d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7507"
-         sodipodi:nodetypes="ccccc"
-         style="fill:url(#linearGradient7511)"
-         d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7509"
-         sodipodi:nodetypes="ccccc"
-         style="fill:#aa0000"
-         d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z" />
-    </g>
+         x="140"
+         y="428.72882" /><tspan
+         id="tspan5123"
+         sodipodi:role="line"
+         x="140"
+         y="464.72882" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,101.42768)"
+       id="use5125"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="422.77206"
+       id="text5127"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5129"
+         y="422.77206"
+         x="140"
+         sodipodi:role="line">Иерархию подчинённости элементов.</tspan><tspan
+         id="tspan5131"
+         y="458.77206"
+         x="140"
+         sodipodi:role="line" /><tspan
+         y="494.77206"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5133" /><tspan
+         y="530.77209"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5135" /></text>
     <use
        style="display:inline"
        x="0"
        y="0"
-       xlink:href="#use5854"
-       id="use5914"
-       transform="translate(0,69.258789)"
+       xlink:href="#use6540"
+       id="use5137"
+       transform="translate(0,167.8137)"
        width="1600"
        height="900" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5139"
+       y="487.7782"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="487.7782"
+         id="tspan5141">Порядок дочерних элементов.</tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="523.7782"
+         id="tspan5143" /><tspan
+         id="tspan5145"
+         sodipodi:role="line"
+         x="140"
+         y="559.7782" /><tspan
+         id="tspan5147"
+         sodipodi:role="line"
+         x="140"
+         y="595.7782" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,233.33838)"
+       id="use5149"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="552.7843"
+       id="text5151"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5153"
+         y="552.7843"
+         x="140"
+         sodipodi:role="line">Количество дочерних элементов. </tspan><tspan
+         id="tspan5155"
+         y="588.7843"
+         x="140"
+         sodipodi:role="line" /><tspan
+         y="624.7843"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5157" /><tspan
+         y="660.7843"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5159" /></text>
     <use
        style="display:inline"
        x="0"
        y="0"
-       xlink:href="#use5914"
-       id="use5916"
-       transform="translate(0,71.438476)"
+       xlink:href="#use6540"
+       id="use5161"
+       transform="translate(0,298.34449)"
        width="1600"
        height="900" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5163"
+       y="618.26508"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="618.26508"
+         id="tspan5165">Запрет или возможность наличия текстового содержимого у элемента. </tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="654.26508"
+         id="tspan5167" /><tspan
+         id="tspan5169"
+         sodipodi:role="line"
+         x="140"
+         y="690.26508" /><tspan
+         id="tspan5171"
+         sodipodi:role="line"
+         x="140"
+         y="726.26508" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,363.58796)"
+       id="use5173"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="684.9939"
+       id="text5175"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5177"
+         y="684.9939"
+         x="140"
+         sodipodi:role="line">Типы данных для элементов и атрибутов.</tspan><tspan
+         id="tspan5179"
+         y="720.9939"
+         x="140"
+         sodipodi:role="line" /><tspan
+         y="756.9939"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5181" /><tspan
+         y="792.9939"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5183" /></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use6540"
+       id="use5185"
+       transform="translate(0,429.69275)"
+       width="1600"
+       height="900" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5217"
+       y="750"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="750"
+         id="tspan5219">Фиксированные значения и значения по умолчанию для элементов и</tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="786"
+         id="tspan5229">атрибутов.</tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="822"
+         id="tspan5221" /><tspan
+         id="tspan5223"
+         sodipodi:role="line"
+         x="140"
+         y="858" /><tspan
+         id="tspan5225"
+         sodipodi:role="line"
+         x="140"
+         y="894" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,498.69397)"
+       id="use5227"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5004"
+     inkscape:label="Преимущества перед DTD"
+     style="display:none">
+    <a
+       style="display:inline"
+       id="a5006"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,0)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text5008"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5012"
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">XML-схемы обладают рядом преимуществ перед DTD: </tspan></text>
+    </a>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5014"
+       y="230"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="230"
+         id="tspan5018">Расширяемость. </tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="266"
+         id="tspan5020" /><tspan
+         id="tspan5022"
+         sodipodi:role="line"
+         x="140"
+         y="302" /><tspan
+         id="tspan5024"
+         sodipodi:role="line"
+         x="140"
+         y="338" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,-24.439814)"
+       id="use5026"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="390"
+       id="text5034"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5036"
+         y="390"
+         x="140"
+         sodipodi:role="line">Схемы описываются на языке XML. </tspan><tspan
+         id="tspan5038"
+         y="426"
+         x="140"
+         sodipodi:role="line" /><tspan
+         y="462"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5040" /><tspan
+         y="498"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5042" /></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use6540"
+       id="use5044"
+       transform="translate(0,55.560186)"
+       width="1600"
+       height="900" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5046"
+       y="470"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="470"
+         id="tspan5048">Поддерживаются типы данных. </tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="506"
+         id="tspan5050" /><tspan
+         id="tspan5052"
+         sodipodi:role="line"
+         x="140"
+         y="542" /><tspan
+         id="tspan5054"
+         sodipodi:role="line"
+         x="140"
+         y="578" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,131.83362)"
+       id="use5056"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="140"
+       y="550"
+       id="text5058"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5060"
+         y="550"
+         x="140"
+         sodipodi:role="line">Поддерживаются пространства имён. </tspan><tspan
+         id="tspan5062"
+         y="586"
+         x="140"
+         sodipodi:role="line" /><tspan
+         y="622"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5064" /><tspan
+         y="658"
+         x="140"
+         sodipodi:role="line"
+         id="tspan5066" /></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use6540"
+       id="use5068"
+       transform="translate(0,215.56019)"
+       width="1600"
+       height="900" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5070"
+       y="310"
+       x="140"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="310"
+         id="tspan5072">Большие возможности по заданию структуры XML-документов. </tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="346"
+         id="tspan5074" /><tspan
+         id="tspan5076"
+         sodipodi:role="line"
+         x="140"
+         y="382" /><tspan
+         id="tspan5078"
+         sodipodi:role="line"
+         x="140"
+         y="418" /></text>
+    <use
+       height="900"
+       width="1600"
+       transform="translate(0,295.04163)"
+       id="use5080"
+       xlink:href="#use6540"
+       y="0"
+       x="0"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4836"
+     inkscape:label="XML Schema definition"
+     style="display:none">
+    <a
+       transform="translate(2,20)"
+       xlink:href="http://postgresql.org"
+       id="a4846"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="78"
+         y="130"
+         id="text4848"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan4851"
+           style="font-size:36px;line-height:150%"
+           sodipodi:role="line"
+           x="78"
+           y="130">Файл со схемой обычно имеет расширение «.xsd»:</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4884"
+         style="font-size:56px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="translate(-2,-160)"><flowRegion
+           id="flowRegion4886"><rect
+             id="rect4888"
+             width="1814.436"
+             height="823.07227"
+             x="-156.97771"
+             y="187.23636" /></flowRegion><flowPara
+           id="flowPara4890" /></flowRoot>    </a>
+    <rect
+       ry="20"
+       y="190"
+       x="80"
+       height="600"
+       width="1440"
+       id="rect4853"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="231.87189"
+       id="text4855"
+       sodipodi:linespacing="140%"><tspan
+         id="tspan4857"
+         sodipodi:role="line"
+         x="120"
+         y="231.87189">&lt;?xml version=&quot;1.0&quot;?&gt;</tspan><tspan
+         id="tspan4859"
+         sodipodi:role="line"
+         x="120"
+         y="276.67188">&lt;xs:schema xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;</tspan><tspan
+         id="tspan4861"
+         sodipodi:role="line"
+         x="120"
+         y="321.47189">  &lt;xs:element name=&quot;note&quot;&gt;</tspan><tspan
+         id="tspan4864"
+         sodipodi:role="line"
+         x="120"
+         y="366.27188">    &lt;xs:complexType&gt;</tspan><tspan
+         id="tspan4866"
+         sodipodi:role="line"
+         x="120"
+         y="411.0719">      &lt;xs:sequence&gt;</tspan><tspan
+         id="tspan4868"
+         sodipodi:role="line"
+         x="120"
+         y="455.87189">        &lt;xs:element name=&quot;to&quot; type=&quot;xs:string&quot;/&gt;</tspan><tspan
+         id="tspan4870"
+         sodipodi:role="line"
+         x="120"
+         y="500.67188">        &lt;xs:element name=&quot;from&quot; type=&quot;xs:string&quot;/&gt;</tspan><tspan
+         id="tspan4872"
+         sodipodi:role="line"
+         x="120"
+         y="545.47186">        &lt;xs:element name=&quot;heading&quot; type=&quot;xs:string&quot;/&gt;</tspan><tspan
+         id="tspan4874"
+         sodipodi:role="line"
+         x="120"
+         y="590.27185">        &lt;xs:element name=&quot;body&quot; type=&quot;xs:string&quot;/&gt;</tspan><tspan
+         id="tspan4876"
+         sodipodi:role="line"
+         x="120"
+         y="635.0719">      &lt;/xs:sequence&gt;</tspan><tspan
+         id="tspan4878"
+         sodipodi:role="line"
+         x="120"
+         y="679.87189">    &lt;/xs:complexType&gt;</tspan><tspan
+         id="tspan4880"
+         sodipodi:role="line"
+         x="120"
+         y="724.67188">  &lt;/xs:element&gt;</tspan><tspan
+         id="tspan4882"
+         sodipodi:role="line"
+         x="120"
+         y="769.47186">&lt;/xs:schema&gt;</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6359"
+     inkscape:label="Объявление схемы"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6361"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4610-1);font-family:Sans;-inkscape-font-specification:Courier"
+       transform="translate(0,-148.45316)"><flowRegion
+         id="flowRegion6363"><rect
+           id="rect6365"
+           width="1730"
+           height="162.85715"
+           x="-162.85715"
+           y="98.571426" /></flowRegion><flowPara
+         id="flowPara6367" /></flowRoot>    <rect
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6369"
+       width="380"
+       height="60"
+       x="80"
+       y="251" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text6371"
+       y="291.54688"
+       x="270.33594"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="291.54688"
+         x="270.33594"
+         sodipodi:role="line"
+         id="tspan6373">Атрибут</tspan></text>
+    <rect
+       y="311"
+       x="79.999512"
+       height="79"
+       width="380.00049"
+       id="rect6375"
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6377"
+       width="1060"
+       height="79"
+       x="460"
+       y="311" />
+    <rect
+       y="251"
+       x="460"
+       height="60"
+       width="1060"
+       id="rect6379"
+       style="fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="698.50208"
+       y="293.88477"
+       id="text6381"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="698.50208"
+         y="293.88477"
+         id="tspan6383">Описание</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="99.512817"
+       y="350.875"
+       id="text6385"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="99.512817"
+         y="350.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6387">xmlns:xs</tspan><tspan
+         id="tspan6389"
+         sodipodi:role="line"
+         x="99.512817"
+         y="414.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan6391"
+         sodipodi:role="line"
+         x="99.512817"
+         y="478.875" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text6393"
+       y="347.90625"
+       x="479.51282"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6397"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="347.90625"
+         x="479.51282"
+         sodipodi:role="line">Префикс и идентификатор пространства имён схемы</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="379.90625"
+         x="479.51282"
+         sodipodi:role="line"
+         id="tspan6509">(http://www.w3.org/2001/XMLSchema)</tspan><tspan
+         y="411.90625"
+         x="479.51282"
+         sodipodi:role="line"
+         id="tspan6399" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6401"
+       width="380.00049"
+       height="59"
+       x="79.999512"
+       y="391" />
+    <rect
+       y="391"
+       x="460"
+       height="59"
+       width="1060"
+       id="rect6403"
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text6405"
+       y="430.875"
+       x="99.512817"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6407"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="430.875"
+         x="99.512817"
+         sodipodi:role="line">targetNamespace</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="494.875"
+         x="99.512817"
+         sodipodi:role="line"
+         id="tspan6409" /><tspan
+         y="558.875"
+         x="99.512817"
+         sodipodi:role="line"
+         id="tspan6411" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="480"
+       y="430"
+       id="text6413"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan6417"
+         sodipodi:role="line"
+         x="480"
+         y="430"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Пространство имён целевого XML-документа</tspan><tspan
+         id="tspan6419"
+         sodipodi:role="line"
+         x="480"
+         y="462"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan6421"
+         sodipodi:role="line"
+         x="480"
+         y="494" /></text>
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6423"
+       width="380.00049"
+       height="60"
+       x="79.999512"
+       y="451" />
+    <rect
+       y="451"
+       x="460"
+       height="60"
+       width="1060"
+       id="rect6425"
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="200%"
+       id="text6427"
+       y="490.875"
+       x="99.512817"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6429"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="490.875"
+         x="99.512817"
+         sodipodi:role="line">xmlns</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="554.875"
+         x="99.512817"
+         sodipodi:role="line"
+         id="tspan6431" /><tspan
+         y="618.875"
+         x="99.512817"
+         sodipodi:role="line"
+         id="tspan6433" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="479.51282"
+       y="487.90625"
+       id="text6435"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan6437"
+         sodipodi:role="line"
+         x="479.51282"
+         y="487.90625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Пространство имён по умолчанию</tspan><tspan
+         id="tspan6439"
+         sodipodi:role="line"
+         x="479.51282"
+         y="519.90625" /></text>
+    <rect
+       y="511"
+       x="79.999512"
+       height="60"
+       width="380.00049"
+       id="rect6441"
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:none;stroke:#1f3c84;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6443"
+       width="1060"
+       height="60"
+       x="460"
+       y="511" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="99.512817"
+       y="550.875"
+       id="text6445"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="99.512817"
+         y="550.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6447">elementFormDefault</tspan><tspan
+         id="tspan6449"
+         sodipodi:role="line"
+         x="99.512817"
+         y="614.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan6451"
+         sodipodi:role="line"
+         x="99.512817"
+         y="678.875" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text6453"
+       y="547.90625"
+       x="479.51282"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="547.90625"
+         x="479.51282"
+         sodipodi:role="line"
+         id="tspan6455"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">Форма записи элементов целевого XML-документа.</tspan></text>
+    <a
+       style="display:inline"
+       id="a6457"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,0)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text6459"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6461"
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">Элемент <tspan
+   id="tspan6463"
+   style="fill:#aa0000">&lt;schema&gt;</tspan> является корнем любой XML-схемы и может содержать</tspan><tspan
+           id="tspan6465"
+           y="204"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">следующие атрибуты:</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="459.51282"
+       y="650.875"
+       id="text6487"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="459.51282"
+         y="650.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan6489" /><tspan
+         id="tspan6491"
+         sodipodi:role="line"
+         x="459.51282"
+         y="714.875"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         id="tspan6493"
+         sodipodi:role="line"
+         x="459.51282"
+         y="778.875" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6815,16 +7544,28 @@
            sodipodi:role="line"
            x="78"
            y="150"
-           id="tspan4817">Объявление элемента состоит из его названия, переченя допустимых </tspan><tspan
-           style="font-size:36px;line-height:150%"
-           sodipodi:role="line"
+           id="tspan4828">Обычно объявление элемента содержит его название и тип:</tspan></text>
+      <text
+         sodipodi:linespacing="150%"
+         id="text6593"
+         y="328"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="328"
            x="78"
-           y="204"
-           id="tspan4828">дочерних элементов и информации об их количестве и порядке.</tspan></text>
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%"
+           id="tspan6609">В качестве типа можно использовать как встроенные (xs:string, xs:decimal, </tspan><tspan
+           y="382"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%"
+           id="tspan6625">xs:integer, xs:boolean, xs:date, xs:time и т.д.), так и пользовательские. </tspan></text>
     </a>
     <rect
        ry="20"
-       y="270"
+       y="170"
        x="80"
        height="80"
        width="1440"
@@ -6835,22 +7576,274 @@
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="320.13281"
+       y="220.13281"
        id="text4834"
        sodipodi:linespacing="150%"><tspan
          id="tspan4836"
          sodipodi:role="line"
          x="120"
-         y="320.13281"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">&lt;!ELEMENT <tspan
-   style="fill:#aa0000"
-   id="tspan6644"><tspan
-   style="fill:#0000ff"
-   id="tspan6652">имя_элемента</tspan> содержимое</tspan>&gt;</tspan><tspan
+         y="220.13281"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">&lt;xs:element name=&quot;xxx&quot; type=&quot;yyy&quot;/&gt;</tspan><tspan
          id="tspan4850"
          sodipodi:role="line"
          x="120"
-         y="368.13281" /></text>
+         y="268.13281" /></text>
+    <a
+       style="display:inline"
+       id="a6560"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,480)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text6562"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6565"
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">Фиксированное значение задайтся с помощью атрибута <tspan
+   style="fill:#aa0000"
+   id="tspan6591">fixed</tspan>:</tspan></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6567"
+       width="1440"
+       height="80"
+       x="80"
+       y="650"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text6569"
+       y="700.13281"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="700.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6571">&lt;xs:element name=&quot;color&quot; type=&quot;xs:string&quot; fixed=&quot;red&quot;/&gt;</tspan><tspan
+         y="748.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan6573" /></text>
+    <a
+       transform="translate(2,320)"
+       xlink:href="http://postgresql.org"
+       id="a6575"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="78"
+         y="150"
+         id="text6577"
+         sodipodi:linespacing="150%"><tspan
+           style="font-size:36px;line-height:150%"
+           sodipodi:role="line"
+           x="78"
+           y="150"
+           id="tspan6579">Значение по умолчанию задаётся с помощью атрибута <tspan
+   style="fill:#aa0000"
+   id="tspan6589">default</tspan>:</tspan></text>
+    </a>
+    <rect
+       ry="20"
+       y="490"
+       x="80"
+       height="80"
+       width="1440"
+       id="rect6581"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="540.13281"
+       id="text6583"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan6585"
+         sodipodi:role="line"
+         x="120"
+         y="540.13281"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">&lt;xs:element name=&quot;color&quot; type=&quot;xs:string&quot; default=&quot;red&quot;/&gt;</tspan><tspan
+         id="tspan6587"
+         sodipodi:role="line"
+         x="120"
+         y="588.13281" /></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Объявление атрибутов"
+     id="g4909"
+     inkscape:groupmode="layer">
+    <flowRoot
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
+       id="flowRoot4911"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4913"><rect
+           y="396.94403"
+           x="-412.14224"
+           height="410.12192"
+           width="1630.3862"
+           id="rect4915" /></flowRegion><flowPara
+         id="flowPara4917" /></flowRoot>    <a
+       style="display:inline"
+       id="a4919"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,0)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text4921"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4923"
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">Обычно объявление элемента содержит его название и тип:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="78"
+         y="328"
+         id="text4925"
+         sodipodi:linespacing="150%"><tspan
+           id="tspan4927"
+           style="font-size:36px;line-height:150%"
+           sodipodi:role="line"
+           x="78"
+           y="328">В качестве типа можно использовать как встроенные (xs:string, xs:decimal, </tspan><tspan
+           id="tspan4929"
+           style="font-size:36px;line-height:150%"
+           sodipodi:role="line"
+           x="78"
+           y="382">xs:integer, xs:boolean, xs:date, xs:time и т.д.), так и пользовательские. </tspan></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4931"
+       width="1440"
+       height="80"
+       x="80"
+       y="170"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4933"
+       y="220.13281"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="220.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4936">&lt;xs:element name=&quot;xxx&quot; type=&quot;yyy&quot;/&gt;</tspan><tspan
+         y="268.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4938" /></text>
+    <a
+       transform="translate(2,480)"
+       xlink:href="http://postgresql.org"
+       id="a4940"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         x="78"
+         y="150"
+         id="text4942"
+         sodipodi:linespacing="150%"><tspan
+           style="font-size:36px;line-height:150%"
+           sodipodi:role="line"
+           x="78"
+           y="150"
+           id="tspan4944">Фиксированное значение задайтся с помощью атрибута <tspan
+   id="tspan4946"
+   style="fill:#aa0000">fixed</tspan>:</tspan></text>
+    </a>
+    <rect
+       ry="20"
+       y="650"
+       x="80"
+       height="80"
+       width="1440"
+       id="rect4948"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="700.13281"
+       id="text4950"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4952"
+         sodipodi:role="line"
+         x="120"
+         y="700.13281"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">&lt;xs:element name=&quot;color&quot; type=&quot;xs:string&quot; fixed=&quot;red&quot;/&gt;</tspan><tspan
+         id="tspan4954"
+         sodipodi:role="line"
+         x="120"
+         y="748.13281" /></text>
+    <a
+       style="display:inline"
+       id="a4956"
+       xlink:href="http://postgresql.org"
+       transform="translate(2,320)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text4958"
+         y="150"
+         x="78"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4960"
+           y="150"
+           x="78"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%">Значение по умолчанию задаётся с помощью атрибута <tspan
+   id="tspan4962"
+   style="fill:#aa0000">default</tspan>:</tspan></text>
+    </a>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4964"
+       width="1440"
+       height="80"
+       x="80"
+       y="490"
+       ry="20" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4966"
+       y="540.13281"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="540.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4968">&lt;xs:element name=&quot;color&quot; type=&quot;xs:string&quot; default=&quot;red&quot;/&gt;</tspan><tspan
+         y="588.13281"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4970" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9168,7 +10161,7 @@
          x="100"
          y="517.62891"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan4975">  </tspan><tspan
+         id="tspan4975" /><tspan
          sodipodi:role="line"
          x="100"
          y="545.62891"
@@ -9533,15 +10526,34 @@
          sodipodi:role="line"
          x="140"
          y="843.21942" /></text>
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#use5914"
+    <g
        id="use5916-6"
-       transform="translate(-45.959799,-458.05469)"
-       width="1600"
-       height="900" />
+       transform="matrix(1.6768123,0,0,1.6768123,62.407971,113.81333)"
+       style="display:inline">
+      <path
+         d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
+         style="fill:#640000"
+         id="path4748"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z"
+         style="fill:#d40000"
+         sodipodi:nodetypes="ccccc"
+         id="path4750"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
+         style="fill:url(#linearGradient4756)"
+         sodipodi:nodetypes="ccccc"
+         id="path4752"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z"
+         style="fill:#aa0000"
+         sodipodi:nodetypes="ccccc"
+         id="path4754"
+         inkscape:connector-curvature="0" />
+    </g>
     <g
        id="use6540"
        transform="matrix(1.6768123,0,0,1.6768123,62.407971,219.91037)"
@@ -9786,15 +10798,34 @@
          x="1555.6349"
          id="tspan6852"
          sodipodi:role="line" /></text>
-    <use
-       height="900"
-       width="1600"
-       transform="translate(-45.959799,-458.05469)"
+    <g
        id="use6902"
-       xlink:href="#use5914"
-       y="0"
-       x="0"
-       style="display:inline" />
+       transform="matrix(1.6768123,0,0,1.6768123,62.407971,113.81333)"
+       style="display:inline">
+      <path
+         d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
+         style="fill:#640000"
+         id="path4760"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z"
+         style="fill:#d40000"
+         sodipodi:nodetypes="ccccc"
+         id="path4762"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
+         style="fill:url(#linearGradient4768)"
+         sodipodi:nodetypes="ccccc"
+         id="path4764"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z"
+         style="fill:#aa0000"
+         sodipodi:nodetypes="ccccc"
+         id="path4766"
+         inkscape:connector-curvature="0" />
+    </g>
     <use
        height="900"
        width="1600"
@@ -9843,7 +10874,7 @@
        style="display:inline" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Ссылки"
      id="layer12"
      inkscape:groupmode="layer">
@@ -9862,7 +10893,7 @@
        style="fill:#800080" />
     <a
        id="a7577"
-       xlink:href="http://www.w3schools.com/dtd/"
+       xlink:href="http://www.w3schools.com/schema/"
        transform="translate(20,0)">
       <text
          sodipodi:linespacing="200%"
@@ -9874,7 +10905,7 @@
            sodipodi:role="line"
            x="120.11719"
            y="230"
-           id="tspan4343">W3Schools: DTD Tutorial</tspan><tspan
+           id="tspan4343">W3Schools: XML Schema Tutorial</tspan><tspan
            id="tspan4345"
            sodipodi:role="line"
            x="120.11719"
