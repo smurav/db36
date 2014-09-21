@@ -1,0 +1,9 @@
+<!ELEMENT University (faculty+)>
+<!ELEMENT faculty (caf+)>
+<!ELEMENT caf (group+)>
+<!ELEMENT group (student+)>
+<!ELEMENT student (#PCDATA)>
+<!ATTLIST University name CDATA #REQUIRED>
+<!ATTLIST faculty name CDATA #REQUIRED>
+<!ATTLIST caf number CDATA #REQUIRED>
+<!ATTLIST group number CDATA #REQUIRED>

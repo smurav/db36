@@ -1,20 +1,25 @@
 #! usr/bin/env python
-import sys, libxml2
+import optparse, libxml2, sys
 	
-def open(xml_file):
+def validate(xml_file, dtd_file):
 	doc = libxml2.parseFile(xml_file)
-	root = doc.getRootElement()
-	print root.name
-	child = root.children
-	while child is not None:
-		if child.type == 'element':
-			print child.name + ' ' + child.content
-		child = child.next
+	dtd = libxml2.parseDTD(None, dtd_file)
+	ctxt = libxml2.newValidCtxt()
+	ret = doc.validateDtd(ctxt, dtd)
+	dtd.freeDtd()
 	doc.freeDoc()
-def main(argv):
-	if len(argv) != 2:
-		sys.stderr.write("Usage : %s xml_file" % (argv[0],))
+	return ret
+	
+	
+def main():
+	op = optparse.OptionParser(description = U"check", prog = "dtd", version = "0.1", usage = U"%prog")
+	op.add_option("-x", "--xml", dest = "xml", help = U"XML Doc", metavar = "XML_FILE")
+	op.add_option("-d", "--dtd", dest = "dtd", help = U"DTD Doc", metavar = "DTD_FILE")
+	options, arguments = op.parse_args()
+	if options.xml and options.dtd:
+		validate(options.xml, options.dtd)
 	else:
-		open(argv[1])
+		op.print_help()
+		
 if __name__ == "__main__":
-	main(sys.argv)
+	main()
