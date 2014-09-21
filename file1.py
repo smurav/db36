@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/python
 import sys, libxml2
 def open(xml_file): 
  doc = libxml2.parseFile(xml_file)  
