@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE University SYSTEM "mephi.dtd">
+<University name = "MEPhI">
+   <faculty name = 'K'>
+      <caf number = "36">
+         <group number = "362">
+            <student>Molochkov</student>
+            <student>Ivanov</student>
+            <student>Petrov</student>
+	     </group>
+         <group number = "361">
+	        <student>Titorenko</student>
+	        <student>Sidorov</student>
+	        <student>Ryabov</student>
+	     </group>
+	  </caf>
+   </faculty>   
+</University>
+		 
+
