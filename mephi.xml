@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<university name="NRNU MEPhI" city="Moscow">
+	<faculty name="KiB">
+		<department name="Informational systems and technologies" number="36">
+			<group name="K5-362">
+				<student>Axmetsafin</student>
+				<student>Galkin</student>
+				<student>Golovko</student>
+				<student>Erokhin</student>
+				<student>Katalkina</student>
+				<student>Levin</student>
+				<student>Molochkov</student>
+			</group>
+		</department>
+	</faculty> 
+</university>
+
+
