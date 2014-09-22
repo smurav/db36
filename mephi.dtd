@@ -1,0 +1,17 @@
+<!ELEMENT university (#PCDATA | faculty)*>
+<!ELEMENT faculty (#PCDATA | kaf)*>
+<!ELEMENT kaf (#PCDATA | group)*>
+<!ELEMENT group (#PCDATA | student)*>
+<!ELEMENT student (#PCDATA)>
+
+<!ATTLIST faculty 
+  name CDATA #REQUIRED
+>
+<!ATTLIST kaf 
+  name CDATA #IMPLIED
+  number CDATA #REQUIRED
+>
+<!ATTLIST group 
+  number CDATA #REQUIRED
+  amount CDATA #IMPLIED
+> 
