@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="702.2253"
+     inkscape:cx="445.2253"
      inkscape:cy="121.39208"
      inkscape:document-units="px"
-     inkscape:current-layer="g6790"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1146"
@@ -10249,7 +10249,7 @@
          y="384.82809"
          x="120"
          sodipodi:role="line"
-         id="tspan5547"></tspan><tspan
+         id="tspan5547" /><tspan
          y="432.82809"
          x="120"
          sodipodi:role="line"
@@ -10273,7 +10273,7 @@
          y="672.82812"
          x="120"
          sodipodi:role="line"
-         id="tspan5559"></tspan><tspan
+         id="tspan5559" /><tspan
          y="720.82812"
          x="120"
          sodipodi:role="line"
@@ -11120,9 +11120,9 @@
        style="display:inline" />
     <a
        xlink:href="try.github.io"
-       id="a7515"
+       style="display:inline"
        transform="translate(20,-640)"
-       style="display:inline">
+       id="a7515">
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11162,9 +11162,9 @@
        height="900" />
     <a
        xlink:href="try.github.io"
-       style="display:inline"
+       id="a5806"
        transform="translate(20,-560.00586)"
-       id="a5806">
+       style="display:inline">
       <text
          sodipodi:linespacing="100%"
          id="text5808"
@@ -11305,37 +11305,31 @@
        xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
        transform="translate(2.8710938,-240)" />
     <a
-       style="fill:#800080"
-       id="a6508"
-       xlink:href="https://ru.wikipedia.org/wiki/DTD"
-       transform="translate(22.871094,-240)">
-      <a
-         id="a4746"
-         xlink:href="https://ru.wikipedia.org/wiki/XML_Schema">
-        <text
-           sodipodi:linespacing="200%"
-           id="text6510"
+       id="a5098"
+       xlink:href="https://ru.wikipedia.org/wiki/XML_Schema">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="140.11719"
+         y="150"
+         id="text6510"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan6512"
+           y="150"
+           x="140.11719"
+           sodipodi:role="line">Wikipedia: XML Schema</tspan><tspan
+           y="230"
+           x="140.11719"
+           sodipodi:role="line"
+           id="tspan4744" /><tspan
+           y="310"
+           x="140.11719"
+           sodipodi:role="line"
+           id="tspan6514" /><tspan
            y="390"
-           x="117.24609"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             x="117.24609"
-             y="390"
-             id="tspan6512">Wikipedia: XML Schema</tspan><tspan
-             id="tspan4744"
-             sodipodi:role="line"
-             x="117.24609"
-             y="470" /><tspan
-             id="tspan6514"
-             sodipodi:role="line"
-             x="117.24609"
-             y="550" /><tspan
-             id="tspan6516"
-             sodipodi:role="line"
-             x="117.24609"
-             y="630" /></text>
-      </a>
+           x="140.11719"
+           sodipodi:role="line"
+           id="tspan6516" /></text>
     </a>
     <a
        style="fill:#800080"
