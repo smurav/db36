@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="facult_data">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="cyber" />
+    <xs:enumeration value="physics" />
+    <xs:enumeration value="automatics" />
+    <xs:pattern value="([a-z])*"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="kaf_data">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1"/>
+    <xs:maxInclusive value="90"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="member_data">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1"/>
+    <xs:maxInclusive value="30"/>
+  </xs:restriction>
+</xs:simpleType>
+
+
+<xs:simpleType name="human">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="[А-Я]{1}([а-я])* [А-Я]{1}([а-я])*"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="student">
+ <xs:simpleContent>
+   <xs:extension base="human">
+
+   </xs:extension>
+ </xs:simpleContent>
+</xs:complexType>
+
+ <xs:element name="mephi" type="TeachStructure"/>
+ <xs:element name="МИФИ" substitutionGroup="mephi"/>
+    <xs:complexType name="TeachStructure">
+      <xs:sequence>
+        <xs:element name="facultet">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kaf">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="group" maxOccurs="unbounded" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element  name="member" type="student" maxOccurs="30" minOccurs="1">
+				
+			  </xs:element>
+                        </xs:sequence>
+                        <xs:attribute  name="name"     type="xs:string" use="required"/>
+                        <xs:attribute  name="quantity" type="member_data" use="required"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="id" type="kaf_data"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="field" type="facult_data"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="status"/>
+    </xs:complexType>
+</xs:schema>
+
+
