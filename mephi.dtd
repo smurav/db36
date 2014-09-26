@@ -1,0 +1,19 @@
+<!ELEMENT university (faculty)>
+<!ELEMENT faculty (department)>
+<!ELEMENT department (group1,group2)>
+<!ELEMENT group1 (student+)>
+<!ELEMENT group2 (student+)>
+<!ELEMENT student (#PCDATA)>
+<!ATTLIST university 
+name CDATA #REQUIRED
+address CDATA #IMPLIED>
+<!ATTLIST faculty
+name CDATA #REQUIRED
+korp CDATA #IMPLIED
+dekan CDATA #REQUIRED>
+<!ATTLIST department
+name CDATA #REQUIRED
+number CDATA #REQUIRED
+website CDATA #IMPLIED>
+<!ATTLIST group1 number CDATA #REQUIRED>
+<!ATTLIST group2 number CDATA #REQUIRED>
