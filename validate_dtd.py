@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: UTF-8 -*-
+
 import optparse, libxml2
+
 def validate(xml_file, dtd_file):
   doc = libxml2.parseFile(xml_file)
   dtd = libxml2.parseDTD(None, dtd_file)
