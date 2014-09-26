@@ -1,14 +1,15 @@
 #! /usr/bin/env python
-import sys
+import sys, libxml2
 from xml.dom.minidom import parse
-def open(xml_file):
- xml = parse(xml_file)
- student = xml.getElementsByTagName('student')
- for node in student:
-     print node.childNodes[0].nodeValue
+def open(xml_file): 
+  doc = libxml2.parseFile(xml_file) 
+  doc.freeDoc()
+
 def main(argv):
- if len(argv) != 2:
-  sys.stderr.write("Usage : %s xml_file" % (argv[0],))
- else:
   open(argv[1])
-if __name__ == '__main__': main(sys.argv)
+
+xml = parse('mephi.xml')
+name = xml.getElementsByTagName('student')
+
+for node in name:
+  print node.childNodes[0].nodeValue
