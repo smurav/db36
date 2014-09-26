@@ -2,7 +2,7 @@
 <!DOCTYPE university SYSTEM "mephi.dtd">
 
 <university xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="http://mysite/model.xsd"   name="Mephi" address="Russia, Moscow city, Kashirskoe freeway 31">
+xsi:noNamespaceSchemaLocation="mephi.xsd"   name="Mephi" address="Russia, Moscow city, Kashirskoe freeway 31">
     <faculty name="KiB" korp="K" dekan="Efseev">
         <department name="Information system and technology" number="36" website="www.kaf36.ru">
             <group1 number="k5-361">
