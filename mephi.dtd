@@ -4,7 +4,6 @@
 <!ELEMENT group (student+)>
 <!ELEMENT student (#PCDATA)>
 
-
 <!ATTLIST university 
  name CDATA #REQUIRED
  city CDATA #REQUIRED
