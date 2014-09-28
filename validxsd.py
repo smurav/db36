@@ -9,13 +9,13 @@ def schema_validate(xml_file, xsd_file):
   validationCtxt = schema.schemaNewValidCtxt()
   res = validationCtxt.schemaValidateFile(xml_file, 0)
   if res != 0:
-   print "VALIDATION FAILED"
+    print "VALIDATION FAILED"
   else:
-   print "VALIDATED"
+    print "VALIDATED"
   return res
 
 
-def main():
+def main(argv):
   op = optparse.OptionParser(description = U"Проверка на соответствие XSD", prog="xsd", version="0.1", usage=U"%prog")
   op.add_option("-x", "--xml", dest="xml", help=U"XML документ", metavar="XML_FILE")
   op.add_option("-s", "--xsd", dest="xsd", help=U"XSD документ", metavar="XSD_FILE")
@@ -27,4 +27,4 @@ def main():
     op.print_help()
 
 if __name__=='__main__':
-  main()
+  main(sys.argv)
