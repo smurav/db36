@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<university name="Mephi" country= "Russia" city="Moscow" metro="Kashirskaya">
-	<faculty name="KIB" dean="Evseev V.L.">
+<university name="Mephi" country= "Russia" city="Moscow" metro="Kashirskaya"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3schools.com KiBmephi.xsd">
+>
+	<faculty name="KIB" dean="Evseev">
 		<department name="Information systems and technologies" number="36">
 			<group name="K5-361" amount="13">
 				<student>Anisimova</student>

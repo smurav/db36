@@ -56,4 +56,5 @@
 </xs:complexType>
 
 <xs:element name="university" type="universitytype"/>
+<xs:element name="университет" substitutionGroup="university"/>
 </xs:schema>
