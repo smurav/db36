@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- К5-361 Штанько Александр -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3schools.com" xmlns="http://www.w3schools.com" elementFormDefault="qualified">
+  
+  <xs:element name="university" type="university"/>
+  <xs:element name="университет" substitutionGroup="university"/>
+
+  <xs:complexType name="university">
+    <xs:sequence>
+      <xs:element ref="rector" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="faculty" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="name" type="xs:string" use="required"/>
+    <xs:attribute name="site" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:element name="rector" type="person"/>
+  <xs:element name="ректор" substitutionGroup="rector"/>
+
+  <xs:element name="faculty">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="department" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required">
+        <xs:simpleType>    
+          <xs:restriction base="xs:string">      
+            <xs:minLength value="1"/>
+            <xs:maxLength value="3"/>    
+          </xs:restriction>  
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="факультет" substitutionGroup="faculty"/>
+
+  <xs:element name="department">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="group" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence> 
+      <xs:attribute name="number" use="required">
+        <xs:simpleType>    
+          <xs:restriction base="xs:integer">      
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="99"/>    
+          </xs:restriction>  
+        </xs:simpleType>
+      </xs:attribute>             
+    </xs:complexType>
+  </xs:element>  
+  <xs:element name="кафедра" substitutionGroup="department"/>
+
+  <xs:element name="group">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="student" minOccurs="0" maxOccurs="50"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="группа" substitutionGroup="group"/>
+
+  <xs:element name="student" type="student"/>
+  <xs:element name="студент" substitutionGroup="student"/>
+
+  <xs:complexType name="person">
+    <xs:all>
+      <xs:element ref="firstName"/>
+      <xs:element ref="lastName"/>
+    </xs:all>
+  </xs:complexType>
+  <xs:element name="firstName"/>
+  <xs:element name="имя" substitutionGroup="firstName"/>
+  <xs:element name="lastName"/>
+  <xs:element name="фамилия" substitutionGroup="lastName"/>
+
+  <xs:complexType name="student">
+    <xs:complexContent>
+      <xs:extension base="person">
+        <xs:attribute name="code" type="xs:integer" use="required"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+</xs:schema>

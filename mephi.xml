@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- К5-361 Штанько Александр -->
+<university name="МИФИ" site="mephi.ru" xmlns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mephi.xsd">
+	<ректор>
+		<firstName>Михаил</firstName> 
+		<lastName>Стриханов</lastName>
+	</ректор>
+	<faculty name="КиБ">
+		<department number="36">
+			<group name="361">
+				<student code="020814">
+					<firstName>Дмитрий</firstName>
+					<lastName>Артемьев</lastName>
+				</student>
+				<student code="020815">
+					<firstName>Наталья</firstName>
+					<lastName>Анисимова</lastName>
+				</student>
+				<student code="020816">
+					<lastName>Бубенко</lastName>
+					<firstName>Кирилл</firstName>
+				</student>
+				<student code="020817">
+					<фамилия>Джелоухова</фамилия>
+					<firstName>Алёна</firstName>
+				</student>
+			</group>
+			<группа name="362">
+				<student code="020825">
+					<lastName>Ахметсафин</lastName>
+					<имя>Владислав</имя>
+				</student>
+				<student code="020826">
+					<lastName>Галкин</lastName>
+					<firstName>Александр</firstName>
+				</student>
+				<студент code="020827">
+					<lastName>Головко</lastName>
+					<firstName>Ирина</firstName>
+				</студент>
+			</группа>
+		</department>
+		<кафедра number="68">
+			<group name="682">
+				<student code="025011">
+					<lastName>Севумян</lastName>
+					<firstName>Роберт</firstName>
+				</student>
+				<student code="025012">
+					<lastName>Янев</lastName>
+					<firstName>Максим</firstName>
+				</student>
+			</group>
+		</кафедра>
+	</faculty>
+	<факультет name="А">
+	</факультет>
+</university>
