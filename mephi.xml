@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<uniresity name="Mephi" metro="metro Kashirskoe" adress="Moscow,Kashirskoe shosse,31">
- <faculty name="KiB">
-  <department name="Information tehnology" website="kaf36.ru">
-    <group name="K05-361">
+<university name="Mephi" metro="metro Kashirskoe" adress="Moscow,Kashirskoe shosse,31">
+ <faculty name="K">
+  <department name="Information tehnology">
+    <group name="361" entryyear="2012">
       <student>Anisimova Natalia</student>
       <student>Artemiev Dmitriy</student>
       <student>Bubenko Kirill</student>
+      <student>Jelouhova Alena</student>
+      <student>Zamanov Aynur</student>
+      <student>Miheev Denis</student>
+      <student>Pivovarov Sasha</student>
+      <student>Samsonov Artem</student>
+      <student>Solovieva Anna</student>
+      <student>Sidorova Liubov</student>
+      <student>Tarmazakov Evgeniy</student>
+      <student>Titorenko Alexey</student>
+      <student>Shtaniko Sasha</student>
     </group>
   </department>
  </faculty>
