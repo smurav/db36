@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<university name="Mephi" city="Moscow" metro="Kashirskaya"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3schools.com mephi.xsd">
+	<faculty name="KIB" dean="Evseev">
+		<department name="Information systems and technologies" number="36">
+			<group name="K5361" amount="13">
+				<student>Anisimova</student>
+				<student>Artemyev</student>
+				<student>Bubenko</student>
+				<student>Dzheloukhova</student>
+				<student>Zamanov</student>
+				<student>Miheev</student>
+				<student>Pivovarov</student>
+				<student>Samsonov</student>
+				<student>Sidorova</student>
+				<student>Solovyeva</student>
+				<student>Tarmazakov</student>
+				<student>Titorenko</student>
+				<student>Shtanko</student>
+			</group>
+		</department>	
+	</faculty>
+</university>
