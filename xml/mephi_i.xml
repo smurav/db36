@@ -40,14 +40,4 @@ xsi:noNamespaceSchemaLocation="/home/serg/db36/xml/mephi.xsd">
    </group>
   </department>
  </faculty>
- <faculty name='IS'>
- </faculty>
- <faculty name='A'>
- </faculty>
- <faculty name='T'>
- </faculty>
- <faculty name='F'>
- </faculty>
- <faculty name='U'>
- </faculty>
 </mephi>  
