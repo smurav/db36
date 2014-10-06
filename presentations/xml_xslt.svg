@@ -29,7 +29,7 @@
      inkscape:cx="702.6769"
      inkscape:cy="536.37793"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g18766"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1030"
@@ -6350,7 +6350,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6924,7 +6924,7 @@
            height="114"
            x="-58"
            y="298" /></flowRegion><flowPara
-         id="flowPara5159"></flowPara></flowRoot>    <g
+         id="flowPara5159" /></flowRoot>    <g
        id="g6151"
        transform="translate(360.04224,-40)">
       <rect
@@ -7255,7 +7255,7 @@
          style="font-size:36px;line-height:150%"
          sodipodi:role="line"
          x="80"
-         y="148">XSLT-предобразования являются обычными XML-документами и</tspan><tspan
+         y="148">XSLT-преобразования являются обычными XML-документами и</tspan><tspan
          id="tspan6205"
          style="font-size:36px;line-height:150%"
          sodipodi:role="line"
@@ -8477,7 +8477,7 @@
          sodipodi:role="line"
          x="120"
          y="434.08789"
-         id="tspan9912"></tspan><tspan
+         id="tspan9912" /><tspan
          sodipodi:role="line"
          x="120"
          y="458.08789"
@@ -8501,7 +8501,7 @@
          sodipodi:role="line"
          x="120"
          y="578.08789"
-         id="tspan9924"></tspan><tspan
+         id="tspan9924" /><tspan
          sodipodi:role="line"
          x="120"
          y="602.08789"
@@ -8522,127 +8522,6 @@
          x="120"
          y="698.08789"
          id="tspan9934">&lt;/xsl:template&gt;</tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Рекурсивное применение шаблонов"
-     id="g9936"
-     inkscape:groupmode="layer">
-    <flowRoot
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Courier"
-       id="flowRoot9938"
-       xml:space="preserve"><flowRegion
-         id="flowRegion9940"><rect
-           y="396.94403"
-           x="-412.14224"
-           height="410.12192"
-           width="1630.3862"
-           id="rect9942" /></flowRegion><flowPara
-         id="flowPara9944" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-       x="80"
-       y="150"
-       id="text9946"
-       sodipodi:linespacing="150%"><tspan
-         style="font-size:36px;line-height:150%"
-         sodipodi:role="line"
-         x="80"
-         y="150"
-         id="tspan9948">Элемент &lt;xsl:apply-templates&gt; позволяет применить шаблон к</tspan><tspan
-         id="tspan9950"
-         style="font-size:36px;line-height:150%"
-         sodipodi:role="line"
-         x="80"
-         y="204">текущему элементу или его дочерним узлам:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.73205066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect9952"
-       width="1440"
-       height="485.06647"
-       x="80"
-       y="244.93355"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text9954"
-       y="290.08789"
-       x="120"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="290.08789"
-         x="120"
-         sodipodi:role="line"
-         id="tspan9956">&lt;xsl:template match=&quot;cd&quot;&gt;</tspan><tspan
-         id="tspan9958"
-         y="314.08789"
-         x="120"
-         sodipodi:role="line">  &lt;p&gt;</tspan><tspan
-         id="tspan9960"
-         y="338.08789"
-         x="120"
-         sodipodi:role="line">  &lt;xsl:apply-templates select=&quot;title&quot;/&gt;</tspan><tspan
-         id="tspan9962"
-         y="362.08789"
-         x="120"
-         sodipodi:role="line">  &lt;xsl:apply-templates select=&quot;artist&quot;/&gt;</tspan><tspan
-         id="tspan9964"
-         y="386.08789"
-         x="120"
-         sodipodi:role="line">  &lt;/p&gt;</tspan><tspan
-         id="tspan9966"
-         y="410.08789"
-         x="120"
-         sodipodi:role="line">&lt;/xsl:template&gt;</tspan><tspan
-         id="tspan9968"
-         y="434.08789"
-         x="120"
-         sodipodi:role="line"></tspan><tspan
-         id="tspan9970"
-         y="458.08789"
-         x="120"
-         sodipodi:role="line">&lt;xsl:template match=&quot;title&quot;&gt;</tspan><tspan
-         id="tspan9972"
-         y="482.08789"
-         x="120"
-         sodipodi:role="line">  Title: &lt;span style=&quot;color:#ff0000&quot;&gt;</tspan><tspan
-         id="tspan9974"
-         y="506.08789"
-         x="120"
-         sodipodi:role="line">  &lt;xsl:value-of select=&quot;.&quot;/&gt;&lt;/span&gt;</tspan><tspan
-         id="tspan9976"
-         y="530.08789"
-         x="120"
-         sodipodi:role="line">  &lt;br /&gt;</tspan><tspan
-         id="tspan9978"
-         y="554.08789"
-         x="120"
-         sodipodi:role="line">&lt;/xsl:template&gt;</tspan><tspan
-         id="tspan9980"
-         y="578.08789"
-         x="120"
-         sodipodi:role="line"></tspan><tspan
-         id="tspan9982"
-         y="602.08789"
-         x="120"
-         sodipodi:role="line">&lt;xsl:template match=&quot;artist&quot;&gt;</tspan><tspan
-         id="tspan9984"
-         y="626.08789"
-         x="120"
-         sodipodi:role="line">  Artist: &lt;span style=&quot;color:#00ff00&quot;&gt;</tspan><tspan
-         id="tspan9986"
-         y="650.08789"
-         x="120"
-         sodipodi:role="line">  &lt;xsl:value-of select=&quot;.&quot;/&gt;&lt;/span&gt;</tspan><tspan
-         id="tspan9988"
-         y="674.08789"
-         x="120"
-         sodipodi:role="line">  &lt;br /&gt;</tspan><tspan
-         id="tspan9990"
-         y="698.08789"
-         x="120"
-         sodipodi:role="line">&lt;/xsl:template&gt;</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10676,31 +10555,27 @@
            width="1630.3862"
            id="rect18772" /></flowRegion><flowPara
          id="flowPara18774" /></flowRoot>    <a
-       xlink:href="http://www.w3schools.com/xsl/xsl_w3celementref.asp"
-       id="a18776">
-      <a
-         id="a18922"
-         xlink:href="http://www.w3schools.com/xsl/xsl_functions.asp">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
-           x="80"
+       id="a5127"
+       xlink:href="http://www.w3schools.com/xsl/xsl_w3celementref.asp">
+      <text
+         sodipodi:linespacing="150%"
+         id="text18778"
+         y="150"
+         x="80"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
            y="150"
-           id="text18778"
-           sodipodi:linespacing="150%"><tspan
-             id="tspan18782"
-             style="font-size:36px;line-height:150%"
-             sodipodi:role="line"
-             x="80"
-             y="150">Описание всех функций XSLT можно найти по адресу</tspan><tspan
-             id="tspan18920"
-             style="font-size:36px;line-height:150%"
-             sodipodi:role="line"
-             x="80"
-             y="204"><tspan
-   style="fill:#ff00ff"
-   id="tspan18927">http://www.w3schools.com/xsl/xsl_functions.asp</tspan>:</tspan></text>
-      </a>
+           x="80"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%"
+           id="tspan18782">Описание всех функций XSLT можно найти по адресу</tspan><tspan
+           y="204"
+           x="80"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:150%"
+           id="tspan18920"><tspan
+   id="tspan18927"
+   style="fill:#ff00ff">http://www.w3schools.com/xsl/xsl_functions.asp</tspan>:</tspan></text>
     </a>
     <rect
        y="250"
