@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+<mephi status="Nuclear">
+  <facultet field="Cyber">
+    <kaf id="36">
+<group name="1">
+<member enter="2014">Артемьев Дмитрий</member>
+<member enter="2017">Анисимова Наталья</member>
+<member enter="2048">Бубенко Кирилл</member>
+<member enter="2005">Джелоухова Алена</member>
+<member enter="2007">Заманов Айнур</member>
+<member enter="2089">Михеев Денис</member>
+<member enter="2003">Пивоваров Александр</member>
+<member enter="2046">Самсонов Артем</member>
+<member enter="2001">Соловьева Аня</member>
+<member enter="2001">Суханова Любовь</member>
+<member enter="2007">Тармазаков Евгений</member>
+<member enter="2349">Титоренко Алексей</member>
+<member enter="2679">Штанько Александр</member>
+      </group>
+<group name="2">
+<member enter="2001">Ахметсафин Владислав</member>
+<member enter="2003">Галкин Александр</member>
+<member enter="2005">Головко Ирина</member>
+<member enter="2012">Джумайло Евгений</member>
+<member enter="2034">Ерохин Владимир</member>
+<member enter="2002">Каталкина Виктория</member>
+<member enter="2007">Левин Андрей</member>
+<member enter="2089">Молочков Ярослав</member>
+<member enter="2089">Моряшова Виктория</member>
+<member enter="2089">Полстянкин Константин</member>
+<member enter="2075">Пурик Яна</member>
+<member enter="2024">Разживин Никита</member>
+<member enter="2046">Редюк Сергей</member>
+<member enter="2085">Рябов Петр</member>
+<member enter="2023">Скок Дарья</member>
+<member enter="2009">Стрекалов Олег</member>
+<member enter="2010">Чухненко Александра</member>
+      </group>
+    </kaf>
+  </facultet>
+</mephi> 
