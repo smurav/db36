@@ -56,8 +56,17 @@ def find_faculty(xml_file):
   print "\nФакультет с наименьшим и наибольшим количеством студентов:"
   doc = libxml2.parseFile (xml_file)
   ctxt = doc.xpathNewContext()
-  data = ctxt.xpathEval("count(//faculty)")
-    /university/faculty[count(./department/group/student)>count(following-sibling::department/group/student) and count(./department/group/student)>count(preceding-sibling::department/group/student)]/@name
+  data = ctxt.xpathEval("//faculty")
+  amount = []
+  for faculty in data:
+    ctxt.setContextNode(faculty)
+    amount += [len(ctxt.xpathEval("department/group/student"))]
+  max_index = amount.index(max(amount))
+  min_index = amount.index(min(amount))
+  ctxt.setContextNode(data[max_index])
+  print "Max: " + ctxt.xpathEval("@name")[0].content
+  ctxt.setContextNode(data[min_index])
+  print "Min: " + ctxt.xpathEval("@name")[0].content
   ctxt.xpathFreeContext ()
   doc.freeDoc ()
 
