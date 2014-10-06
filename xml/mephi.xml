@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mephi>
+  <faculty name="K">
+    <department number="36">
+      <group grnum="1">
+        <student>Артемьев Дмитрий</student>
+        <student>Анисимова Наталья</student>
+        <student>Бубенко Кирилл</student>
+        <student>Джелоухова Алена</student>
+        <student>Заманов Айнур</student>
+        <student>Михеев Денис</student>
+        <student>Пивоваров Александр</student>
+        <student>Самсонов Артем</student>
+        <student>Соловьева Аня</student>
+        <student>Суханова Любовь</student>
+        <student>Тармазаков Евгений</student>
+        <student>Титоренко Алексей</student>
+        <student>Штанько Александр</student>
+      </group>
+      <group grnum="2">
+        <student>Ахметсафин Владислав</student>
+        <student>Галкин Александр</student>
+        <student>Головко Ирина</student>
+        <student>Джумайло Евгений</student>
+        <student>Ерохин Владимир</student>
+        <student>Каталкина Виктория</student>
+        <student>Левин Андрей</student>
+        <student>Молочков Ярослав</student>
+        <student>Моряшова Виктория</student>
+        <student>Полстянкин Константин</student>
+        <student>Пурик Яна</student>
+        <student>Разживин Никита</student>
+        <student>Редюк Сергей</student>
+        <student>Рябов Петр</student>
+        <student>Скок Дарья</student>
+        <student>Стрекалов Олег</student>
+        <student>Чухненко Александра</student>
+      </group>
+    </department>
+  </faculty>
+</mephi>  
