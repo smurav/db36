@@ -15,6 +15,6 @@
 <!ELEMENT group (student+)>
 <!ATTLIST group
 	name CDATA #IMPLIED >
-<!ELEMENT student (#PCDATA)>
+<!ELEMENT student (#PCDATA) >
 <!ATTLIST student
 	id CDATA #REQUIRED >

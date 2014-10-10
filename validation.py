@@ -17,9 +17,9 @@ def main():
  op.add_option("-d", "--dtd", dest="dtd", help=U"DTD документ", metavar="DTD_FILE")
  options, arguments = op.parse_args()
  if options.xml and options.dtd:
-  validate(options.xml, options.dtd)
+   validate(options.xml, options.dtd)
  else:
-  op.print_help()
+   op.print_help()
 
 
 
