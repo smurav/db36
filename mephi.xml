@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!DOCTYPE univercity SYSTEM "mephi.dtd">
+<univercity name="Mephi" adress="Kashirskoe sh, 31" foundation_year="1942"><faculty name="KiB"><department number="36" name="information systems and techlogies"><group name="K5-361"><student id="1">Anisimova Natasha</student>
+<student id="2">Artem'ev Dima</student>
+<student id="3">Bubenko Kirill</student>
+<student id="4">Jeloukhova Alena</student>
+<student id="5">Zamanov Ainur</student>
+<student id="6">Mikheev Denis</student>
+<student id="7">Pivovarov Sasha</student>
+<student id="8">Samsonov Artem</student>
+<student id="9">Solov'eva Anya</student>
+<student id="10">Sidorova Luba</student>
+<student id="11">Tarmazakov Zhenya</student>
+<student id="12">Titorenko Lesha</student>
+<student id="13">Shtan'ko Sasha</student></group><group name="К5-362"><student id="1">Akhmetsafin Vlad</student>
+<student id="2">Galkin Sasha</student>
+<student id="3">Golovko Irina</student>
+<student id="4">Jumailo Zhenya</student>
+<student id="5">Erokhin Vova</student>
+<student id="6">Katalkina Vika</student>
+<student id="7">Levin Andrei</student>
+<student id="8">Molochkov Yaroslav</student>
+<student id="9">Moryashova Vika</student>
+<student id="10">Polstyankin Kostya</student>
+<student id="11">Purik Yana</student>
+<student id="12">Razzhivin Nikita</student>
+<student id="13">Reduk Sergey</student>
+<student id="14">Ryabov Petya</student>
+<student id="15">Skok Dasha</student>
+<student id="16">Strekalov Oleg</student>
+<student id="17">Chukhnenko Sasha</student></group></department></faculty></univercity>
