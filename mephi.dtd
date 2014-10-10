@@ -1,0 +1,20 @@
+<!ELEMENT univercity (faculty+)>
+<!ATTLIST univercity 
+	name CDATA #REQUIRED
+	adress CDATA #REQUIRED
+	foundation_year CDATA #REQUIRED >
+<!ELEMENT faculty (department+)>
+<!ATTLIST faculty
+	name CDATA #REQUIRED >
+<!ELEMENT department (group*)>
+<!ATTLIST department
+	number CDATA #REQUIRED
+	name CDATA #REQUIRED 
+>
+
+<!ELEMENT group (student+)>
+<!ATTLIST group
+	name CDATA #IMPLIED >
+<!ELEMENT student (#PCDATA)>
+<!ATTLIST student
+	id CDATA #REQUIRED >
