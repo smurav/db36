@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform1.xsl"?>
+<university name="Mephi" metro="metro Kashirskoe" adress="Moscow,Kashirskoe shosse,31">
+ <faculty name="K">
+  <department name="Computering system and Information tehnology" sector="Z" number="12"/>
+  <department name="Managering intelect system" sector="Z" number="29"/>
+  <department name="Information tehnology" sector="Z" number="36"/>
+  <department name="Information and process of managering" sector="K" number="17"/>
+  <department name="Kibernetics" sector="K" number="22"/>
+  <department name="Mathematics securing of system" sector="K" number="33"/>
+  <department name="Information tehnology in social system" sector="K" number="68"/>
+ </faculty>
+</university>

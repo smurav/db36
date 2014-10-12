@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university name="Mephi" metro="metro Kashirskoe" adress="Moscow,Kashirskoe shosse,31">
+ <faculty name="K">
+  <department name="Information tehnology">
+    <group name="361" entryyear="2012">
+      <student number="1">Anisimova Natalia</student>
+      <student number="2">Artemiev Dmitriy</student>
+      <student number="3">Bubenko Kirill</student>
+      <student number="4">Jelouhova Alena</student>
+      <student number="5">Zamanov Aynur</student>
+      <student number="6">Miheev Denis</student>
+      <student number="7">Pivovarov Sasha</student>
+      <student number="8">Samsonov Artem</student>
+      <student number="9">Solovieva Anna</student>
+      <student number="10">Sidorova Liubov</student>
+      <student number="11">Tarmazakov Evgeniy</student>
+      <student number="12">Titorenko Alexey</student>
+      <student number="13">Shtaniko Sasha</student>
+    </group>
+  </department>
+ </faculty>
+</university>
