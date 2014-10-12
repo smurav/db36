@@ -1,0 +1,8 @@
+<!ELEMENT mephi (faculty+)>
+<!ELEMENT faculty (department+)>
+<!ELEMENT department (group+)>
+<!ELEMENT group (student+)>
+<!ELEMENT student (#PCDATA)>
+<!ATTLIST faculty name CDATA #REQUIRED>
+<!ATTLIST department number CDATA #REQUIRED>
+<!ATTLIST group grnum CDATA #REQUIRED>
