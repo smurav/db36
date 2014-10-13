@@ -3,7 +3,7 @@
 
 <xs:simpleType name="facult_data">
   <xs:restriction base="xs:string">
-    <xs:enumeration value="KiB" />
+    <xs:enumeration value="K" />
     <xs:enumeration value="Physics and Technology" />
     <xs:enumeration value="Automatics" />
     <xs:enumeration value="Management" />
@@ -81,6 +81,7 @@
 			  </xs:element>
                         </xs:sequence>
                         <xs:attribute  name="number" type="xs:string" use="required"/>
+			<xs:attribute  name="entryyear"/>
                       </xs:complexType>
                     </xs:element>
                   </xs:sequence>
