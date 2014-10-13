@@ -9254,31 +9254,28 @@
          d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z" />
     </g>
     <a
-       id="a4901"
+       id="a4907"
+       xlink:href="http://www.w3schools.com/svg/default.asp"
        transform="translate(20,80)">
-      <a
-         xlink:href="http://www.w3schools.com/svg/default.asp"
-         id="a4907">
-        <text
-           sodipodi:linespacing="200%"
-           id="text4848"
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120.11719"
+         y="230"
+         id="text4848"
+         sodipodi:linespacing="200%"><tspan
+           id="tspan4850"
            y="230"
            x="120.11719"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             x="120.11719"
-             y="230"
-             id="tspan4850">W3Schools: SVG Tutorial</tspan><tspan
-             id="tspan4852"
-             sodipodi:role="line"
-             x="120.11719"
-             y="310" /><tspan
-             id="tspan4854"
-             sodipodi:role="line"
-             x="120.11719"
-             y="390" /></text>
-      </a>
+           sodipodi:role="line">W3Schools: SVG Tutorial</tspan><tspan
+           y="310"
+           x="120.11719"
+           sodipodi:role="line"
+           id="tspan4852" /><tspan
+           y="390"
+           x="120.11719"
+           sodipodi:role="line"
+           id="tspan4854" /></text>
     </a>
     <a
        id="a4892"
