@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!DOCTYPE university SYSTEM "mephi.dtd">
+<university xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="mephi.xsd"
+            name="Mephi" address="Russia, Moscow city, Kashirskoe freeway 31">
+    <faculty name="KiB" korp="K" dekan="Efseev">
+        <department name="Information system and technology" number="36" website="www.kaf36.ru">
+            <group number="k5-361">
+                <student>Anisimova</student>
+                <student>Artemev</student>
+		<student>Bybenko</student>
+		<student>Dzheloukhova</student>	
+		<student>Mikheev</student>
+		<student>Pivovarov</student>
+		<student>Samsonov</student>
+		<student>Sidorova</student>
+		<student>Soloveva</student>
+		<student>Tarmazakov</student>
+		<student>Titorenko</student>
+		<student>Shtanko</student>
+            </group>
+            <group number="k5-362">
+                <student>Erochin</student>
+		<student>Strekalov</student>
+                <student>Skok</student>
+            </group>
+        </department>
+    </faculty>
+</university>
+

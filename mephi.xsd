@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="facult_data">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="K" />
+    <xs:enumeration value="Physics and Technology" />
+    <xs:enumeration value="Automatics" />
+    <xs:enumeration value="Management" />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="korp_data">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="K" />
+    <xs:enumeration value="A" />
+    <xs:enumeration value="B" />
+    <xs:enumeration value="G" />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="dekan_data">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Efseev" />
+    <xs:enumeration value="Korotkova" />
+    <xs:enumeration value="Novikov" />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="kaf_data">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Information system and technology" />
+    <xs:enumeration value="System analysis" />
+    <xs:enumeration value="Applied mathematics" />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="kaf_number">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1"/>
+    <xs:maxInclusive value="60"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="member_number">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1"/>
+    <xs:maxInclusive value="30"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="human">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="[А-Я]{1}([а-я])* [А-Я]{1}([а-я])*"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="student">
+ <xs:simpleContent>
+   <xs:extension base="human">
+
+   </xs:extension>
+ </xs:simpleContent>
+</xs:complexType>
+
+
+
+ <xs:element name="university" type="Institution"/>
+   <xs:complexType name="Institution">
+      <xs:sequence>
+       <xs:element name="faculty">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="department">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="group" maxOccurs="20" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element  name="student" maxOccurs="30" minOccurs="1">
+			  </xs:element>
+                        </xs:sequence>
+                        <xs:attribute  name="number" type="xs:string" use="required"/>
+			<xs:attribute  name="entryyear"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                 <xs:attribute name="name" type="kaf_data"/>
+                 <xs:attribute name="number" type="kaf_number"/>
+                 <xs:attribute name="website" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="name" type="facult_data"/>
+            <xs:attribute name="korp" type="korp_data"/>
+            <xs:attribute name="dekan" type="dekan_data"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string"/>
+      <xs:attribute name="address" type="xs:string"/>
+    </xs:complexType>
+</xs:schema>

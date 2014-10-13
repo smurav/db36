@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!DOCTYPE university SYSTEM "mephi.dtd">
+
+<university   name="Mephi" address="Russia, Moscow city, Kashirskoe freeway 31">
+    <faculty name="K" korp="K" dekan="Efseev">
+        <department name="Information system and technology" number="36" website="www.kaf36.ru">
+            <group number="361" entryyear="2012">
+                <student>Anisimova</student>
+                <student>Artemev</student>
+		<student>Bybenko</student>
+		<student>Dzheloukhova</student>	
+		<student>Mikheev</student>
+		<student>Pivovarov</student>
+		<student>Samsonov</student>
+		<student>Sidorova</student>
+		<student>Soloveva</student>
+		<student>Tarmazakov</student>
+		<student>Titorenko</student>
+		<student>Ivanov</student>
+            </group>
+            <group number="362" entryyear="2013">
+                <student>Erochin</student>
+		<student>Strekalov</student>
+                <student>Ivanov</student>
+            </group>
+        </department>
+    </faculty>
+</university>
+
