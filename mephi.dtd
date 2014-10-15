@@ -1,0 +1,10 @@
+<!ELEMENT university (faculty+)>
+<!ATTLIST university name CDATA #REQUIRED city CDATA #REQUIRED>
+<!ELEMENT faculty (chair+)>
+<!ATTLIST faculty name CDATA #REQUIRED>
+<!ELEMENT chair (group+)>
+<!ATTLIST chair number CDATA #REQUIRED>
+<!ELEMENT group (student+)>
+<!ATTLIST group name CDATA #REQUIRED>
+<!ELEMENT student EMPTY>
+<!ATTLIST student name CDATA #REQUIRED>
