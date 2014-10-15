@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mephi SYSTEM "mephi.dtd">
 
-<university name="MEPHI" city="Moscow">
+<university name="MEPHI" city="Moscow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3schools.com mephi.xsd">
 	<faculty name="K">
 		<chair number="36">
 			<group name="K05-361">
