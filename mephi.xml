@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<university name="MEPHI" city="Moscow">
+	<faculty name="K">
+		<chair number="36">
+			<group name="K05-361">
+				<student name="Драко Малфой"/>
+				<student name="Беллатриса Лестрейндж"/>
+				<student name="Северус Снег"/>
+			</group>
+			<group name="K05-362">
+				<student name="Гарри Поттер"/>
+				<student name="Невил Долгопупс"/>
+				<student name="Рон Уизли"/>
+				<student name="Гермиона Грейнджер"/>
+			</group>
+		</chair>
+	</faculty>
+</university>
