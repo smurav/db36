@@ -3,7 +3,8 @@
 
 <xs:simpleType name="nametype">
   <xs:restriction base="xs:string">
-    <xs:pattern value="([a-zA-Z0-9 ])*"/>
+    <xs:pattern value="([a-zA-Z0-9\- ])*"/>
+    <xs:whiteSpace value="preserve"/>
   </xs:restriction>
 </xs:simpleType>
 
@@ -16,7 +17,8 @@
 
 <xs:simpleType name="studenttype">
   <xs:restriction base="xs:string">
-    <xs:pattern value="([a-zA-Z])*"/>
+    <xs:pattern value="([а-яА-Я ])*"/>
+    <xs:whiteSpace value="preserve"/>
   </xs:restriction>
 </xs:simpleType>
 
@@ -37,7 +39,7 @@
 
 <xs:complexType name="chairtype">
   <xs:sequence>
-    <xs:element name="group" type="grouptype"/>
+    <xs:element name="group" type="grouptype" minOccurs="1" maxOccurs="4"/>
   </xs:sequence>
   <xs:attribute name="number" type="numbertype" use="required"/>
 </xs:complexType>

@@ -10,7 +10,8 @@ def printStudents(g):
 	i = 1
 	print g.get("name")
 	for s in g.getchildren():
-		print str(i) + ") " + s.get("name")
+		print str(i) + ") " + s.text
+		i+=1
 
 def main(argv): 
 	if len(argv) != 2: 
