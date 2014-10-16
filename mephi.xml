@@ -4,7 +4,7 @@
 <university name="MEPHI" city="Moscow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3schools.com mephi.xsd">
 	<faculty name="K">
 		<chair number="36">
-			<group name="K05-361">
+			<group name="K05-361" year="2012">
 				<student>Артемьев Дмитрий</student>
 		        <student>Анисимова Наталья</student>
 		        <student>Бубенко Кирилл</student>
@@ -19,7 +19,7 @@
 		        <student>Титоренко Алексей</student>
 		        <student>Штанько Александр</student>
 			</group>
-			<group name="K05-362">
+			<group name="K05-362" year="2012">
 				<student>Ахметсафин Владислав</student>
     		    <student>Галкин Александр</student>
         		<student>Головко Ирина</student>
@@ -37,6 +37,13 @@
         		<student>Скок Дарья</student>
         		<student>Стрекалов Олег</student>
         		<student>Чухненко Александра</student>
+			</group>
+		</chair>
+	</faculty>
+	<faculty name="T">
+		<chair number="1">
+			<group name="T01-01" year="2010">
+				<student>Альбус Дамблдор</student>>
 			</group>
 		</chair>
 	</faculty>

@@ -15,6 +15,13 @@
   </xs:restriction>
 </xs:simpleType>
 
+<xs:simpleType name="yeartype">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="2000"/>
+    <xs:maxInclusive value="2014"/>
+  </xs:restriction>
+</xs:simpleType>
+
 <xs:simpleType name="studenttype">
   <xs:restriction base="xs:string">
     <xs:pattern value="([а-яА-Я ])*"/>
@@ -50,6 +57,7 @@
     maxOccurs="20" minOccurs="1"/>
   </xs:sequence>
   <xs:attribute name="name" type="nametype" use="required"/>
+  <xs:attribute name="year" type="yeartype" use="required"/>
 </xs:complexType>
 
 <xs:element name="university" type="universitytype"/>
