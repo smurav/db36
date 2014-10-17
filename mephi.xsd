@@ -31,7 +31,7 @@
 
 <xs:complexType name="universitytype">
   <xs:sequence>
-    <xs:element name="faculty" type="facultytype"/>
+    <xs:element name="faculty" type="facultytype" minOccurs="1" maxOccurs="10"/>
   </xs:sequence>
   <xs:attribute name="name" type="nametype" use="required"/>
   <xs:attribute name="city" type="nametype" use="required"/>

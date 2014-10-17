@@ -8,6 +8,6 @@ if (len(sys.argv) ==  3):
 	if shema.validate(doc):
 		print "Validation is success"
 	else: 
-		print schema.assertValid(doc)
+		print shema.assertValid(doc)
 else:
 	print "Not enough parameters("
