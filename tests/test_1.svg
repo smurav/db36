@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68942911"
-     inkscape:cx="862.59361"
+     inkscape:cx="700.14036"
      inkscape:cy="438.72811"
      inkscape:document-units="px"
-     inkscape:current-layer="g4805"
+     inkscape:current-layer="g19023"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1150"
@@ -4358,7 +4358,7 @@
          x="120"
          sodipodi:role="line">Создайте схему <tspan
    id="tspan19029"
-   style="fill:#aa0000">books.xsd </tspan>и добавьте в её объявления именованных</tspan><tspan
+   style="fill:#aa0000">books.xsd </tspan>и добавьте в неё объявления именованных</tspan><tspan
          id="tspan19031"
          y="204"
          x="120"
