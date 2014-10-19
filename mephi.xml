@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+<mephi status="Nuclear">
+  <facultet field="Cyber">
+    <kaf id="36">
+<group name="1" quantity="13">
+<member>Артемьев Дмитрий</member>
+<member>Анисимова Наталья</member>
+<member>Бубенко Кирилл</member>
+<member>Джелоухова Алена</member>
+<member>Заманов Айнур</member>
+<member>Михеев Денис</member>
+<member>Пивоваров Александр</member>
+<member>Самсонов Артем</member>
+<member>Соловьева Аня</member>
+<member>Суханова Любовь</member>
+<member>Тармазаков Евгений</member>
+<member>Титоренко Алексей</member>
+<member>Штанько Александр</member>
+      </group>
+<group name="2" quantity="17">
+<member>Ахметсафин Владислав</member>
+<member>Галкин Александр</member>
+<member>Головко Ирина</member>
+<member>Джумайло Евгений</member>
+<member>Ерохин Владимир</member>
+<member>Каталкина Виктория</member>
+<member>Левин Андрей</member>
+<member>Молочков Ярослав</member>
+<member>Моряшова Виктория</member>
+<member>Полстянкин Константин</member>
+<member>Пурик Яна</member>
+<member>Разживин Никита</member>
+<member>Редюк Сергей</member>
+<member>Рябов Петр</member>
+<member>Скок Дарья</member>
+<member>Стрекалов Олег</member>
+<member>Чухненко Александра</member>
+      </group>
+    </kaf>
+  </facultet>
+</mephi> 
