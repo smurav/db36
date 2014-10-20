@@ -1,10 +1,9 @@
 <!ELEMENT university (faculty+)>
-<!ATTLIST university name CDATA #REQUIRED city CDATA #REQUIRED
-xmlns:xsi CDATA #REQUIRED xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
+<!ATTLIST university name CDATA #REQUIRED city CDATA #REQUIRED>
 <!ELEMENT faculty (chair+)>
 <!ATTLIST faculty name CDATA #REQUIRED>
-<!ELEMENT chair (group+)>
+<!ELEMENT chair (group*)>
 <!ATTLIST chair number CDATA #REQUIRED>
 <!ELEMENT group (student+)>
-<!ATTLIST group name CDATA #REQUIRED year CDATA #REQUIRED>
+<!ATTLIST group year CDATA #REQUIRED number CDATA #REQUIRED>
 <!ELEMENT student (#PCDATA)>

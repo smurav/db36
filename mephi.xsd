@@ -17,7 +17,7 @@
 
 <xs:simpleType name="yeartype">
   <xs:restriction base="xs:integer">
-    <xs:minInclusive value="2000"/>
+    <xs:minInclusive value="2008"/>
     <xs:maxInclusive value="2014"/>
   </xs:restriction>
 </xs:simpleType>
@@ -39,14 +39,14 @@
 
 <xs:complexType name="facultytype">
   <xs:sequence>
-    <xs:element name="chair" type="chairtype"/>
+    <xs:element name="chair" type="chairtype" minOccurs="1" maxOccurs="99"/>
   </xs:sequence>
   <xs:attribute name="name" type="nametype" use="required"/>
 </xs:complexType>
 
 <xs:complexType name="chairtype">
   <xs:sequence>
-    <xs:element name="group" type="grouptype" minOccurs="1" maxOccurs="4"/>
+    <xs:element name="group" type="grouptype" minOccurs="0" maxOccurs="4"/>
   </xs:sequence>
   <xs:attribute name="number" type="numbertype" use="required"/>
 </xs:complexType>
@@ -54,9 +54,9 @@
 <xs:complexType name="grouptype">
   <xs:sequence>
     <xs:element name="student" type="studenttype"
-    maxOccurs="20" minOccurs="1"/>
+    maxOccurs="30" minOccurs="1"/>
   </xs:sequence>
-  <xs:attribute name="name" type="nametype" use="required"/>
+  <xs:attribute name="number" type="numbertype" use="required"/>
   <xs:attribute name="year" type="yeartype" use="required"/>
 </xs:complexType>
 
