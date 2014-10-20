@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!DOCTYPE university SYSTEM "mephi.dtd">
+<university name="Mephi" adress="Moscow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3schools.com mephi.xsd">
+    <faculty name="К" korp="K">
+        <department name="Прикладная математика"> </department>
+        <department name="Информационные системы и технологии" number="36" floor="3">
+            <group number="361" year="2012">
+            	<student>Артемьев Дмитрий</student>
+        		<student>Анисимова Наталья</student>
+      		    <student>Бубенко Кирилл</student>
+        		<student>Джелоухова Алена</student>
+        		<student>Заманов Айнур</student>
+        		<student>Михеев Денис</student>
+        		<student>Пивоваров Александр</student>
+        		<student>Самсонов Артем</student>
+        		<student>Соловьева Аня</student>
+        		<student>Суханова Любовь</student>
+        		<student>Тармазаков Евгений</student>
+        		<student>Титоренко Алексей</student>
+        		<student>Штанько Александр</student>
+            </group>
+            <group number="362" year="2012">
+                <student>Ахметсафин Владислав</student>
+        		<student>Галкин Александр</student>
+        		<student>Головко Ирина</student>
+        		<student>Джумайло Евгений</student>
+        		<student>Ерохин Владимир</student>
+        		<student>Каталкина Виктория</student>
+        		<student>Левин Андрей</student>
+        		<student>Молочков Ярослав</student>
+        		<student>Моряшова Виктория</student>
+        		<student>Полстянкин Константин</student>
+        		<student>Пурик Яна</student>
+        		<student>Разживин Никита</student>
+        		<student>Редюк Сергей</student>
+        		<student>Рябов Петр</student>
+        		<student>Скок Дарья</student>
+        		<student>Стрекалов Олег</student>
+        		<student>Чухненко Александра</student>
+            </group>
+        </department>
+    </faculty>
+    <faculty name="Т" korp="Т">
+        <department name="Материаловедение" number="49">
+            <group number="491" year="2009">
+                <student>Яков Володин</student>
+                <student>Алиса Пугачева</student>
+            </group>
+        </department>
+    </faculty>
+    <faculty name="Ф" korp="Ф">
+        <department name="Физика" number="33">
+            <group number="491" year="2010">
+                <student>Семенов Максим</student>
+                <student>Андрей Симаков</student>
+                <student>Олегов Олег</student>
+            </group>
+        </department>
+    </faculty>
+</university>
