@@ -5,11 +5,9 @@
 
 <xsl:template match="/">
 	<xsl:for-each select="//faculty[@name='K']/chair">
+		<xsl:value-of select="string(attribute::number)"/>
 		<xsl:if test="position() != last()">
-			<xsl:value-of select="string(attribute::number)"/>
-		</xsl:if>
-		<xsl:if test="position() = last()">
-			<xsl:text>, </xsl:text>
+			<xsl:text>, </xsl:text>	
 		</xsl:if>
 	</xsl:for-each>
 </xsl:template>
