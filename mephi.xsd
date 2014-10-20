@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="nametype">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="([a-zA-Z0-9\- ])*"/>
+    <xs:whiteSpace value="preserve"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="numbertype">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1"/>
+    <xs:maxInclusive value="99"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="yeartype">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="2008"/>
+    <xs:maxInclusive value="2014"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="studenttype">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="([а-яА-Я ])*"/>
+    <xs:whiteSpace value="preserve"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="universitytype">
+  <xs:sequence>
+    <xs:element name="faculty" type="facultytype" minOccurs="1" maxOccurs="10"/>
+  </xs:sequence>
+  <xs:attribute name="name" type="nametype" use="required"/>
+  <xs:attribute name="city" type="nametype" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="facultytype">
+  <xs:sequence>
+    <xs:element name="chair" type="chairtype" minOccurs="1" maxOccurs="99"/>
+  </xs:sequence>
+  <xs:attribute name="name" type="nametype" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="chairtype">
+  <xs:sequence>
+    <xs:element name="group" type="grouptype" minOccurs="0" maxOccurs="4"/>
+  </xs:sequence>
+  <xs:attribute name="number" type="numbertype" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="grouptype">
+  <xs:sequence>
+    <xs:element name="student" type="studenttype"
+    maxOccurs="30" minOccurs="1"/>
+  </xs:sequence>
+  <xs:attribute name="number" type="numbertype" use="required"/>
+  <xs:attribute name="year" type="yeartype" use="required"/>
+</xs:complexType>
+
+<xs:element name="university" type="universitytype"/>
+<xs:element name="университет" substitutionGroup="university"/>
+</xs:schema>

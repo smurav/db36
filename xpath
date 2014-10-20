@@ -1,0 +1,14 @@
+Faculty 'K' has follow chairs: 
+string(//faculty[@name='K']/*/attribute::number)
+Studens which entered after 2010 year: 
+//group[@year>'2010']/*/text()
+Артемьев Дмитрий study in 
+string(//group[child::student='Артемьев Дмитрий']/attribute::name)
+Count of students study in group K05-361 is 
+count(//group[@name='K05-361']/child::*)
+Count of students study in chair 36 is 
+count(//chair[@number='36']/*/child::*)
+Chair 36 is on 
+string(//chair[@number='36']/../attribute::name)
+
+concat(string(//chair[@number='36']/../attribute::name), string(1+2*(2014.0-number(//student[self::student='Артемьев Дмитрий']/ancestor::group/attribute::year))), '-', string(//student[self::student='Артемьев Дмитрий']/ancestor::chair/attribute::number), count(//group[child::student='Артемьев Дмитрий']/../*)-1)

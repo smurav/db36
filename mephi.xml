@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+
+<?xml-stylesheet type="text/xsl" href="mephi.xsl"?>
+
+<university name="MEPHI" city="Moscow">
+	<faculty name="K">
+		<chair number="36">
+			<group year="2012" number="1">
+				<student>Артемьев Дмитрий</student>
+		        <student>Анисимова Наталья</student>
+		        <student>Бубенко Кирилл</student>
+		        <student>Джелоухова Алена</student>
+		        <student>Заманов Айнур</student>
+		        <student>Михеев Денис</student>
+		        <student>Пивоваров Александр</student>
+		        <student>Самсонов Артем</student>
+		        <student>Соловьева Аня</student>
+		        <student>Суханова Любовь</student>
+		        <student>Тармазаков Евгений</student>
+		        <student>Титоренко Алексей</student>
+		        <student>Штанько Александр</student>
+			</group>
+			<group year="2012" number="2">
+				<student>Ахметсафин Владислав</student>
+    		    <student>Галкин Александр</student>
+        		<student>Головко Ирина</student>
+		        <student>Джумайло Евгений</student>
+ 		        <student>Ерохин Владимир</student>
+ 		        <student>Каталкина Виктория</student>
+        		<student>Левин Андрей</student>
+        		<student>Молочков Ярослав</student>
+        		<student>Моряшова Виктория</student>
+        		<student>Полстянкин Константин</student>
+        		<student>Пурик Яна</student>
+        		<student>Разживин Никита</student>
+        		<student>Редюк Сергей</student>
+        		<student>Рябов Петр</student>
+        		<student>Скок Дарья</student>
+        		<student>Стрекалов Олег</student>
+        		<student>Чухненко Александра</student>
+			</group>
+		</chair>
+		<chair number="33"></chair>
+		<chair number="22"></chair>
+		<chair number="12"></chair>
+		<chair number="68"></chair>
+	</faculty>
+	<faculty name="T">
+		<chair number="1">
+			<group year="2010" number="1">
+				<student>Альбус Дамблдор</student>
+			</group>
+		</chair>
+	</faculty>
+</university>
