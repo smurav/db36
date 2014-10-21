@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="mephi" type="u"/>
+	<xs:complexType name="u">
+		<xs:sequence>
+			<xs:element name="fakultet" type="f" maxOccurs="10" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="adress" type="xs:string"/>
+	</xs:complexType>
+
+<xs:complexType name="f">
+	<xs:sequence>
+		<xs:element name="kafedra" type="k" maxOccurs="10" minOccurs="0"/>
+	</xs:sequence>
+	<xs:attribute name="fak">
+	</xs:attribute>
+</xs:complexType>
+<xs:complexType name="k">
+	<xs:sequence>
+		<xs:element name="grop" type="g" maxOccurs="10" minOccurs="0"/>
+	</xs:sequence>
+	<xs:attribute name="kaf">
+    	<xs:simpleType>
+		<xs:restriction base="xs:integer">
+		<xs:maxInclusive value="100"/>
+		</xs:restriction>
+	</xs:simpleType>
+	</xs:attribute>
+
+	
+</xs:complexType>
+<xs:complexType name="g">
+	<xs:sequence>
+		<xs:element name="student" type="s"  maxOccurs="30" minOccurs="0"/>
+	</xs:sequence>
+	<xs:attribute name="year" type="xs:integer"/>
+	<xs:attribute name="gr" type="xs:integer"/>
+</xs:complexType>
+<xs:complexType name="s">
+	<xs:simpleContent>
+	<xs:extension base="person">
+   		<xs:attribute name="N" type="xs:positiveInteger" use="required"/> 
+ 		<xs:attribute name="Name" type="xs:string"/>
+	</xs:extension>
+	</xs:simpleContent>
+</xs:complexType>
+<xs:element name="human" type="person"/>
+	<xs:simpleType name="person">
+	<xs:restriction base="xs:string">
+	</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
+
