@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="p1.xsl"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+<mephi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="http://mephi.xsd" adress = "Kashirskaia 31"><fakultet fak="kib"><kafedra kaf ="36"><grop gr ="361" year = "2012">
+<student N="1" Name ="Anisimova">Anisimova-Nataly</student>
+<student N="2" Name ="Artemev">Artemev-Dmitriy </student>
+<student N="3" Name ="Jelouhova">Jelouhova-Kiril</student>
+<student N="4" Name ="Jelouhova">Jelouhova-Alena</student>
+<student N="5" Name ="Zamanov">Zamanov-Ainur</student>
+<student N="6" Name ="Miheev">Miheev-Denis</student>
+<student N="7" Name ="Pivovarov">Pivovarov-Alexandr</student>
+<student N="8" Name ="Samsonov">Samsonov-Artem</student>
+<student N="9" Name ="Soloveva">Soloveva-Anna</student>
+<student N="10" Name ="Sidorova">Sidorova-Lubov</student>
+<student N="11" Name ="Tarmazakov">Tarmazakov-Evgeniy</student>
+<student N="12" Name ="Titorenko">Titorenko-Aleksey</student>
+<student N="13" Name ="Shtanko">Shtanko-Alexandr</student>
+</grop><grop gr = "362" year = "2012">
+<student N="1" Name ="hjk">kj</student>
+</grop></kafedra></fakultet><fakultet fak="a"/><fakultet fak="t"/><fakultet fak="f"/><fakultet fak="v"/><fakultet fak="u"/></mephi>
+

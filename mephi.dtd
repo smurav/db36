@@ -1,0 +1,13 @@
+<!ELEMENT mephi (fakultet+)>
+<!ELEMENT fakultet (kafedra+)>
+<!ELEMENT kafedra (grop+)>
+<!ELEMENT grop (student+)>
+<!ELEMENT student ANY>
+<!ATTLIST mephi adress CDATA "Kashirskaia 31">
+<!ATTLIST fakultet fak CDATA "kib">
+<!ATTLIST kafedra kaf CDATA "36">
+<!ATTLIST grop gr CDATA #REQUIRED>
+<!ATTLIST grop year CDATA #REQUIRED>
+<!ATTLIST student N CDATA #REQUIRED>
+<!ATTLIST student Name CDATA #REQUIRED>
+

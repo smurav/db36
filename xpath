@@ -1,0 +1,70 @@
+#! /usr/bin/env python
+import sys, libxml2
+def open(xml_file):
+  doc = libxml2.parseFile (xml_file)
+  ctxt = doc.xpathNewContext()
+  # 1
+  fak = ctxt.xpathEval("//fakultet[@fak='kib']/child::*")
+  print "1"
+  i=0;
+  for element in fak: 
+   print fak[i].properties.content
+   i=i+1 
+  # 2
+  stud = ctxt.xpathEval("//grop[@year>2010]/child::*")
+  print "2"
+  i=0;
+  for element in stud: 
+   print stud[i].content
+   i=i+1
+  # 3 & 8
+  grop = ctxt.xpathEval("//student[@Name='Anisimova']/parent::*")
+  print "3&8"
+  i=0
+  for element in grop: 
+   for property in grop[i].properties:
+    print property
+   i=i+1
+  # 4
+  stud = ctxt.xpathEval("//grop[@year=2012 and @gr=361]/child::*")
+  i=0;
+  for element in stud: 
+   i=i+1
+  print "4"
+  print i
+
+  #5
+  st = ctxt.xpathEval("//kafedra[@kaf=36]/grop/child::*")
+  i=0;
+  for element in st: 
+   i=i+1
+  print "5"
+  print i
+
+  #6????
+  fak = ctxt.xpathEval("//fakultet[@fak=kib]/kafedra/grop/child::*")
+  i=0
+  for element in fak: 
+   i=i+1
+  print "6"
+  print i
+
+  #7
+  fak = ctxt.xpathEval("//kafedra[@kaf=36]/ancestor::fakultet")
+  print "7"
+  print fak[0].properties
+
+  ctxt.xpathFreeContext ()
+  doc.freeDoc ()
+
+
+  ctxt.xpathFreeContext ()
+  doc.freeDoc ()
+
+
+
+def main(argv):
+  if len(argv) != 2:
+    sys.stderr.write("Usage : %s xml_file" % (argv[0],))
+  else:    open(argv[1])
+if __name__ == '__main__': main(sys.argv)
