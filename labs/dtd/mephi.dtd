@@ -1,0 +1,12 @@
+
+
+<!ELEMENT mephi (faculty+)>
+<!ELEMENT faculty (kafedra+)>
+<!ELEMENT kafedra (group+)>
+<!ELEMENT group (student+)>
+<!ELEMENT student (#PCDATA)>
+<!ATTLIST faculty name CDATA #REQUIRED>
+<!ATTLIST kafedra number CDATA #REQUIRED>
+<!ATTLIST group number CDATA #REQUIRED>
+
+

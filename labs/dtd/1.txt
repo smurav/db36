@@ -1,0 +1,2 @@
+python view.py -x mephi.xml -d mephi.dtd
+
