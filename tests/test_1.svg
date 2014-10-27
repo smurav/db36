@@ -28,10 +28,10 @@
      inkscape:cx="700.14036"
      inkscape:cy="438.72811"
      inkscape:document-units="px"
-     inkscape:current-layer="g19023"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1150"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2805,6 +2805,26 @@
        y1="18.593"
        x2="20.64"
        y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402-77"
+       id="linearGradient12598"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.64"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2402-77"
+       id="linearGradient12620"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6441,0,0,0.6441,4.0504,-2.3906)"
+       x1="10.269"
+       y1="18.593"
+       x2="20.64"
+       y2="20" />
   </defs>
   <metadata
      id="metadata7">
@@ -2819,7 +2839,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -2966,7 +2986,7 @@
   <g
      ns1:transitionOut="name:fade;length:500"
      ns1:transitionIn="name:fade;length:500"
-     style="display:none"
+     style="display:inline"
      inkscape:label="master_slide"
      id="layer2"
      inkscape:groupmode="layer"
@@ -3347,24 +3367,95 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="1. Клонирование репозитория git"
-     style="display:none">
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="150"
+       id="text12571"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan12573"
+         y="150"
+         x="120"
+         sodipodi:role="line">Сделайте форк репозитория <tspan
+   style="fill:#aa0000"
+   id="tspan12600">git@github.com:smurav/test1.git</tspan>.</tspan></text>
+    <g
+       transform="matrix(1.6768123,0,0,1.6768123,54.847649,114.60923)"
+       id="g12577"
+       inkscape:label="Calque 1"
+       style="display:inline">
+      <g
+         id="g12579">
+        <path
+           inkscape:connector-curvature="0"
+           id="path12581"
+           style="fill:#640000"
+           d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12583"
+           sodipodi:nodetypes="ccccc"
+           style="fill:#d40000"
+           d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12585"
+           sodipodi:nodetypes="ccccc"
+           style="fill:url(#linearGradient12598)"
+           d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12587"
+           sodipodi:nodetypes="ccccc"
+           style="fill:#aa0000"
+           d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z" />
+      </g>
+    </g>
     <text
        sodipodi:linespacing="150%"
-       id="text5033"
-       y="150"
-       x="80"
+       id="text12602"
+       y="230"
+       x="120"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         x="80"
-         y="150"
-         id="tspan8410">Склонируйте репозиторий <tspan
-   style="fill:#aa0000"
-   id="tspan18208">git@github.com:smurav/test1.git</tspan> и перейдите в</tspan><tspan
-         sodipodi:role="line"
-         x="80"
-         y="204"
-         id="tspan18226">рабочий каталог.</tspan></text>
+         x="120"
+         y="230"
+         id="tspan12626">Склонируйте новый репозиторий и перейдите в рабочий каталог.</tspan></text>
+    <g
+       style="display:inline"
+       inkscape:label="Calque 1"
+       id="g12608"
+       transform="matrix(1.6768123,0,0,1.6768123,54.847649,194.60923)">
+      <g
+         id="g12610">
+        <path
+           d="M 15.614,3.0787 C 15.477,3.097 15.346,3.1435 15.228,3.2152 L 5.033,9.0408 C 4.7236,9.2191 4.5328,9.5486 4.5322,9.9055 v 10.194 c -0.0011,0.34 0.1703,0.657 0.4551,0.842 l 8.7387,5.826 c 0.316,0.204 0.721,0.213 1.046,0.023 l 10.195,-5.826 c 0.309,-0.178 0.5,-0.508 0.501,-0.865 V 9.9055 C 25.469,9.5653 25.298,9.2482 25.013,9.063 L 16.274,3.2375 C 16.08,3.1091 15.846,3.0527 15.614,3.0782 z"
+           style="fill:#640000"
+           id="path12612"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 6.6267,10.491 7.7293,5.153 v 9.017 L 6.6267,19.509 v -9.018 z"
+           style="fill:#d40000"
+           sodipodi:nodetypes="ccccc"
+           id="path12614"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 15.644,5.3386 23.373,10.491 14.356,15.644 6.6267,10.491 15.644,5.3386 z"
+           style="fill:url(#linearGradient12620)"
+           sodipodi:nodetypes="ccccc"
+           id="path12616"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 23.373,10.491 v 9.018 l -9.017,5.152 v -9.017 l 9.017,-5.153 z"
+           style="fill:#aa0000"
+           sodipodi:nodetypes="ccccc"
+           id="path12618"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
   <g
      style="display:none"
