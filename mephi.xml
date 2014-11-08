@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<university name="mephi">
+ <faculty name="K">
+  <department name="Information technology" number="36">
+   <group groupnumber="361" entrydate="2012">
+    <student>Anisimova Natalia</student>
+    <student>Artemyev Dmitry</student>
+    <student>Bubenko Kirill</student>
+    <student>Ghelouchova Alena</student>
+    <student>Zamanov Aynur</student>
+    <student>Mikheev Denis</student>
+    <student>Pivovarov Alexandr</student>
+    <student>Samsonov Artem</student>
+    <student>Sidorova Lybov</student>
+    <student>Solovyeva Anna</student>
+    <student>Tarmazakov Evgeny</student>
+    <student>Titorenko Alexey</student>
+    <student>Shtanko Alexandr</student>
+   </group>
+
+  <group groupnumber="362" entrydate="2012">
+    <student>Akhmetsafin Vladislav</student>
+    <student>Galkin Alexandr</student>
+    <student>Golovko Irina</student>
+    <student>Ghumaylo Evgeny</student>
+    <student>Erokhin Vladimir</student>
+    <student>Katalkina Victoria</student>
+    <student>Levin Andrey</student>
+    <student>Molochkov Yaroslav</student>
+    <student>Moryashova Victoria</student>
+    <student>Polstyankin Konstantin</student>
+    <student>Purik Yana</student>
+    <student>Razzhivin Nikita</student>
+    <student>Redyuk Sergey</student>
+    <student>Ryabov Petr</student>
+    <student>Skok Daria</student>
+    <student>Strekalov Oleg</student>
+    <student>Chaykovskaya Alexandra</student>
+  </group>
+  </department>
+ </faculty>
+</university>
