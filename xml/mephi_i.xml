@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+<?xml-stylesheet type="text/xsl" href="mephi.xsl"?>
+<mephi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="/home/serg/db36/xml/mephi.xsd">
+ <faculty name="K">
+  <department number="36">
+   <group grnum="1" year="2012">
+    <student firstname="Дмитрий" lastname="Артемьев"/> 
+    <student firstname="Наталья" lastname="Анисимова"/> 
+    <student firstname="Кирилл" lastname="Бубенко"/> 
+    <student firstname="Алена" lastname="Джелоухова"/> 
+    <student firstname="Айнур" lastname="Заманов"/> 
+    <student firstname="Денис" lastname="Михеев"/> 
+    <student firstname="Александр" lastname="Пивоваров"/> 
+    <student firstname="Артем" lastname="Самсонов"/> 
+    <student firstname="Аня" lastname="Соловьева"/> 
+    <student firstname="Любовь" lastname="Суханова"/> 
+    <student firstname="Евгений" lastname="Тармазаков"/> 
+    <student firstname="Алексей" lastname="Титоренко"/> 
+    <student firstname="Александр" lastname="Штанько"/> 
+   </group>
+   <group grnum="2" year="2012">
+    <student firstname="Владислав" lastname="Ахметсафин"/> 
+    <student firstname="Александр" lastname="Галкин"/> 
+    <student firstname="Ирина" lastname="Головко"/> 
+    <student firstname="Евгений" lastname="Джумайло"/> 
+    <student firstname="Владимир" lastname="Ерохин"/> 
+    <student firstname="Виктория" lastname="Каталкина"/> 
+    <student firstname="Андрей" lastname="Левин"/> 
+    <student firstname="Ярослав" lastname="Молочков"/> 
+    <student firstname="Виктория" lastname="Моряшова"/> 
+    <student firstname="Константин" lastname="Полстянкин"/> 
+    <student firstname="Яна" lastname="Пурик"/> 
+    <student firstname="Никита" lastname="Разживин"/> 
+    <student firstname="Сергей" lastname="Редюк"/> 
+    <student firstname="Петр" lastname="Рябов"/> 
+    <student firstname="Дарья" lastname="Скок"/> 
+    <student firstname="Олег" lastname="Стрекалов"/> 
+    <student firstname="Александра" lastname="Чухненко"/> 
+   </group>
+  </department>
+ </faculty>
+</mephi>  

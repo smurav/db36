@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="names">
+ <xs:restriction base="xs:string">
+  <xs:enumeration value="K"/>
+  <xs:enumeration value="A"/>
+  <xs:enumeration value="IS"/>
+  <xs:enumeration value="F"/>
+  <xs:enumeration value="T"/>
+  <xs:enumeration value="U"/>
+ </xs:restriction>
+</xs:simpleType> 
+
+<xs:simpleType name="numbers">
+ <xs:restriction base="xs:integer">
+  <xs:minExclusive value="0"/>
+  <xs:maxExclusive value="40"/>
+ </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="grnums">
+ <xs:restriction base="xs:integer">
+  <xs:minInclusive value="1"/>
+  <xs:maxInclusive value="4"/>
+ </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="years">
+ <xs:restriction base="xs:integer">
+  <xs:pattern value="[0-9]{4}"/>
+ </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="students">
+ <xs:restriction base="xs:string">
+  <xs:pattern value="([а-яА-Я ])*"/>
+ </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="groups">
+ <xs:sequence>
+  <xs:element name="student" type="students" maxOccurs="40" minOccurs="1"/> 
+ </xs:sequence>
+ <xs:attribute name="grnum" type="grnums" use="required"/>
+ <xs:attribute name="year" type="years" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="departments">
+ <xs:sequence>
+  <xs:element name="group" type="groups" maxOccurs="4" minOccurs="1"/>
+ </xs:sequence>
+ <xs:attribute name="number" type="xs:integer" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="faculties">
+ <xs:sequence>
+  <xs:element name="department" type="departments" maxOccurs="100" minOccurs="1"/>
+ </xs:sequence>
+ <xs:attribute name="name" type="names" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="universities">
+ <xs:sequence>
+  <xs:element name="faculty" type="faculties" maxOccurs="6" minOccurs="1"/>
+ </xs:sequence>
+</xs:complexType>
+
+<xs:element name="mephi" type="universities"/>
+
+</xs:schema>
