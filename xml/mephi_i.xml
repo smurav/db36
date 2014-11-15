@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mephi SYSTEM "mephi.dtd">
+<?xml-stylesheet type="text/xsl" href="mephi.xsl"?>
 <mephi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="/home/serg/db36/xml/mephi.xsd">
  <faculty name="K">

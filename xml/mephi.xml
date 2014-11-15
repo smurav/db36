@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mephi>
   <faculty name="K">
+    <department number='12'/>
+  	<department number='22'/>
     <department number="36">
       <group grnum="1">
         <student>Артемьев Дмитрий</student>
