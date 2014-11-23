@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="981.87282"
-     inkscape:cy="218.7304"
+     inkscape:cx="626.87282"
+     inkscape:cy="138.7304"
      inkscape:document-units="px"
-     inkscape:current-layer="g4505"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1150"
@@ -2431,7 +2431,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2440,7 +2440,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -2580,7 +2580,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      ns1:transitionIn="name:fade;length:500"
      ns1:transitionOut="name:fade;length:500">
     <rect
@@ -3489,7 +3489,7 @@
          y="542.53906" /></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Изменение  данных"
      id="g4405"
      inkscape:groupmode="layer">
@@ -3613,1679 +3613,709 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g5321"
-     inkscape:label="Создание таблиц"
+     id="g4350"
+     inkscape:label="Примеры изменения значений"
      style="display:none">
     <text
        sodipodi:linespacing="200%"
-       id="text5323"
+       id="text4352"
        y="150"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan5325"
+         id="tspan4354"
          x="80"
-         y="150">Создание таблиц:</tspan></text>
+         y="150">Изменение нескольких значений в строке:</tspan></text>
     <rect
        rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16199994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect5327"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4356"
        width="1440"
-       height="258.45312"
+       height="118.45313"
        x="80"
        y="171.54688"
-       ry="20" />
+       ry="20.000002" />
     <text
-       sodipodi:linespacing="100%"
-       id="text5329"
-       y="230.90625"
+       sodipodi:linespacing="150%"
+       id="text4359"
+       y="218.53906"
        x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="230.90625"
+         id="tspan4363"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="218.53906"
+         x="120"
+         sodipodi:role="line">UPDATE weather SET temp_lo = temp_lo+1, temp_hi = temp_lo+15</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="266.53906"
          x="120"
          sodipodi:role="line"
-         id="tspan5347">CREATE [...] TABLE [ IF NOT EXISTS ] table_name ( [</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="262.90625"
+         id="tspan4399">  WHERE city = 'San Francisco' AND date = '2003-07-03';</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="314.53906"
          x="120"
          sodipodi:role="line"
-         id="tspan6284">  { column_name data_type [...] [ column_constraint [ ... ] ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="294.90625"
+         id="tspan4365" /><tspan
+         y="362.53906"
          x="120"
          sodipodi:role="line"
-         id="tspan6288">    | ... }</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="326.90625"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6290">    [, ... ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="358.90625"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6292">] )</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="390.90625"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6300">[...]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="422.90625"
-         x="120"
-         sodipodi:role="line"
-         id="tspan5349" /><tspan
-         y="454.90625"
-         x="120"
-         sodipodi:role="line"
-         id="tspan5351" /></text>
+         id="tspan4367" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="530"
-       id="text5353"
+       y="390"
+       id="text4383"
        sodipodi:linespacing="200%"><tspan
-         y="530"
+         y="390"
          x="80"
-         id="tspan5355"
-         sodipodi:role="line">Пример создания таблицы:</tspan></text>
+         id="tspan4385"
+         sodipodi:role="line">Альтернативный способ изменения нескольких значений:</tspan></text>
     <rect
-       ry="20"
-       y="551.54688"
+       ry="20.000002"
+       y="411.54691"
        x="80"
-       height="218.45312"
+       height="118.45313"
        width="1440"
-       id="rect5357"
+       id="rect4387"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="606.77344"
-       id="text5359"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan5361"
+       y="458.53906"
+       id="text4389"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4393"
          sodipodi:role="line"
          x="120"
-         y="606.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">CREATE TABLE myschema.films (</tspan><tspan
+         y="458.53906"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">UPDATE weather SET (temp_lo, temp_hi) = (temp_lo+1, temp_lo+15)</tspan><tspan
          sodipodi:role="line"
          x="120"
-         y="638.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6316">    code        char(5) PRIMARY KEY,</tspan><tspan
+         y="506.53906"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4403">  WHERE city = 'San Francisco' AND date = '2003-07-03';</tspan><tspan
+         id="tspan4395"
          sodipodi:role="line"
          x="120"
-         y="670.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6318">    title       varchar(40),</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="702.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6326">    date_prod   date</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="734.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6328">);</tspan><tspan
-         id="tspan5363"
-         sodipodi:role="line"
-         x="120"
-         y="766.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan5366"
-         sodipodi:role="line"
-         x="120"
-         y="798.77344" /></text>
+         y="554.53906" /></text>
   </g>
   <g
      style="display:none"
-     inkscape:label="Задание ограничений"
-     id="g6341"
+     inkscape:label="Примеры изменения значений "
+     id="g4452"
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
        y="150"
-       id="text6343"
+       id="text4454"
        sodipodi:linespacing="200%"><tspan
          y="150"
          x="80"
-         id="tspan6345"
-         sodipodi:role="line">Ограничения позволяют опеределить допустимые значения полей:</tspan></text>
+         id="tspan4456"
+         sodipodi:role="line">Изменение на основе данных из других таблиц:</tspan></text>
     <rect
-       ry="20"
+       ry="20.000002"
        y="171.54688"
        x="80"
-       height="258.45312"
+       height="178.45314"
        width="1440"
-       id="rect6347"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16199994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4458"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="218.53906"
+       id="text4460"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4466"
+         sodipodi:role="line"
+         x="120"
+         y="218.53906"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace">UPDATE employees SET sales_count = sales_count + 1 FROM accounts</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="266.53906"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4490">  WHERE accounts.name = 'Acme Corporation'</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="314.53906"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="tspan4492">  AND employees.id = accounts.sales_person;</tspan><tspan
+         id="tspan4468"
+         sodipodi:role="line"
+         x="120"
+         y="362.53906" /></text>
+    <text
+       sodipodi:linespacing="200%"
+       id="text4470"
+       y="450"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4472"
+         x="80"
+         y="450">То же действие с использованием подзапроса:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4474"
+       width="1440"
+       height="118.45313"
+       x="80"
+       y="471.54691"
+       ry="20.000002" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4476"
+       y="518.53906"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4480"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="518.53906"
+         x="120"
+         sodipodi:role="line">UPDATE employees SET sales_count = sales_count + 1 WHERE id =</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="566.53906"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4496">  (SELECT sales_person FROM accounts WHERE name = 'Acme Corporation');</tspan><tspan
+         y="614.53906"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4482" /></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Результаты выполнения изменения"
+     id="g4266"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="150"
+       id="text4268"
+       sodipodi:linespacing="150%"><tspan
+         y="150"
+         x="80"
+         id="tspan4270"
+         sodipodi:role="line">В случае успешного выполнения команда UPDATE возращает</tspan><tspan
+         id="tspan4272"
+         y="210"
+         x="80"
+         sodipodi:role="line">число изменённых строк:</tspan></text>
+    <rect
+       ry="20.000002"
+       y="231.54688"
+       x="80"
+       height="78.453125"
+       width="1440"
+       id="rect4274"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="230.90625"
-       id="text6349"
+       y="282.70312"
+       id="text4276"
        sodipodi:linespacing="100%"><tspan
-         id="tspan6361"
          sodipodi:role="line"
          x="120"
-         y="230.90625"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">CREATE TABLE distributors (</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="262.90625"
+         y="282.70312"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6417">    did     serial PRIMARY KEY,</tspan><tspan
+         id="tspan4278">UPDATE count</tspan><tspan
+         id="tspan4280"
          sodipodi:role="line"
          x="120"
-         y="294.90625"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6409">    rating  integer CHECK (rating &gt;= 1 AND rating &lt;= 10),</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="326.90625"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6411">    name    varchar(40) NOT NULL</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="358.90625"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6415">    CONSTRAINT production UNIQUE(name)</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="390.90625"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6413">);</tspan><tspan
-         id="tspan6363"
-         sodipodi:role="line"
-         x="120"
-         y="422.90625"
+         y="314.70312"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6365"
+         id="tspan4282"
          sodipodi:role="line"
          x="120"
-         y="454.90625" /></text>
+         y="346.70312" /></text>
     <text
        sodipodi:linespacing="200%"
-       id="text6367"
-       y="496"
+       id="text4284"
+       y="410"
        x="80"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan6369"
+         id="tspan4286"
          x="80"
-         y="496">Внешние ключи:</tspan></text>
+         y="410">Просмотр изменённых значений:</tspan></text>
     <rect
        rx="20"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6371"
+       id="rect4288"
        width="1440"
-       height="269.22656"
+       height="178.45312"
        x="80"
-       y="520.77344"
+       y="431.54684"
+       ry="19.999998" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4290"
+       y="481.15622"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="481.15622"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4296">UPDATE weather SET temp_lo = temp_lo+1, temp_hi = temp_lo+15, prcp = DEFAULT</tspan><tspan
+         y="529.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4346">  WHERE city = 'San Francisco' AND date = '2003-07-03'</tspan><tspan
+         y="577.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4348">  RETURNING temp_lo, temp_hi, prcp;</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4498"
+     inkscape:label="Удаление данных"
+     style="display:none">
+    <text
+       sodipodi:linespacing="200%"
+       id="text4500"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4502"
+         x="80"
+         y="150">Синтаксис команды DELETE:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227818;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4504"
+       width="1440"
+       height="218.45312"
+       x="80"
+       y="171.54688"
+       ry="20" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4506"
+       y="225.15625"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="225.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4526">[ WITH [ RECURSIVE ] with_query [, ...] ]</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="257.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4598">DELETE FROM [ ONLY ] table [ * ] [ [ AS ] alias ]</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="289.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4600">    [ USING using_list ]</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="321.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4602">    [ WHERE condition | WHERE CURRENT OF cursor_name ]</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="353.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4605">    [ RETURNING * | output_expression [ [ AS ] output_name ] [, ...] ]</tspan><tspan
+         y="385.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4528" /></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4530"
+       y="490"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4532"
+         sodipodi:role="line"
+         x="80"
+         y="490">Удаление фильмов, не являющихся музыкальными:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4534"
+       width="1440"
+       height="78.453117"
+       x="80"
+       y="511.54688"
+       ry="20" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4536"
+       y="563.15625"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="563.15625"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4540">DELETE FROM films WHERE kind &lt;&gt; 'Musical';</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="670"
+       id="text4820"
+       sodipodi:linespacing="150%"><tspan
+         y="670"
+         x="80"
+         sodipodi:role="line"
+         id="tspan4822">Очистка таблицы:</tspan></text>
+    <rect
+       ry="20"
+       y="691.54688"
+       x="80"
+       height="78.453117"
+       width="1440"
+       id="rect4824"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="743.15625"
+       id="text4826"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4828"
+         sodipodi:role="line"
+         x="120"
+         y="743.15625">DELETE FROM films;</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4783"
+     inkscape:label="Примеры удаления данных"
+     style="display:none">
+    <text
+       sodipodi:linespacing="200%"
+       id="text4785"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4787"
+         x="80"
+         y="150">Удаление на основе данных из других таблиц:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4789"
+       width="1440"
+       height="118.45313"
+       x="80"
+       y="171.54688"
+       ry="20.000002" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4791"
+       y="218.53906"
+       x="120"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="218.53906"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4799">DELETE FROM films USING producers</tspan><tspan
+         y="266.53906"
+         x="120"
+         sodipodi:role="line"
+         id="tspan4844">  WHERE producer_id = producers.id AND producers.name = 'foo';</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="370"
+       id="text4801"
+       sodipodi:linespacing="200%"><tspan
+         y="370"
+         x="80"
+         id="tspan4803"
+         sodipodi:role="line">То же действие с использованием подзапроса:</tspan></text>
+    <rect
+       ry="20.000002"
+       y="391.54691"
+       x="80"
+       height="118.45313"
+       width="1440"
+       id="rect4805"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="120"
+       y="438.53906"
+       id="text4807"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4813"
+         sodipodi:role="line"
+         x="120"
+         y="438.53906">DELETE FROM films</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="486.53906"
+         id="tspan4851">  WHERE producer_id IN (SELECT id FROM producers WHERE name = 'foo');</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4751"
+     inkscape:label="Результаты выполнения удаления"
+     style="display:none">
+    <text
+       sodipodi:linespacing="150%"
+       id="text4753"
+       y="150"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4755"
+         x="80"
+         y="150">В случае успешного выполнения команда DELETE возращает</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="210"
+         id="tspan4757">число удалённых строк:</tspan></text>
+    <rect
+       rx="20"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4759"
+       width="1440"
+       height="78.453125"
+       x="80"
+       y="231.54688"
        ry="20.000002" />
     <text
        sodipodi:linespacing="100%"
-       id="text6373"
-       y="566.77344"
+       id="text4761"
+       y="282.70312"
        x="120"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
+         id="tspan4763"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="566.77344"
+         y="282.70312"
+         x="120"
+         sodipodi:role="line">DELETE count</tspan><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
+         y="314.70312"
          x="120"
          sodipodi:role="line"
-         id="tspan6375">CREATE TABLE customer (</tspan><tspan
-         id="tspan6377"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="598.77344"
-         x="120"
-         sodipodi:role="line">    cid        integer,</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="630.77344"
+         id="tspan4765" /><tspan
+         y="346.70312"
          x="120"
          sodipodi:role="line"
-         id="tspan6419">    did        integer REFERENCES distributors,</tspan><tspan
-         id="tspan6379"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="662.77344"
-         x="120"
-         sodipodi:role="line">    name       varchar(40) UNIQUE,</tspan><tspan
-         id="tspan6381"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="694.77344"
-         x="120"
-         sodipodi:role="line">    modtime    timestamp DEFAULT current_timestamp</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="726.77344"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6421">    PRIMARY KEY(cid)</tspan><tspan
-         id="tspan6383"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="758.77344"
-         x="120"
-         sodipodi:role="line">);</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="790.77344"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6385" /><tspan
-         y="822.77344"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6387" /></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g6423"
-     inkscape:label="Создание доменов"
-     style="display:none">
-    <text
-       sodipodi:linespacing="200%"
-       id="text6425"
-       y="150"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6427"
-         x="80"
-         y="150">Домены представляют собой типы данных с ограничениями:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.1619997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6429"
-       width="1440"
-       height="198.45311"
-       x="80"
-       y="171.54686"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6431"
-       y="232.82028"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan6443"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="232.82028"
-         x="120"
-         sodipodi:role="line">CREATE DOMAIN name [ AS ] data_type</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="264.82028"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6496">    [ COLLATE collation ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="296.82028"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6498">    [ DEFAULT expression ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="328.82028"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6500">    [ constraint [ ... ] ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="360.82028"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6445" /><tspan
-         y="392.82028"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6447" /></text>
+         id="tspan4767" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
-       y="456"
-       id="text6449"
+       y="390"
+       id="text4769"
        sodipodi:linespacing="200%"><tspan
-         y="456"
+         y="390"
          x="80"
-         id="tspan6451"
-         sodipodi:role="line">Пример определения домена:</tspan></text>
+         id="tspan4771"
+         sodipodi:role="line">Просмотр  удалённых строк:</tspan></text>
     <rect
-       ry="20.000002"
-       y="480.77344"
+       ry="19.999998"
+       y="411.54684"
        x="80"
-       height="209.22656"
+       height="78.45314"
        width="1440"
-       id="rect6454"
+       id="rect4773"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="526.77344"
-       id="text6456"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6472"
+       y="461.15622"
+       id="text4775"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan4781"
          sodipodi:role="line"
          x="120"
-         y="526.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">CREATE DOMAIN us_postal_code AS TEXT</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="558.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6537">CHECK(</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="590.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6539">   VALUE ~ '^\d{5}$'</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="622.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6541">OR VALUE ~ '^\d{5}-\d{4}$'</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="654.77344"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6543">);</tspan><tspan
-         id="tspan6474"
-         sodipodi:role="line"
-         x="120"
-         y="686.77344" /></text>
+         y="461.15622">UDELETE FROM tasks WHERE status = 'DONE' RETURNING *;</tspan></text>
   </g>
   <g
      style="display:none"
-     inkscape:label="Изменение ролей"
-     id="g6545"
+     inkscape:label="Быстрая очистка таблиц"
+     id="g4609"
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="80"
        y="150"
-       id="text6547"
-       sodipodi:linespacing="200%"><tspan
+       id="text4632"
+       sodipodi:linespacing="150%"><tspan
          y="150"
          x="80"
-         id="tspan6549"
-         sodipodi:role="line">Изменение роли:</tspan></text>
+         sodipodi:role="line"
+         id="tspan4634">Синтаксис команды TRUNCATE:</tspan></text>
     <rect
        ry="20"
-       y="171.54688"
+       y="171.54692"
        x="80"
-       height="78.453125"
+       height="98.453117"
        width="1440"
-       id="rect6551"
+       id="rect4636"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        rx="20" />
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="219.60156"
-       id="text6553"
+       y="213.15625"
+       id="text4638"
        sodipodi:linespacing="100%"><tspan
-         id="tspan6555"
+         id="tspan4640"
          sodipodi:role="line"
          x="120"
-         y="219.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER ROLE name [ [ WITH ] option [ ... ] ]</tspan><tspan
-         id="tspan6557"
+         y="213.15625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">TRUNCATE [ TABLE ] [ ONLY ] name [ * ] [, ... ]</tspan><tspan
+         id="tspan4642"
          sodipodi:role="line"
          x="120"
-         y="251.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6559"
+         y="245.15625"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">    [ RESTART IDENTITY | CONTINUE IDENTITY ] [ CASCADE | RESTRICT ]</tspan><tspan
+         id="tspan4644"
          sodipodi:role="line"
          x="120"
-         y="283.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6561"
-         sodipodi:role="line"
-         x="120"
-         y="315.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6563"
-       y="330"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6566"
+         y="277.15625" /></text>
+    <g
+       id="g4694"
+       transform="translate(0,-26.666642)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          x="80"
-         y="330">Смена пароля:</tspan></text>
+         y="370"
+         id="text4646"
+         sodipodi:linespacing="150%"><tspan
+           y="370"
+           x="80"
+           sodipodi:role="line"
+           id="tspan4648">Быстрая очистка нескольких таблиц:</tspan></text>
+      <rect
+         ry="20"
+         y="391.54684"
+         x="80"
+         height="78.453117"
+         width="1440"
+         id="rect4650"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         rx="20" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="120"
+         y="443.15625"
+         id="text4652"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan4659"
+           sodipodi:role="line"
+           x="120"
+           y="443.15625">TRUNCATE bigtable, fattable;</tspan></text>
+    </g>
+    <g
+       id="g4687"
+       transform="translate(0,-33.333329)">
+      <text
+         sodipodi:linespacing="150%"
+         id="text4667"
+         y="550"
+         x="80"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4669"
+           sodipodi:role="line"
+           x="80"
+           y="550">Быстрая очистка со сбросом генераторов для идентификаторов:</tspan></text>
+      <rect
+         rx="20"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect4671"
+         width="1440"
+         height="78.453117"
+         x="80"
+         y="571.54688"
+         ry="20" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4673"
+         y="623.15625"
+         x="120"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="623.15625"
+           x="120"
+           sodipodi:role="line"
+           id="tspan4675">TRUNCATE bigtable, fattable RESTART IDENTITY;</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4677"
+       y="690"
+       x="80"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4679"
+         sodipodi:role="line"
+         x="80"
+         y="690">Очистка указанной таблицы и всех, ссылающихся на неё:</tspan></text>
     <rect
        rx="20"
        style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6568"
+       id="rect4681"
        width="1440"
-       height="78.453125"
+       height="78.453117"
        x="80"
-       y="351.54688"
+       y="711.54688"
        ry="20" />
     <text
        sodipodi:linespacing="100%"
-       id="text6570"
-       y="399.60156"
+       id="text4683"
+       y="763.15625"
        x="120"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="399.60156"
+         y="763.15625"
          x="120"
          sodipodi:role="line"
-         id="tspan6572">ALTER USER student WITH PASSWORD 'hqwer763';</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="431.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6574" /><tspan
-         y="463.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6576" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="510"
-       id="text6578"
-       sodipodi:linespacing="200%"><tspan
-         y="510"
-         x="80"
-         id="tspan6580"
-         sodipodi:role="line">Переименование роли:</tspan></text>
-    <rect
-       ry="20"
-       y="531.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6582"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="579.24219"
-       id="text6584"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6586"
-         sodipodi:role="line"
-         x="120"
-         y="579.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER ROLE name RENAME TO new_name;</tspan><tspan
-         id="tspan6588"
-         sodipodi:role="line"
-         x="120"
-         y="611.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6590"
-         sodipodi:role="line"
-         x="120"
-         y="643.24219" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6592"
-       y="692"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6594"
-         x="80"
-         y="692">Изменение времени жизни роли:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6596"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="713.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6598"
-       y="761.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="761.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6600">ALTER ROLE chris VALID UNTIL 'May 4 12:00:00 2015 +1';</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="793.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6602" /><tspan
-         y="825.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6604" /></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g6648"
-     inkscape:label="Изменение баз данных"
-     style="display:none">
-    <text
-       sodipodi:linespacing="200%"
-       id="text6650"
-       y="150"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6652"
-         x="80"
-         y="150">Изменение базы данных:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6654"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="171.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6656"
-       y="219.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="219.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6658">ALTER DATABASE name [ [ WITH ] option [ ... ] ]</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="251.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6660" /><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="283.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6662" /><tspan
-         y="315.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6664" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="330"
-       id="text6666"
-       sodipodi:linespacing="200%"><tspan
-         y="330"
-         x="80"
-         id="tspan6668"
-         sodipodi:role="line">Смена владельца:</tspan></text>
-    <rect
-       ry="20"
-       y="351.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6670"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="399.60156"
-       id="text6672"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6674"
-         sodipodi:role="line"
-         x="120"
-         y="399.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER DATABASE name OWNER TO new_owner;</tspan><tspan
-         id="tspan6676"
-         sodipodi:role="line"
-         x="120"
-         y="431.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6678"
-         sodipodi:role="line"
-         x="120"
-         y="463.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6680"
-       y="510"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6682"
-         x="80"
-         y="510">Переименование базы данных:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6684"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="531.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6686"
-       y="579.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="579.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6688">ALTER DATABASE name RENAME TO new_name;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="611.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6690" /><tspan
-         y="643.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6692" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="692"
-       id="text6694"
-       sodipodi:linespacing="200%"><tspan
-         y="692"
-         x="80"
-         id="tspan6696"
-         sodipodi:role="line">Изменение настроек базы данных:</tspan></text>
-    <rect
-       ry="20"
-       y="713.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6698"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="761.24219"
-       id="text6700"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6702"
-         sodipodi:role="line"
-         x="120"
-         y="761.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER DATABASE test SET enable_indexscan TO off;</tspan><tspan
-         id="tspan6704"
-         sodipodi:role="line"
-         x="120"
-         y="793.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6706"
-         sodipodi:role="line"
-         x="120"
-         y="825.24219" /></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Изменение схем"
-     id="g6899"
-     inkscape:groupmode="layer">
-    <text
-       sodipodi:linespacing="200%"
-       id="text6917"
-       y="150"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6919"
-         x="80"
-         y="150">Смена владельца:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6921"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="171.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6923"
-       y="219.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="219.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6925">ALTER SCHEMA name OWNER TO new_owner;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="251.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6927" /><tspan
-         y="283.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6929" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="330"
-       id="text6931"
-       sodipodi:linespacing="200%"><tspan
-         y="330"
-         x="80"
-         id="tspan6933"
-         sodipodi:role="line">Переименование схемы:</tspan></text>
-    <rect
-       ry="20"
-       y="351.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6935"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="399.24219"
-       id="text6937"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6939"
-         sodipodi:role="line"
-         x="120"
-         y="399.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER SCHEMA name RENAME TO new_name;</tspan><tspan
-         id="tspan6941"
-         sodipodi:role="line"
-         x="120"
-         y="431.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6943"
-         sodipodi:role="line"
-         x="120"
-         y="463.24219" /></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Изменение таблиц"
-     id="g6708"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="150"
-       id="text6710"
-       sodipodi:linespacing="200%"><tspan
-         y="150"
-         x="80"
-         id="tspan6713"
-         sodipodi:role="line">Изменение таблицы:</tspan></text>
-    <rect
-       ry="20"
-       y="171.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6715"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="219.60156"
-       id="text6717"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="219.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan6769">ALTER TABLE [ IF EXISTS ] [ ONLY ] name [ * ] action [, ... ]</tspan><tspan
-         id="tspan6721"
-         sodipodi:role="line"
-         x="120"
-         y="251.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6723"
-         sodipodi:role="line"
-         x="120"
-         y="283.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6725"
-         sodipodi:role="line"
-         x="120"
-         y="315.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6727"
-       y="330"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6729"
-         x="80"
-         y="330">Смена схемы:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6731"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="351.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6733"
-       y="399.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="399.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6735">ALTER TABLE myschema.distributors SET SCHEMA yourschema;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="431.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6737" /><tspan
-         y="463.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6739" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="510"
-       id="text6741"
-       sodipodi:linespacing="200%"><tspan
-         y="510"
-         x="80"
-         id="tspan6743"
-         sodipodi:role="line">Переименование таблицы:</tspan></text>
-    <rect
-       ry="20"
-       y="531.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect6745"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="579.24219"
-       id="text6747"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan6749"
-         sodipodi:role="line"
-         x="120"
-         y="579.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER TABLE distributors RENAME TO suppliers;</tspan><tspan
-         id="tspan6751"
-         sodipodi:role="line"
-         x="120"
-         y="611.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6753"
-         sodipodi:role="line"
-         x="120"
-         y="643.24219" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6755"
-       y="692"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6757"
-         x="80"
-         y="692">Указание первичного ключа:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6759"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="713.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6761"
-       y="761.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="761.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6763">ALTER TABLE distributors ADD PRIMARY KEY (dist_id);</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="793.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6765" /><tspan
-         y="825.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6767" /></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g6959"
-     inkscape:label="Изменение столбцов"
-     style="display:none">
-    <text
-       sodipodi:linespacing="200%"
-       id="text6961"
-       y="150"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan6963"
-         x="80"
-         y="150">Добавление столбца:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6965"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="171.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6967"
-       y="219.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan6969"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="219.60156"
-         x="120"
-         sodipodi:role="line">ALTER TABLE distributors ADD COLUMN address varchar(30);</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="251.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6971" /><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="283.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6973" /><tspan
-         y="315.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6975" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="330"
-       id="text6977"
-       sodipodi:linespacing="200%"><tspan
-         y="330"
-         x="80"
-         id="tspan6979"
-         sodipodi:role="line">Смена типа столбцов:</tspan></text>
-    <rect
-       ry="20"
-       y="351.54688"
-       x="80"
-       height="138.45312"
-       width="1440"
-       id="rect6981"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.1622777;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="398.6875"
-       id="text6983"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="398.6875"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan7081">ALTER TABLE distributors</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="430.6875"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan7091">    ALTER COLUMN address TYPE varchar(80),</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="462.6875"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan7093">    ALTER COLUMN name TYPE varchar(100);</tspan><tspan
-         id="tspan6987"
-         sodipodi:role="line"
-         x="120"
-         y="494.6875"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan6989"
-         sodipodi:role="line"
-         x="120"
-         y="526.6875" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6991"
-       y="570"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         x="80"
-         y="570"
-         id="tspan7087">Переименование столбца:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect6995"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="591.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text6997"
-       y="639.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="639.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan6999">ALTER TABLE distributors RENAME COLUMN address TO city;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="671.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7001" /><tspan
-         y="703.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7003" /></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Изменение ограничений"
-     id="g7019"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="150"
-       id="text7021"
-       sodipodi:linespacing="200%"><tspan
-         y="150"
-         x="80"
-         id="tspan7023"
-         sodipodi:role="line">Переименование ограничения:</tspan></text>
-    <rect
-       ry="20"
-       y="171.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7025"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="219.60156"
-       id="text7027"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="219.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan7029">ALTER TABLE distributors RENAME CONSTRAINT zipchk TO zip_check;</tspan><tspan
-         id="tspan7031"
-         sodipodi:role="line"
-         x="120"
-         y="251.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7033"
-         sodipodi:role="line"
-         x="120"
-         y="283.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7035"
-         sodipodi:role="line"
-         x="120"
-         y="315.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text7037"
-       y="330"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7039"
-         x="80"
-         y="330">Задание ограничения:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7041"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="351.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7043"
-       y="399.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="399.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7045">ALTER TABLE distributors ALTER COLUMN street SET NOT NULL;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="431.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7047" /><tspan
-         y="463.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7049" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="510"
-       id="text7051"
-       sodipodi:linespacing="200%"><tspan
-         y="510"
-         x="80"
-         id="tspan7053"
-         sodipodi:role="line">Создание дополнительных ограничений:</tspan></text>
-    <rect
-       ry="20"
-       y="531.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7055"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="579.24219"
-       id="text7057"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan7059"
-         sodipodi:role="line"
-         x="120"
-         y="579.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER TABLE distributors ADD CONSTRAINT zipchk CHECK (zipcode &lt;&gt; '');</tspan><tspan
-         id="tspan7061"
-         sodipodi:role="line"
-         x="120"
-         y="611.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7063"
-         sodipodi:role="line"
-         x="120"
-         y="643.24219" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text7065"
-       y="692"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7067"
-         x="80"
-         y="692">Задание многоколоночного ограничения:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7069"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="713.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7071"
-       y="761.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="761.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7073">ALTER TABLE distributors ADD CONSTRAINT dist_key UNIQUE (did, zipcode);</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="793.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7075" /><tspan
-         y="825.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7077" /></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g7205"
-     inkscape:label="Удаление объектов"
-     style="display:none">
-    <text
-       sodipodi:linespacing="200%"
-       id="text7207"
-       y="150"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7209"
-         x="80"
-         y="150">Удаление ролей:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7211"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="171.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7213"
-       y="219.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7215"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="219.60156"
-         x="120"
-         sodipodi:role="line">DROP ROLE [ IF EXISTS ] name [, ...];</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="251.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7217" /><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="283.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7219" /><tspan
-         y="315.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7221" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="330"
-       id="text7223"
-       sodipodi:linespacing="200%"><tspan
-         y="330"
-         x="80"
-         id="tspan7225"
-         sodipodi:role="line">Удаление баз данных:</tspan></text>
-    <rect
-       ry="20"
-       y="351.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7227"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="399.60156"
-       id="text7229"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan7231"
-         sodipodi:role="line"
-         x="120"
-         y="399.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">DROP DATABASE [ IF EXISTS ] name;</tspan><tspan
-         id="tspan7233"
-         sodipodi:role="line"
-         x="120"
-         y="431.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7235"
-         sodipodi:role="line"
-         x="120"
-         y="463.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text7237"
-       y="510"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7239"
-         x="80"
-         y="510">Удаление схем:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7241"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="531.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7243"
-       y="579.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="579.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7245">DROP SCHEMA [ IF EXISTS ] name [, ...] [ CASCADE | RESTRICT ];</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="611.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7247" /><tspan
-         y="643.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7249" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="692"
-       id="text7251"
-       sodipodi:linespacing="200%"><tspan
-         y="692"
-         x="80"
-         id="tspan7253"
-         sodipodi:role="line">Удаление таблиц:</tspan></text>
-    <rect
-       ry="20"
-       y="713.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7255"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="761.24219"
-       id="text7257"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan7259"
-         sodipodi:role="line"
-         x="120"
-         y="761.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">DROP TABLE [ IF EXISTS ] name [, ...] [ CASCADE | RESTRICT ];</tspan><tspan
-         id="tspan7261"
-         sodipodi:role="line"
-         x="120"
-         y="793.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7263"
-         sodipodi:role="line"
-         x="120"
-         y="825.24219" /></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Удаление столбцов и ограничений"
-     id="g7265"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="150"
-       id="text7267"
-       sodipodi:linespacing="200%"><tspan
-         y="150"
-         x="80"
-         id="tspan7269"
-         sodipodi:role="line">Удаление стобцов:</tspan></text>
-    <rect
-       ry="20"
-       y="171.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7271"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="219.60156"
-       id="text7273"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="120"
-         y="219.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan7275">ALTER TABLE distributors DROP COLUMN address RESTRICT;</tspan><tspan
-         id="tspan7277"
-         sodipodi:role="line"
-         x="120"
-         y="251.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7279"
-         sodipodi:role="line"
-         x="120"
-         y="283.60156"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7281"
-         sodipodi:role="line"
-         x="120"
-         y="315.60156" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text7283"
-       y="330"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7285"
-         x="80"
-         y="330">Удаление ограничения:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7287"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="351.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7289"
-       y="399.60156"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="399.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7291">ALTER TABLE distributors DROP CONSTRAINT zipchk;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="431.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7293" /><tspan
-         y="463.60156"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7295" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="80"
-       y="510"
-       id="text7297"
-       sodipodi:linespacing="200%"><tspan
-         y="510"
-         x="80"
-         id="tspan7299"
-         sodipodi:role="line">Удаление ограничения:</tspan></text>
-    <rect
-       ry="20"
-       y="531.54688"
-       x="80"
-       height="78.453125"
-       width="1440"
-       id="rect7301"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="579.24219"
-       id="text7303"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan7305"
-         sodipodi:role="line"
-         x="120"
-         y="579.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace">ALTER TABLE distributors ALTER COLUMN street DROP NOT NULL;</tspan><tspan
-         id="tspan7307"
-         sodipodi:role="line"
-         x="120"
-         y="611.24219"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
-         id="tspan7309"
-         sodipodi:role="line"
-         x="120"
-         y="643.24219" /></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text7311"
-       y="692"
-       x="80"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7313"
-         x="80"
-         y="692">Удаление значения по умолчанию:</tspan></text>
-    <rect
-       rx="20"
-       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:3.16227794;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect7315"
-       width="1440"
-       height="78.453125"
-       x="80"
-       y="713.54688"
-       ry="20" />
-    <text
-       sodipodi:linespacing="100%"
-       id="text7317"
-       y="761.24219"
-       x="120"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="761.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7325">ALTER TABLE foo ALTER COLUMN foo_timestamp DROP DEFAULT;</tspan><tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Monospace;-inkscape-font-specification:Monospace"
-         y="793.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7321" /><tspan
-         y="825.24219"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7323" /></text>
+         id="tspan4685">TRUNCATE othertable CASCADE;</tspan></text>
   </g>
   <g
      style="display:none"
@@ -5302,14 +4332,10 @@
          y="150.68353"
          x="120"
          sodipodi:role="line"
-         id="tspan9880">Подключитесь к серверу 192.168.1.100 от имени пользователя</tspan><tspan
-         y="190.68353"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7334">postgres.</tspan></text>
+         id="tspan7334">Подключитесь к БД, созданной на предыдущем занятии.</tspan></text>
     <g
        id="g10236-1-4"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,144.99994)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,124.64838)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -5376,21 +4402,17 @@
     <text
        sodipodi:linespacing="100%"
        id="text27360"
-       y="351.26947"
+       y="337.89056"
        x="120"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          x="120"
-         y="351.26947"
-         id="tspan7346">Создайте БД, владельцем которой должен оказаться ваш</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="391.26947"
-         id="tspan7350">пользователь. Имя БД должно совпадат с именем пользователя. </tspan></text>
+         y="337.89056"
+         id="tspan7350">Создайте и заполните таблицу с названиями предметов.</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,344.20893)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,311.51362)"
        id="g27366">
       <g
          id="g27368"
@@ -5458,16 +4480,16 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="270.9765"
+       y="244.28705"
        id="text9731"
        sodipodi:linespacing="100%"><tspan
-         y="270.9765"
+         y="244.28705"
          x="120"
          sodipodi:role="line"
-         id="tspan9814">Создайте вашего пользователя и задайте ему пароль. </tspan></text>
+         id="tspan9814">Заполните таблицы факультельтетов, кафедр, групп и студентов. </tspan></text>
     <g
        id="g9739"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,244.94135)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,217.9101)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -5534,17 +4556,21 @@
     <text
        sodipodi:linespacing="100%"
        id="text9769"
-       y="469.51166"
+       y="431.49408"
        x="120"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          x="120"
-         y="469.51166"
-         id="tspan9823">Переподключитесь к новой БД от имени вашего пользователя. </tspan></text>
+         y="431.49408"
+         id="tspan9823">Создайте и заполните таблицу с оценками студентов по всем</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="471.49408"
+         id="tspan4857">предметам. </tspan></text>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,443.47651)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,425.11713)"
        id="g9777">
       <g
          id="g9779"
@@ -5610,7 +4636,7 @@
     </g>
     <g
        id="g9833"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,624.06244)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,650.4101)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -5678,20 +4704,20 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="630.0976"
+       y="656.78705"
        id="text7396"
        sodipodi:linespacing="100%"><tspan
-         y="630.0976"
+         y="656.78705"
          x="120"
          sodipodi:role="line"
-         id="tspan7398">В схеме mephi создайте домен fname, определяющий допустимые</tspan><tspan
-         y="670.0976"
+         id="tspan7468">Удалите из групп всех студентов, кто получил хотя бы одну</tspan><tspan
+         y="696.78705"
          x="120"
          sodipodi:role="line"
-         id="tspan7468">краткие имена факультетов. </tspan></text>
+         id="tspan4861">неудовлетворительную оценку. </tspan></text>
     <g
        id="g7400"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,744.35541)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,764.01362)"
        style="display:inline">
       <g
          style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
@@ -5758,32 +4784,28 @@
     <text
        sodipodi:linespacing="100%"
        id="text7430"
-       y="549.80463"
+       y="563.18353"
        x="120"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan7432"
          sodipodi:role="line"
          x="120"
-         y="549.80463">Создайте схему mephi. </tspan></text>
+         y="563.18353">Увеличте номер семестра в названии групп. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="120"
-       y="750.39056"
+       y="790.39056"
        id="text7434"
        sodipodi:linespacing="100%"><tspan
-         y="750.39056"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7436">В схеме mephi создайте домен gname, определяющий допустимые</tspan><tspan
          y="790.39056"
          x="120"
          sodipodi:role="line"
-         id="tspan7470">имена групп.</tspan></text>
+         id="tspan7470">Сбросьте значения оценок оставшихся студентов.</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,523.76947)"
+       transform="matrix(0.0673571,0,0,0.0673571,68.534688,537.76362)"
        id="g7438">
       <g
          id="g7440"
@@ -5845,571 +4867,6 @@
            style="stroke-width:3"
            d="M 0,60.232"
            id="path7466" />
-      </g>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g7472"
-     inkscape:label="Практика"
-     style="display:none">
-    <text
-       sodipodi:linespacing="100%"
-       id="text7474"
-       y="150.68353"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7478"
-         sodipodi:role="line"
-         x="120"
-         y="150.68353">В схеме mephi создайте таблицу faculties, имеющую</tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="190.68353"
-         id="tspan7756">целочисленный автоинкрементируемый первичный ключ id и </tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="230.68353"
-         id="tspan7762">краткое имя типа fname.</tspan></text>
-    <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,160.42963)"
-       id="g7480">
-      <g
-         id="g7482"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
-      <g
-         id="g7484"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path7486" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path7488" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path7490" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path7492" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path7494" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path7496" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path7498" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path7500" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path7502" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path7504" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path7506" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
-           d="M 0,60.232"
-           id="path7508" />
-      </g>
-    </g>
-    <g
-       id="g7516"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,445.80399)"
-       style="display:inline">
-      <g
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
-         id="g7518" />
-      <g
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-         id="g7520">
-        <path
-           id="path7522"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7524"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           style="fill:#336791;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7526"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7528"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7530"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7532"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           style="stroke-linejoin:bevel"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7534"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7536"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7538"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7540"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7542"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7544"
-           d="M 0,60.232"
-           style="stroke-width:3"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       sodipodi:linespacing="100%"
-       id="text7546"
-       y="297.5553"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7548"
-         sodipodi:role="line"
-         x="120"
-         y="297.5553">В схеме mephi создайте таблицу cafedra, имеющую </tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="337.5553"
-         id="tspan7766">целочисленный автоинкрементируемый первичный ключ id, </tspan><tspan
-         sodipodi:role="line"
-         x="120"
-         y="377.5553"
-         id="tspan7770">номер и ссылку на факультет.</tspan></text>
-    <g
-       id="g7584"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,540.42963)"
-       style="display:inline">
-      <g
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
-         id="g7586" />
-      <g
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-         id="g7588">
-        <path
-           id="path7590"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7592"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           style="fill:#336791;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7594"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7596"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7598"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7600"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           style="stroke-linejoin:bevel"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7602"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7604"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7606"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7608"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7610"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7612"
-           d="M 0,60.232"
-           style="stroke-width:3"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,689.68091)"
-       id="g7614">
-      <g
-         id="g7616"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
-      <g
-         id="g7618"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path7620" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path7622" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path7624" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path7626" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path7628" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path7630" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path7632" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path7634" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path7636" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path7638" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path7640" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
-           d="M 0,60.232"
-           id="path7642" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="790.68353"
-       id="text7644"
-       sodipodi:linespacing="100%"><tspan
-         y="790.68353"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7646">Добавьте ограничение допустимый диапазон номеров групп.</tspan></text>
-    <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,764.30658)"
-       id="g7684">
-      <g
-         id="g7686"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
-      <g
-         id="g7688"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path7690" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path7692" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path7694" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path7696" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path7698" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path7700" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path7702" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path7704" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path7706" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path7708" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path7710" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
-           d="M 0,60.232"
-           id="path7712" />
-      </g>
-    </g>
-    <g
-       id="g7724"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,615.0553)"
-       style="display:inline">
-      <g
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
-         id="g7726" />
-      <g
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-         id="g7728">
-        <path
-           id="path7730"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7732"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           style="fill:#336791;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7734"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7736"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7738"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7740"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           style="stroke-linejoin:bevel"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7742"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7744"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7746"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7748"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7750"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path7752"
-           d="M 0,60.232"
-           style="stroke-width:3"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="452.18094"
-       id="text7780"
-       sodipodi:linespacing="100%"><tspan
-         id="tspan7786"
-         y="452.18094"
-         x="120"
-         sodipodi:role="line">В схеме mephi создайте таблицы groups и students, связанные</tspan><tspan
-         y="492.18094"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7793">между собой и с существующими таблицами.</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text7795"
-       y="566.80658"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7799"
-         sodipodi:role="line"
-         x="120"
-         y="566.80658">Измените название таблицы cafedra на departments.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="120"
-       y="641.43225"
-       id="text7803"
-       sodipodi:linespacing="100%"><tspan
-         y="641.43225"
-         x="120"
-         sodipodi:role="line"
-         id="tspan7805">Добавьте в таблицу faculties столбец для хранения полного имени.</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text7807"
-       y="716.05786"
-       x="120"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7809"
-         sodipodi:role="line"
-         x="120"
-         y="716.05786">Измените тип столбца с именем группы на gname.</tspan></text>
-    <g
-       style="display:inline"
-       transform="matrix(0.0673571,0,0,0.0673571,68.534688,311.17835)"
-       id="g7811">
-      <g
-         id="g7813"
-         style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4" />
-      <g
-         id="g7815"
-         style="fill:none;stroke:#ffffff;stroke-width:12.46510029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#000000;stroke-width:37.39530182;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 323.205,324.227 c 2.833,-23.601 1.984,-27.062 19.563,-23.239 l 4.463,0.392 c 13.517,0.615 31.199,-2.174 41.587,-7 22.362,-10.376 35.622,-27.7 13.572,-23.148 -50.297,10.376 -53.755,-6.655 -53.755,-6.655 C 401.746,185.774 423.948,85.741 404.784,61.255 352.514,-5.534 262.036,26.049 260.522,26.869 l -0.482,0.089 c -9.938,-2.062 -21.06,-3.294 -33.554,-3.496 -22.761,-0.374 -40.032,5.967 -53.133,15.904 0,0 -161.408,-66.498 -153.899,83.628 1.597,31.936 45.777,241.655 98.47,178.31 19.259,-23.163 37.871,-42.748 37.871,-42.748 9.242,6.14 20.307,9.272 31.912,8.147 l 0.897,-0.765 c -0.281,2.876 -0.157,5.689 0.359,9.019 -13.572,15.167 -9.584,17.83 -36.723,23.416 -27.457,5.659 -11.326,15.734 -0.797,18.367 12.768,3.193 42.305,7.716 62.268,-20.224 l -0.795,3.188 c 5.325,4.26 4.965,30.619 5.72,49.452 0.756,18.834 2.017,36.409 5.856,46.771 3.839,10.36 8.369,37.05 44.036,29.406 29.809,-6.388 52.6,-15.582 54.677,-101.107"
-           id="path7817" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#336791;stroke:none"
-           d="m 402.395,271.23 c -50.302,10.376 -53.76,-6.655 -53.76,-6.655 53.111,-78.808 75.313,-178.843 56.153,-203.326 -52.27,-66.785 -142.752,-35.2 -144.262,-34.38 l -0.486,0.087 c -9.938,-2.063 -21.06,-3.292 -33.56,-3.496 -22.761,-0.373 -40.026,5.967 -53.127,15.902 0,0 -161.411,-66.495 -153.904,83.63 1.597,31.938 45.776,241.657 98.471,178.312 19.26,-23.163 37.869,-42.748 37.869,-42.748 9.243,6.14 20.308,9.272 31.908,8.147 l 0.901,-0.765 c -0.28,2.876 -0.152,5.689 0.361,9.019 -13.575,15.167 -9.586,17.83 -36.723,23.416 -27.459,5.659 -11.328,15.734 -0.796,18.367 12.768,3.193 42.307,7.716 62.266,-20.224 l -0.796,3.188 c 5.319,4.26 9.054,27.711 8.428,48.969 -0.626,21.259 -1.044,35.854 3.147,47.254 4.191,11.4 8.368,37.05 44.042,29.406 29.809,-6.388 45.256,-22.942 47.405,-50.555 1.525,-19.631 4.976,-16.729 5.194,-34.28 l 2.768,-8.309 c 3.192,-26.611 0.507,-35.196 18.872,-31.203 l 4.463,0.392 c 13.517,0.615 31.208,-2.174 41.591,-7 22.358,-10.376 35.618,-27.7 13.573,-23.148 z"
-           id="path7819" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 215.866,286.484 c -1.385,49.516 0.348,99.377 5.193,111.495 4.848,12.118 15.223,35.688 50.9,28.045 29.806,-6.39 40.651,-18.756 45.357,-46.051 3.466,-20.082 10.148,-75.854 11.005,-87.281"
-           id="path7821" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 173.104,38.256 c 0,0 -161.521,-66.016 -154.012,84.109 1.597,31.938 45.779,241.664 98.473,178.316 19.256,-23.166 36.671,-41.335 36.671,-41.335"
-           id="path7823" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 260.349,26.207 c -5.591,1.753 89.848,-34.889 144.087,34.417 19.159,24.484 -3.043,124.519 -56.153,203.329"
-           id="path7825" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-linejoin:bevel"
-           d="m 348.282,263.953 c 0,0 3.461,17.036 53.764,6.653 22.04,-4.552 8.776,12.774 -13.577,23.155 -18.345,8.514 -59.474,10.696 -60.146,-1.069 -1.729,-30.355 21.647,-21.133 19.96,-28.739 -1.525,-6.85 -11.979,-13.573 -18.894,-30.338 -6.037,-14.633 -82.796,-126.849 21.287,-110.183 3.813,-0.789 -27.146,-99.002 -124.553,-100.599 -97.385,-1.597 -94.19,119.762 -94.19,119.762"
-           id="path7827" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 188.604,274.334 c -13.577,15.166 -9.584,17.829 -36.723,23.417 -27.459,5.66 -11.326,15.733 -0.797,18.365 12.768,3.195 42.307,7.718 62.266,-20.229 6.078,-8.509 -0.036,-22.086 -8.385,-25.547 -4.034,-1.671 -9.428,-3.765 -16.361,3.994 z"
-           id="path7829" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 187.715,274.069 c -1.368,-8.917 2.93,-19.528 7.536,-31.942 6.922,-18.626 22.893,-37.255 10.117,-96.339 -9.523,-44.029 -73.396,-9.163 -73.436,-3.193 -0.039,5.968 2.889,30.26 -1.067,58.548 -5.162,36.913 23.488,68.132 56.479,64.938"
-           id="path7831" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:4.15500021;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 172.517,141.7 c -0.288,2.039 3.733,7.48 8.976,8.207 5.234,0.73 9.714,-3.522 9.998,-5.559 0.284,-2.039 -3.732,-4.285 -8.977,-5.015 -5.237,-0.731 -9.719,0.333 -9.996,2.367 z"
-           id="path7833" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-width:2.0775001;stroke-linecap:butt;stroke-linejoin:miter"
-           d="m 331.941,137.543 c 0.284,2.039 -3.732,7.48 -8.976,8.207 -5.238,0.73 -9.718,-3.522 -10.005,-5.559 -0.277,-2.039 3.74,-4.285 8.979,-5.015 5.239,-0.73 9.718,0.333 10.002,2.368 z"
-           id="path7835" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 350.676,123.432 c 0.863,15.994 -3.445,26.888 -3.988,43.914 -0.804,24.748 11.799,53.074 -7.191,81.435"
-           id="path7837" />
-        <path
-           inkscape:connector-curvature="0"
-           style="stroke-width:3"
-           d="M 0,60.232"
-           id="path7839" />
       </g>
     </g>
   </g>
@@ -6487,7 +4944,7 @@
     <a
        style="opacity:0.98999999;fill:#800080"
        transform="translate(2.7539063,-240)"
-       xlink:href="https://ru.wikipedia.org/wiki/Data_Definition_Language"
+       xlink:href="https://ru.wikipedia.org/wiki/Data_Manipulation_Language"
        id="a22495">
       <text
          xml:space="preserve"
@@ -6499,7 +4956,7 @@
            id="tspan6512"
            y="390"
            x="117.24609"
-           sodipodi:role="line">Wikipedia: Data Definition Language</tspan><tspan
+           sodipodi:role="line">Wikipedia: Data Manipulation Language</tspan><tspan
            y="470"
            x="117.24609"
            sodipodi:role="line"
