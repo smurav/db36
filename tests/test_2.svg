@@ -28,10 +28,10 @@
      inkscape:cx="591.15285"
      inkscape:cy="372.00692"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1150"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2285,7 +2285,7 @@
          id="tspan9304"
          y="881.53516"
          x="31.882812"
-         sodipodi:role="line">Базовая функциональность PostgreSQL</tspan></text>
+         sodipodi:role="line">Основы SQL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
