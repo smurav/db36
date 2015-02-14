@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="450.07492"
-     inkscape:cy="412.12063"
+     inkscape:cx="980.11629"
+     inkscape:cy="455.5292"
      inkscape:document-units="px"
-     inkscape:current-layer="g6769"
+     inkscape:current-layer="g17726"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1148"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2709,7 +2709,7 @@
          style="font-size:72px">Аутентификация в PostgreSQL</tspan><tspan
          sodipodi:role="line"
          x="801.2594"
-         y="653.87433"
+         y="654.14502"
          style="font-size:48px;fill:#203d85;fill-opacity:1"
          id="tspan8919">Муравьёв С.К.</tspan></text>
   </g>
@@ -8520,8 +8520,7 @@
      style="display:none"
      inkscape:label="Закрытый ключ клиента"
      id="g17594"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <a
        id="a3707-6-7"
        xlink:href="http://www.postgresql.org/download/"
@@ -8536,7 +8535,7 @@
            sodipodi:role="line"
            x="80"
            y="150"
-           id="tspan17270-8">Создание закрытого ключа сервера:</tspan></text>
+           id="tspan10103">Создание закрытого ключа клиента:</tspan></text>
     </a>
     <rect
        ry="19.999998"
@@ -8686,7 +8685,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          y="330"
          x="120"
-         sodipodi:role="line">          -out postgresql.csr</tspan><tspan
+         sodipodi:role="line">          -out postgresql.sсr</tspan><tspan
          y="410"
          x="120"
          sodipodi:role="line"
@@ -8712,7 +8711,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Настройка клиента"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <a
        transform="translate(0,4e-6)"
        id="a18087"
