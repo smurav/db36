@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68942911"
-     inkscape:cx="788.88693"
-     inkscape:cy="487.31112"
+     inkscape:zoom="0.4875"
+     inkscape:cx="238.5667"
+     inkscape:cy="307.01301"
      inkscape:document-units="px"
-     inkscape:current-layer="g5137"
+     inkscape:current-layer="g4928"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1030"
@@ -3299,47 +3299,41 @@
          x="80"
          y="204">параметр <tspan
    style="fill:#aa0000"
-   id="tspan5207">param </tspan>типа <tspan
+   id="tspan5207">position </tspan>типа <tspan
    id="tspan5211"
    style="fill:#aa0000"> int</tspan> и возвращает значение типа <tspan
    style="fill:#aa0000"
-   id="tspan5258">boolean</tspan>. </tspan><tspan
+   id="tspan5258">text</tspan>. </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="258"
+         id="tspan4951" /><tspan
+         sodipodi:role="line"
+         x="80"
+         y="312"
          id="tspan5230">Функция должна объявить переменную <tspan
    style="fill:#aa0000"
    id="tspan5291">var</tspan> и присвоить ей </tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="312"
-         id="tspan5248">значение из <tspan
-   style="fill:#aa0000"
-   id="tspan5289">10</tspan>й строки в столбце <tspan
-   style="fill:#aa0000"
-   id="tspan5250">val</tspan> таблицы <tspan
-   style="fill:#aa0000"
-   id="tspan5252">table4</tspan>.</tspan><tspan
-         sodipodi:role="line"
-         x="80"
          y="366"
-         id="tspan5232">Если значение параметра <tspan
+         id="tspan5248">значение из той строки таблицы <tspan
    style="fill:#aa0000"
-   id="tspan5272">param</tspan> будет <tspan
-   style="fill:#aa0000"
-   id="tspan5274">больше</tspan> значения переменной, </tspan><tspan
+   id="tspan5252">table4</tspan>, номер которой передан в </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="420"
-         id="tspan5264">функция должна вернуть <tspan
-   style="fill:#aa0000"
-   id="tspan5270">true</tspan>. В противном случае функция должна </tspan><tspan
+         id="tspan4945">качестве параметра.</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="474"
-         id="tspan5266">вернуть <tspan
+         id="tspan4953" /><tspan
+         sodipodi:role="line"
+         x="80"
+         y="528"
+         id="tspan5266">Функция должна вернуть значение переменной <tspan
    style="fill:#aa0000"
-   id="tspan5268">false</tspan>.</tspan></text>
+   id="tspan4965">var</tspan> в виде текста.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -3824,10 +3818,6 @@
          id="path8421"
          inkscape:connector-curvature="0" />
       <path
-         d="m 297.46875,307.34375 4.90625,0 0,-17.82813 -5.28125,1.1875 0,-2.875 5.25,-1.15625 3.15625,0 0,20.67188 4.84375,0 0,2.65625 -12.875,0 0,-2.65625"
-         id="path8423"
-         inkscape:connector-curvature="0" />
-      <path
          d="m 120.73438,318.67187 17.79687,0 0,2.65625 -7.29688,0 0,20.67188 -3.17187,0 0,-20.67188 -7.32812,0 0,-2.65625"
          id="path8425"
          inkscape:connector-curvature="0" />
@@ -3898,10 +3888,6 @@
       <path
          d="m 451.46875,339.34375 4.90625,0 0,-17.82813 -5.28125,1.1875 0,-2.875 5.25,-1.15625 3.15625,0 0,20.67188 4.84375,0 0,2.65625 -12.875,0 0,-2.65625"
          id="path8457"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 470.71875,339.34375 4.90625,0 0,-17.82813 -5.28125,1.1875 0,-2.875 5.25,-1.15625 3.15625,0 0,20.67188 4.84375,0 0,2.65625 -12.875,0 0,-2.65625"
-         id="path8459"
          inkscape:connector-curvature="0" />
       <path
          d="m 499.73437,318.67187 0,8.67188 -2.71875,0 0,-8.67188 2.71875,0 m -5.98437,0 0,8.67188 -2.71875,0 0,-8.67188 2.71875,0"
@@ -4208,10 +4194,6 @@
          id="path8611"
          inkscape:connector-curvature="0" />
       <path
-         d="m 355.21875,499.34375 4.90625,0 0,-17.82813 -5.28125,1.1875 0,-2.875 5.25,-1.15625 3.15625,0 0,20.67188 4.84375,0 0,2.65625 -12.875,0 0,-2.65625"
-         id="path8613"
-         inkscape:connector-curvature="0" />
-      <path
          d="m 384.07812,477.71875 c -1.38542,2.37502 -2.42188,4.74481 -3.10937,7.10937 -0.67709,2.35419 -1.01563,4.72918 -1.01563,7.125 0,2.38543 0.33854,4.76043 1.01563,7.125 0.68749,2.36459 1.72395,4.74479 3.10937,7.14063 l -2.5,0 c -1.57292,-2.47917 -2.7448,-4.89062 -3.51562,-7.23438 -0.77084,-2.35416 -1.15626,-4.6979 -1.15625,-7.03125 -10e-6,-2.3229 0.38541,-4.66144 1.15625,-7.01562 0.77082,-2.35415 1.9427,-4.76039 3.51562,-7.21875 l 2.5,0"
          id="path8615"
          inkscape:connector-curvature="0" />
@@ -4284,14 +4266,58 @@
          id="path8649"
          inkscape:connector-curvature="0" />
       <path
-         d="m 759.46875,499.34375 4.90625,0 0,-17.82813 -5.28125,1.1875 0,-2.875 5.25,-1.15625 3.15625,0 0,20.67188 4.84375,0 0,2.65625 -12.875,0 0,-2.65625"
-         id="path8651"
-         inkscape:connector-curvature="0" />
-      <path
          d="m 782.34375,497.26562 3.9375,0 0,3.23438 -3.07813,5.98437 -2.40625,0 1.54688,-5.98437 0,-3.23438 m -0.20313,-11.875 3.9375,0 0,4.73438 -3.9375,0 0,-4.73438"
          id="path8653"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       sodipodi:linespacing="120%"
+       id="text4967"
+       y="309.98438"
+       x="293.65625"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Light"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
+         y="309.98438"
+         x="293.65625"
+         id="tspan4969"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Light"
+       x="466.85156"
+       y="341.98438"
+       id="text5001"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan5003"
+         x="466.85156"
+         y="341.98438"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">3</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5005"
+       y="501.98438"
+       x="351.35156"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Light"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
+         y="501.98438"
+         x="351.35156"
+         id="tspan5007"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Light"
+       x="755.60156"
+       y="501.98438"
+       id="text5009"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan5011"
+         x="755.60156"
+         y="501.98438"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">3</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4964,7 +4990,7 @@
    id="tspan4944"
    style="fill:#aa0000">val real</tspan> - значение из соответствующего столбца таблицы <tspan
    id="tspan4946"
-   style="fill:#aa0000">table13</tspan></tspan><tspan
+   style="fill:#aa0000">table15</tspan></tspan><tspan
          id="tspan4954"
          y="390"
          x="80"
