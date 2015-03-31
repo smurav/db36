@@ -327,7 +327,7 @@
       <task>1</task>
       <task>0</task>
       <task>1</task>
-      <penalty comment='Повтор (Михеев)'>5</penalty>
+      <!--penalty comment='Повтор (Михеев)'>5</penalty-->
     </student>
     <student name="Штанько Александр Николаевич" login="Shtanko-mephi">
       <task>1</task>
@@ -604,20 +604,20 @@
       <task>0</task>
       <task>1</task>
     </student>
-    <student name="Полстянкин Константин" login="">
+    <student name="Полстянкин Константин" login="kostpolst_2">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
