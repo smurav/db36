@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4875"
-     inkscape:cx="238.5667"
+     inkscape:cx="8.8231103"
      inkscape:cy="307.01301"
      inkscape:document-units="px"
-     inkscape:current-layer="g4928"
+     inkscape:current-layer="g5197"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
+     inkscape:window-height="1055"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -3299,7 +3299,7 @@
          x="80"
          y="204">параметр <tspan
    style="fill:#aa0000"
-   id="tspan5207">position </tspan>типа <tspan
+   id="tspan5207">pos </tspan>типа <tspan
    id="tspan5211"
    style="fill:#aa0000"> int</tspan> и возвращает значение типа <tspan
    style="fill:#aa0000"
@@ -3323,7 +3323,7 @@
          sodipodi:role="line"
          x="80"
          y="420"
-         id="tspan4945">качестве параметра.</tspan><tspan
+         id="tspan4945">качестве параметра (нумерация начинается с 1).</tspan><tspan
          sodipodi:role="line"
          x="80"
          y="474"
