@@ -33,7 +33,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <td align="center"><xsl:value-of select="position()"/></td>
       <td><xsl:value-of select="@name"/></td>
       <xsl:choose>
-        <xsl:when test="$result + $bonus &lt;'16' + $penalty">
+        <xsl:when test="$result + $bonus &lt;'15.5' + $penalty">
           <td bgcolor="#ff0000"><xsl:value-of select="$result"/>
             <xsl:if test="bonus&gt;0">
               <xsl:text>+</xsl:text><xsl:value-of select="$bonus"/>
