@@ -2,25 +2,25 @@
 <test>
   <group id="К6-361">
     <student name="Анисимова Наталья" login="Anisimova-Nataly">
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
       <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -83,16 +83,16 @@
       <task>0</task>
     </student>
     <student name="Джелоухова Алёна" login="">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -110,52 +110,52 @@
       <task>0</task>
     </student>
     <student name="Заманов Айнур" login="">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>0.5</task>
       <task>0</task>
     </student>
     <student name="Михеев Денис" login="">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -164,25 +164,25 @@
       <task>0</task>
     </student>
     <student name="Пивоваров Александр" login="Alexander-Pivovarov">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -190,12 +190,12 @@
       <task>0</task>
       <task>0</task>
     </student>
-    <student name="Самсонов Артём" login="">
+    <student name="Семенихин Дмитрий" login="">
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -299,19 +299,19 @@
       <task>0</task>
     </student>
     <student name="Титоренко Алексей" login="atitorenko">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -464,24 +464,24 @@
       <task>0</task>
     </student>
     <student name="Ерохин Владимир" login="Ierokhin94">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
