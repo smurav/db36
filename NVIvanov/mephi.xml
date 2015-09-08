@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<university name="НИЯУ МИФИ">
+	<title>Национальный исследовательский ядерный университет "МИФИ"</title>
+	<faculty letter="K">
+		<title>Факультет кибернетики и информационной безопасности</title>
+		<department number="36">
+			<title>Информационные системы и технологии</title>
+			<group name="K05-361">
+				<student name="Николай Вячеславович Иванов" number="2"/>
+			</group>
+		</department>
+	</faculty>
+</university>
