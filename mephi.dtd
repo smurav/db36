@@ -1,0 +1,13 @@
+<!ELEMENT university (faculty+)>
+<!ELEMENT faculty (department+)>
+<!ELEMENT department (group+)>
+<!ELEMENT group (student+)>
+<!ELEMENT student EMPTY>
+<!ATTLIST university 
+    name CDATA #REQUIRED 
+    found CDATA #IMPLIED
+>
+<!ATTLIST faculty name ID #REQUIRED>
+<!ATTLIST department number ID #REQUIRED>
+<!ATTLIST group number ID #REQUIRED>
+<!ATTLIST student name ID #REQUIRED>
