@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mephi SYSTEM "mephi.xml">
-<mephi>
-    <faculty name="K">
-        <department name="Информационные системы и технологии"
-                    number="36">
-            <group name="K05-361">
-                <student name="Николай Вячеславович Иванов"/>
-            </group>
-        </department>
-    </faculty>
-</mephi>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<МИФИ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="mephi.xsd">
+    <факультет>
+        <название>K</название>
+        <кафедра>
+            <номер>36</номер>
+            <группа>
+                <название>K05-361</название>
+                <студент name="Николай Иванов" born="1996" nomer_zachotkee="321205"/>
+            </группа>
+        </кафедра>
+    </факультет>
+</МИФИ>

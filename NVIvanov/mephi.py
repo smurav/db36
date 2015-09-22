@@ -11,14 +11,16 @@ def get_property_by_name(node, name):
             return node_property.content
 
 
-def validate(xml_file, dtd_file):
-    doc = libxml2.parseFile(xml_file)
-    dtd = libxml2.parseDTD(None, dtd_file)
-    ctxt = libxml2.newValidCtxt()
-    ret = doc.validateDtd(ctxt, dtd)
-    dtd.freeDtd()
-    doc.freeDoc()
-    return ret
+def validate(xml_file, xsd_file):
+    ctxt = libxml2.schemaNewParserCtxt(xsd_file)
+    schema = ctxt.schemaParse()
+    validationCtxt = schema.schemaNewValidCtxt()
+    res = validationCtxt.schemaValidateFile(xml_file, 0)
+    if res != 0:
+        print("VALIDATION_ERROR")
+    else:
+        print("VALIDATED")
+        parse_xml(xml_file)
 
 
 def parse_xml(xml_file):
@@ -27,20 +29,34 @@ def parse_xml(xml_file):
     faculty = mephi.children
     while faculty is not None:
         if faculty.type == "element":
-            print(get_property_by_name(faculty, "name"))
+            title = faculty.children
+            while title is not None:
+                if title.type == "element":
+                    print(title.content)
+                    break
+                title = title.next
             department = faculty.children
             while department is not None:
-                if department.type == "element":
-                    print("  " + get_property_by_name(department, "name") + "(" + get_property_by_name(department,
-                                                                                                       "number") + ")")
+                if department.type == "element" and (department.name == "department" or department.name == "кафедра"):
+                    number = department.children
+                    while number is not None:
+                        if number.type == "element":
+                            print(number.content)
+                            break
+                        number = number.next
                     group = department.children
                     while group is not None:
-                        if group.type == "element":
-                            print("    " + get_property_by_name(group, "name"))
+                        if group.type == "element" and (group.name == "group" or group.name == "группа"):
+                            title = group.children
+                            while title is not None:
+                                if title.type == "element":
+                                    print(title.content)
+                                    break
+                                title = title.next
                             student = group.children
                             while student is not None:
-                                if student.type == "element":
-                                    print("      " + get_property_by_name(student, "name"))
+                                if student.type == "element" and (student.name == "student" or student.name == "студент"):
+                                    print(get_property_by_name(student, "name"))
                                 student = student.next
                         group = group.next
                 department = department.next
@@ -49,19 +65,18 @@ def parse_xml(xml_file):
 
 
 def get_option_parser():
-    op = optparse.OptionParser(description=U"Проверка на соответствие DTD",
+    op = optparse.OptionParser(description=U"Проверка на соответствие XSD",
                                prog="dtd", version="0.1", usage=U"%prog")
     op.add_option("-x", "--xml", dest="xml", help=U"XML документ", metavar="XML_FILE")
-    op.add_option("-d", "--dtd", dest="dtd", help=U"DTD документ", metavar="DTD_FILE")
+    op.add_option("-d", "--xsd", dest="xsd", help=U"XSD документ", metavar="XSD_FILE")
     return op
 
 
 def main(argv):
     op = get_option_parser()
     options, arguments = op.parse_args()
-    if options.xml and options.dtd:
-        validate(options.xml, options.dtd)
-        parse_xml(options.xml)
+    if options.xml and options.xsd:
+        validate(options.xml, options.xsd)
     else:
         op.print_help()
 
