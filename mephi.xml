@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE note SYSTEM "mephi.dtd">
+
+<mephi>
+	<faculty name="Кибернетика и информационная безопасность">
+		<department name="Информационные системы и технологии" number="36">
+			<group name="K05-362">
+				<student name="Меркель Александра">Меркель Александра</student>
+				
+			</group>
+		</department>
+	</faculty>
+</mephi>
+

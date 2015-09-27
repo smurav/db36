@@ -11,8 +11,8 @@ def printing(root):
 			printing(child)
 		child = child.next
 	sys.stdout.write(child.content)
-	print	
-
+	#print
+	
 #open file to work with it
 def open(xml_file):
 	doc = libxml2.parseFile(xml_file)
