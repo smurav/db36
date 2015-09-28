@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE note SYSTEM "mephi.dtd">
+<model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./mephi.xsd" >
 <university name="МИФИ" found="1942">
 	<faculty name="КиБ">
-		<department name="36">
+		<department number="36">
 			<group name="К05-361">
 				<student name="Чкадуа Антон Витальевич"/>
 			</group>
