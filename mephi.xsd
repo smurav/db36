@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:complexType name="universityInfo">
+		<xs:attribute name="name" type="xs:string"/>
+		<xs:attribute name="found" type="xs:positiveInteger"/>
+	</xs:complexType>
+
+	<xs:complexType name="man">
+		<xs:attribute name="name" type="xs:string"/>
+		<
+	<xs:element name="university" type="universityInfo">
+		<xs:complexType>
+			<xs:element name="faculty">
+				<xs:attribute name="name" type="xs:string" use="required"/>
+				<xs:whitespace value="preserved"/>
+				<xs:complexType>
+					<xs:element name="department">
+						<xs:attribute name="number" type="xs:positiveInteger" use="required"/>
+						<xs:complexType>
+							<xs:element name="group">
+								<xs:attribute name="name" use="required"/>
+								<xs:complexType>
+									<xs:element name="student" minOccurs="0" maxOccurs="25">
+										<xs:attribute name="name"/>
+									</xs:element>
+								</xs:complexType>
+							</xs:element>
+						</xs:complexType>
+					</xs:element>
+				</xs:complexType>
+			</xs:element>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
