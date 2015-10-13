@@ -5,6 +5,7 @@ import sys
 import libxml2
 import optparse
 
+
 def get_property_by_name(node, name):
     for node_property in node.properties:
         if node_property.type == 'attribute' and node_property.name == name:
@@ -73,22 +74,53 @@ def get_option_parser():
 
 
 def xpath(xml_file, str1):
-    doc = libxml2.parseFile(xml_file)
-    ctxt = doc.xpathNewContext()
-    result = ctxt.xpathEval(str1)
-    for item in result:
-        print(item.content)
-    print
-    ctxt.xpathFreeContext()
-    doc.freeDoc()
+    result = xml_file.xpathEval(str1)
+    return result
+
+
+def get_response_size(array):
+    return len(array)
+
+
+def output_response(response):
+    if isinstance(response, list):
+        for item in response:
+            print(item.content)
+    else:
+        print(response)
 
 
 def main(argv):
     op = get_option_parser()
     options, arguments = op.parse_args()
     if options.xml and options.xsd:
-        xpath(options.xml, "/МИФИ/факультет/кафедра/title")
-        xpath(options.xml, "/МИФИ/факультет/каферда/группа/student[1]")
+        doc = libxml2.parseFile(options.xml)
+        ctxt = doc.xpathNewContext()
+        output_response(xpath(doc, "//department/title"))
+        output_response(xpath(doc, "//student[@entered > 2000]/@name"))
+        output_response(xpath(doc, "//department[./group/student/@name = 'Nikolay Ivanov']/title"))
+        output_response(get_response_size(xpath(doc, "//group[./title = 'K05-361']/student")))
+        output_response(get_response_size(xpath(doc, "//department[./number = '36']/group/student")))
+
+        maximum = 0
+        minimum = 0
+        students_min = 100
+        students_max = 0
+        for i in range(1, get_response_size(xpath(doc, "//department"))):
+            path = xpath(doc, "//department[%s]/group/student" % i)
+            if students_max < get_response_size(path):
+                students_max = get_response_size(path)
+                maximum = i
+            if students_min > get_response_size(path):
+                students_min = get_response_size(path)
+                minimum = i
+        output_response(xpath(doc, "//department[%s]/group/student" % minimum))
+        output_response(xpath(doc, "//department[%s]/group/student" % maximum))
+
+        output_response(xpath(doc, "//faculty[./department[./number = '36']]/title"))
+
+        ctxt.xpathFreeContext()
+        doc.freeDoc()
     else:
         op.print_help()
 
