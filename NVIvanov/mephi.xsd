@@ -33,6 +33,7 @@
 
     <xs:complexType name="department">
         <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
             <xs:element ref="number"/>
             <xs:element ref="group" minOccurs="1"/>
         </xs:sequence>
@@ -64,6 +65,7 @@
         <xs:complexContent>
             <xs:extension base="person">
                 <xs:attribute name="nomer_zachotkee"/>
+                <xs:attribute name = "entered" type="number"/>
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>

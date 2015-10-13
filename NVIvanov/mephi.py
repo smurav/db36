@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import sys
 import libxml2
 import optparse
-
 
 def get_property_by_name(node, name):
     for node_property in node.properties:
@@ -72,11 +72,23 @@ def get_option_parser():
     return op
 
 
+def xpath(xml_file, str1):
+    doc = libxml2.parseFile(xml_file)
+    ctxt = doc.xpathNewContext()
+    result = ctxt.xpathEval(str1)
+    for item in result:
+        print(item.content)
+    print
+    ctxt.xpathFreeContext()
+    doc.freeDoc()
+
+
 def main(argv):
     op = get_option_parser()
     options, arguments = op.parse_args()
     if options.xml and options.xsd:
-        validate(options.xml, options.xsd)
+        xpath(options.xml, "/МИФИ/факультет/кафедра/title")
+        xpath(options.xml, "/МИФИ/факультет/каферда/группа/student[1]")
     else:
         op.print_help()
 
