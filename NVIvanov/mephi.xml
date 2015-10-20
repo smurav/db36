@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<mephi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mephi SYSTEM "mephi.dtd">
+<mephi name="НИЯУ МИФИ"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="mephi.xsd">
-    <faculty>
-        <title>K</title>
-        <department>
-            <title>Информационные системы и технологии</title>
-            <number>36</number>
-            <group>
-                <title>K05-361</title>
-                <student name="Nikolay Ivanov" born="1996" nomer_zachotkee="321205"
-                        entered="2013"/>
+    <faculty name="Кибернетики и информационной безопасности" short_name="КиБ">
+        <department number="36">
+            <group name="К05-361">
+                <student name="Чкадуа Антон Витальевич" entered="2013"/>
+            </group>
+            <group name="К05-362">
+                <student name="Иванов Иван Иванович" entered="2013"/>
             </group>
         </department>
     </faculty>

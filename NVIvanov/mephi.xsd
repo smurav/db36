@@ -10,33 +10,25 @@
         <xs:all>
             <xs:element ref="faculty"/>
         </xs:all>
+        <xs:attribute name="name" type="xs:string"/>
     </xs:complexType>
 
     <xs:complexType name="faculty">
         <xs:sequence>
-            <xs:element ref="title"/>
             <xs:element ref="department" maxOccurs="10"/>
         </xs:sequence>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+        <xs:attribute name="short_name" type="xs:string" use="optional"/>
     </xs:complexType>
-
-    <xs:element name="title" type="title"/>
-    <xs:element name="название" substitutionGroup="title"/>
-
-    <xs:simpleType name="title">
-        <xs:restriction base="xs:string">
-                        <xs:pattern value="[A-Za-z0-9-]*"/>
-                    </xs:restriction>
-    </xs:simpleType>
 
     <xs:element name="department" type="department"/>
     <xs:element name="кафедра" substitutionGroup="department"/>
 
     <xs:complexType name="department">
         <xs:sequence>
-            <xs:element name="title" type="xs:string"/>
-            <xs:element ref="number"/>
-            <xs:element ref="group" minOccurs="1"/>
+            <xs:element ref="group" minOccurs="1" maxOccurs="100"/>
         </xs:sequence>
+        <xs:attribute name="number" type="number"/>
     </xs:complexType>
 
     <xs:element name="number" type="number"/>
@@ -44,8 +36,8 @@
 
     <xs:simpleType name="number">
         <xs:restriction base="xs:positiveInteger">
-                        <xs:fractionDigits value="2"/>
-                    </xs:restriction>
+            <xs:fractionDigits value="2"/>
+        </xs:restriction>
     </xs:simpleType>
 
     <xs:element name="group" type="group"/>
@@ -53,9 +45,9 @@
 
     <xs:complexType name="group">
         <xs:sequence>
-            <xs:element ref="title"/>
             <xs:element minOccurs="1" ref="student"/>
         </xs:sequence>
+        <xs:attribute name="name" type="xs:string"/>
     </xs:complexType>
 
     <xs:element name="student" type="student"/>
@@ -64,8 +56,7 @@
     <xs:complexType name="student">
         <xs:complexContent>
             <xs:extension base="person">
-                <xs:attribute name="nomer_zachotkee"/>
-                <xs:attribute name = "entered" type="number"/>
+                <xs:attribute name = "entered" type="number" use="optional"/>
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>
