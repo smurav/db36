@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="mephi" type="university"/>
+    <xs:element name="МИФИ" substitutionGroup="mephi"/>
+
+    <xs:element name="faculty" type="faculty"/>
+    <xs:element name="факультет" substitutionGroup="faculty"/>
+
+    <xs:complexType name="university">
+        <xs:all>
+            <xs:element ref="faculty"/>
+        </xs:all>
+        <xs:attribute name="name" type="xs:string"/>
+    </xs:complexType>
+
+    <xs:complexType name="faculty">
+        <xs:sequence>
+            <xs:element ref="department" maxOccurs="10"/>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+        <xs:attribute name="short_name" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+    <xs:element name="department" type="department"/>
+    <xs:element name="кафедра" substitutionGroup="department"/>
+
+    <xs:complexType name="department">
+        <xs:sequence>
+            <xs:element ref="group" minOccurs="1" maxOccurs="100"/>
+        </xs:sequence>
+        <xs:attribute name="number" type="number"/>
+    </xs:complexType>
+
+    <xs:element name="number" type="number"/>
+    <xs:element name="номер" substitutionGroup="number"/>
+
+    <xs:simpleType name="number">
+        <xs:restriction base="xs:positiveInteger">
+            <xs:fractionDigits value="2"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="group" type="group"/>
+    <xs:element name="группа" substitutionGroup="group"/>
+
+    <xs:complexType name="group">
+        <xs:sequence>
+            <xs:element minOccurs="1" ref="student"/>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string"/>
+    </xs:complexType>
+
+    <xs:element name="student" type="student"/>
+    <xs:element name="студент" substitutionGroup="student"/>
+
+    <xs:complexType name="student">
+        <xs:complexContent>
+            <xs:extension base="person">
+                <xs:attribute name = "entered" type="number" use="optional"/>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="person">
+        <xs:attribute name="name" type="xs:string"/>
+        <xs:attribute name="born" type="xs:integer"/>
+    </xs:complexType>
+</xs:schema>

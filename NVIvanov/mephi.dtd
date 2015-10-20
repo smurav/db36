@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT mephi (faculty+)>
+<!ATTLIST mephi name CDATA #REQUIRED>
+
+<!ELEMENT faculty (department+)>
+<!ATTLIST faculty
+        name CDATA #REQUIRED
+        short_name CDATA #IMPLIED>
+
+<!ELEMENT department (group+)>
+<!ATTLIST department number CDATA #REQUIRED>
+
+<!ELEMENT group (student+)>
+<!ATTLIST group name CDATA #REQUIRED>
+
+<!ELEMENT student EMPTY>
+<!ATTLIST student name CDATA #REQUIRED>
