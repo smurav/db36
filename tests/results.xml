@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test>
-  <group id="К6-361">
-    <student name="Анисимова Наталья" login="Anisimova-Nataly">
-      <task>1</task>
-      <task>0</task>
+  <group id="К5-361">
+    <student name="Иванов Николай" login="NVIvanov">
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0.5</task>
       <task>0.5</task>
       <task>1</task>
@@ -23,13 +21,41 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
       <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
     </student>
-    <student name="Артемьев Дмитрий" login="DmitriArtemyev">
+    <student name="Чкадуа Антон" login="AVChkadua">
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+    </student>
+    <!--student name="Артемьев Дмитрий" login="DmitriArtemyev">
       <task>1</task>
       <task>0</task>
       <task>0</task>
@@ -358,10 +384,37 @@
       <task>1</task>
       <bonus comment="Использование перечислений в схеме">1</bonus>
       <bonus comment="Работающая схема">3</bonus>
-    </student>
+    </student-->
   </group>
-  <group id="К6-362">
-    <student name="Ахметсафин Владислав" login="BestSummerEU">
+  <group id="К5-362">
+    <student name="Сашин Александр" login="mumzik">
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+    </student>
+    <!--student name="Ахметсафин Владислав" login="BestSummerEU">
       <task>1</task>
       <task>1</task>
       <task>1</task>
@@ -832,6 +885,6 @@
       <task>0.5</task>
       <task>0</task>
       <task>1</task>
-    </student>
+    </student-->
   </group>
 </test>
