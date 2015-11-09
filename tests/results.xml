@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test>
   <group id="К5-361">
+    <student name="Брагин Дмитрий" login="Bragaman">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+    </student>
     <student name="Иванов Николай" login="NVIvanov">
       <task>1</task>
       <task>1</task>
@@ -27,6 +54,114 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
+    </student>
+    <student name="Казарин Дмитрий" login="DKazarin">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+    </student>
+    <student name="Науменко Алексей" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+    </student>
+    <student name="Самойленко Вадим" login="SamoylenkoVadim">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+    </student>
+    <student name="Хлебников Николай" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
     </student>
     <student name="Чкадуа Антон" login="AVChkadua">
       <task>1</task>
@@ -55,16 +190,7 @@
       <task>0</task>
       <task>1</task>
     </student>
-    <!--student name="Артемьев Дмитрий" login="DmitriArtemyev">
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+    <student name="Шелудько Сергей" login="SSheludko">
       <task>1</task>
       <task>1</task>
       <task>1</task>
@@ -78,20 +204,20 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>1</task>
     </student>
-    <student name="Бубенко Кирилл" login="KiBmephi">
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
+    <student name="Юлдашев Роман" login="RomanYuldashev">
       <task>1</task>
       <task>1</task>
       <task>1</task>
@@ -100,293 +226,161 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>1</task>
     </student>
-    <student name="Джелоухова Алёна" login="">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Заманов Айнур" login="">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
-    </student>
-    <student name="Михеев Денис" login="">
-      <task>1</task>
-      <task>0</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Пивоваров Александр" login="Alexander-Pivovarov">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Самсонов Артём" login="">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Соловьёва Анна" login="SolovyovaAnya">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
-    </student>
-    <student name="Суханова Любовь" login="Lubov-Sukhanova">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Тармазаков Евгений" login="TarmazakovEvgeny">
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
-    </student>
-    <student name="Титоренко Алексей" login="atitorenko">
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Штанько Александр Николаевич" login="Shtanko-mephi">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student-->
   </group>
   <group id="К5-362">
+    <student name="Артамонова Александра" login="a-alice">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+    </student>
+    <student name="Капитоненко Александр" login="Kapiton42">
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+    </student>
+    <student name="Крымовский Антон" login="toshego">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+    </student>
+    <student name="Меркель Александра" login="AlexandraMerkel">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+    </student>
+    <student name="Порошкина Валерия" login="PoroshkinaVV">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+    </student>
     <student name="Сашин Александр" login="mumzik">
       <task>1</task>
       <task>0</task>
@@ -414,239 +408,34 @@
       <task>0</task>
       <task>1</task>
     </student>
-    <!--student name="Ахметсафин Владислав" login="BestSummerEU">
+    <student name="Сидорова Анастасия" login="">
       <task>1</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
       <task>1</task>
-      <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Галкин Александр" login="alex609">
       <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Головко Ирина" login="">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Джумайло Евгений" login="zhekon">
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Ерохин Владимир" login="Ierokhin94">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-    </student>
-    <student name="Каталкина Виктория" login="">
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
       <task>0</task>
     </student>
-    <student name="Левин Андрей" login="Levin-Andrei">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Молочков Ярослав" login="molochkov">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Моряшова Виктория" login="MorVi">
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
+    <student name="Турилов Максим" login="maximturilov">
       <task>1</task>
       <task>0</task>
       <task>0</task>
@@ -659,43 +448,6 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment='Использование перечислений в схеме'>1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Полстянкин Константин" login="">
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-    </student>
-    <student name="Пурик Яна" login="def4onka ">
       <task>1</task>
       <task>1</task>
       <task>1</task>
@@ -708,27 +460,10 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
       <task>1</task>
     </student>
-    <student name="Разживин Никита" login="nrazzhivin">
+    <student name="Черепанов Алексей" login="">
       <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
       <task>1</task>
       <task>1</task>
       <task>0</task>
@@ -736,29 +471,25 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
       <task>0.5</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>0.5</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
     </student>
-    <student name="Редюк Сергей" login="Sergred">
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0</task>
+    <student name="Ярыгин Павел" login="yaryginpavel">
       <task>1</task>
       <task>1</task>
       <task>1</task>
@@ -767,124 +498,23 @@
       <task>1</task>
       <task>1</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
       <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>1</task>
     </student>
-    <student name="Рябов Пётр" login="rain8841">
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">3</bonus>
-    </student>
-    <student name="Скок Дарья" login="dariaskok">
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-    </student>
-    <student name="Стрекалов Олег" login="">
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-    </student>
-    <student name="Чайковская Александра" login="aschai">
-      <task>1</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>0</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>1</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>0.5</task>
-      <task>0</task>
-      <task>1</task>
-    </student-->
   </group>
 </test>
